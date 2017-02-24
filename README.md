@@ -1,2 +1,2 @@
 # Oxygen_Not_Included-zh
-Oxygen_Not_Included 中文化
+Oxygen Not Included 中文化
