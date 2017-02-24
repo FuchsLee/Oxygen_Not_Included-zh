@@ -1145,17 +1145,17 @@ msgstr "该电线状态良好"
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
 msgid "Functioning"
-msgstr ""
+msgstr "工作中"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
 msgid "This building is working as intended"
-msgstr ""
+msgstr "该设施正常工作"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
 msgid "Every additional monitor multiplies the research potential exponentially."
-msgstr ""
+msgstr "每个额外的显示器会使研究潜力指数增长"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
