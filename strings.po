@@ -1160,62 +1160,62 @@ msgstr "每个额外的显示器会使研究潜力指数增长"
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
 msgid "Can be worked by Duplicants to conduct <style=\"research\">Intermediary Research</style> and unlock new technologies."
-msgstr ""
+msgstr "复制人可以进行<style=\"research\">中级研究</style>并解锁新科技"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
 msgid "Super Computer"
-msgstr ""
+msgstr "超级电脑"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC"
 msgid "You'll know it's on when the little flag is wiggling."
-msgstr ""
+msgstr "旗子飘扬时你就知道它打开了"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
 msgid "Cools the <style=\"gas\">Gas</style> piped through it, but outputs <style=\"heat\">Heat</style> in its immediate vicinity."
-msgstr ""
+msgstr "冷却流经的<style=\"gas\">气体</style>，但会在周围放<style=\"heat\">热</style> "
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
 msgid "Thermo Regulator"
-msgstr ""
+msgstr "温度调节器"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
 msgid "Oh! Citrus scented!"
-msgstr ""
+msgstr "哦！柑橘的芳香！"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
 msgid "Reduces the threat of <style=\"disease\">Disease</style> by filtering <style=\"gas\">Contaminated Oxygen</style> out of the air."
-msgstr ""
+msgstr 通过过滤<style=\"gas\">被污染的氧气</style>"减少<style=\"disease\">疾病</style>的威胁 "
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
 msgid "Air Deodorizer"
-msgstr ""
+msgstr "空气过滤器"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
 msgid "The resulting algae still looks pretty slimy, to be honest."
-msgstr ""
+msgstr "老实说，生成的藻类看起来仍然黏糊糊的"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
 msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>."
-msgstr ""
+msgstr "将<style=\"misc\">黏液</style>转化为<style=\"misc\">藻类</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
 msgid "Bio Distiller"
-msgstr ""
+msgstr "生物蒸馏器"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
 msgid "Algae colony. Duplicant colony.\nWe're more similar than we are different."
-msgstr ""
+msgstr "一群藻类，一群复制人。\n比起不同，我们的相同点要更多。"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
