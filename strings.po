@@ -29,7 +29,7 @@ msgstr "需要翻动"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
-msgstr "堆肥需要被不时翻动来制造 <style=\"solid\">肥料</style>"
+msgstr "堆肥需要周期性地被翻动来制造 <style=\"solid\">肥料</style>"
 "
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
@@ -275,7 +275,7 @@ msgstr "无制造队列"
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP"
 msgid "Queue a recipe to begin fabrication"
-msgstr "将食谱放入队列来开始制造"
+msgstr "将配方放入队列来开始制造"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME"
@@ -995,12 +995,12 @@ msgstr "该容器储存了{Stored} kg材料"
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
 msgid "{FlushesRemaining} \"Visits\" Remaining"
-msgstr "剩余{FlushesRemaining}次 \"光临\""
+msgstr "剩余{FlushesRemaining}次 \"\""
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
 msgid "This amenity can handle {FlushesRemaining} more \"visits\" before needing maintenance"
-msgstr "该福利设施在需要保养前可以再接受{FlushesRemaining}次\"光临\""
+msgstr "该福利设施在需要保养前可以再接受{FlushesRemaining}次\“光临\”"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
@@ -1155,12 +1155,12 @@ msgstr "该设施正常工作"
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
 msgid "Every additional monitor multiplies the research potential exponentially."
-msgstr "每个额外的显示器都会使研究潜力指数型增长。"
+msgstr "每增加一个显示器都会使研究潜力指数型增长。"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
 msgid "Can be worked by Duplicants to conduct <style=\"research\">Intermediary Research</style> and unlock new technologies."
-msgstr "复制人可以进行<style=\"research\">中级研究</style>并解锁新科技。"
+msgstr "复制人可以进行<style=\"research\">中级研究</style>解锁新科技。"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
@@ -1320,12 +1320,12 @@ msgstr "粗鄙之物"
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC"
 msgid "This light imitates the Duplicants' natural aboveground habitat.\nSort of. Maybe."
-msgstr "这光模仿了复制人们的陆上自然栖息地。\n差不多吧。也许。"
+msgstr "这光线模仿了复制人们在陆上的自然栖息地。\n差不多吧。也许。"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
 msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
-msgstr "改善<style=\"decor\">装饰度</style> 并通过提供<style=\"light\">光</style>来减少<style=\"stress\">压力</style>。"
+msgstr "改善<style=\"decor\">装饰度</style> 并通过提供<style=\"light\">光线</style>来减少<style=\"stress\">压力</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
@@ -1385,7 +1385,7 @@ msgstr "这群人一起吃喝，也一起拉撒。"
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
 msgid "Gives Duplicants a place to eat and reduces <style=\"stress\">Stress</style>.\n\nDuplicants will automatically eat at their assigned table when hungry."
-msgstr "给复制人们一个吃饭的地方，减少他们的<style=\"stress\">压力</style>。\n\n饥饿时复制人们会自动在指定的餐桌吃饭。"
+msgstr "给复制人们一个吃饭的地方，减少他们的<style=\"stress\">压力</style>。\n\n复制人们饥饿时会自动在指定的餐桌吃饭。"
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
@@ -1475,7 +1475,7 @@ msgstr "这头进去的是水，那头出来的是爱的供氧。"
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT"
 msgid "Produces a steady supply of <style=\"oxygen\">Oxygen</style> using piped in <style=\"liquid\">Water</style>.\n\nBecomes idle when the room enters maximum air pressure range."
-msgstr "用管道里的 <style=\"liquid\">水</style>来持续产生<style=\"oxygen\">氧气</style> 。n\n当房间进入最大气压时进入闲置状态。"
+msgstr "用管道里的 <style=\"liquid\">水</style>来持续产生<style=\"oxygen\">氧气</style> 。\n\n当房间进入最大气压时进入闲置状态。"
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
@@ -1515,12 +1515,12 @@ msgstr "肥料机"
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC"
 msgid "Now your Duplicants can read all those books they don't have!"
-msgstr "现在你的复制人们可以读那些没有的书了。"
+msgstr "现在你的复制人们可以读那些并不存在的书了！"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT"
 msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
-msgstr "改善 <style=\"decor\">装饰度</style> 并且通过提供<style=\"light\">光</style>来减少<style=\"stress\">压力</style>。 "
+msgstr "改善 <style=\"decor\">装饰度</style> 并且通过提供<style=\"light\">光线</style>来减少<style=\"stress\">压力</style>。 "
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
@@ -1535,7 +1535,7 @@ msgstr "复制人们对它到底是花盆还是花瓶意见不一，但他们都
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
 msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicant <style=\"stress\">Stress</style>."
-msgstr "增加<style=\"decor\">装饰度</style>并减少复制人们的<style=\"stress\">压力/style>。"
+msgstr "增加<style=\"decor\">装饰度</style>并减少复制人们的<style=\"stress\">压力</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME"
@@ -1585,7 +1585,7 @@ msgstr "让一段<style=\"GasPiping\">气体管道</style>经过另一段但不�
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
 msgid "Gas Pipe Bridge"
-msgstr "绕行气体管道"
+msgstr "气体桥接管道"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
@@ -1610,7 +1610,7 @@ msgstr "就像是走在梦中。"
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
 msgid "Used as wall and floor tile to build rooms.\n\nBlocks the flow of <style=\"liquid\">Liquid</style> without obstructing the flow of <style=\"gas\">Gas</style>."
-msgstr "用作建造房间地板和墙壁区块。\n\n阻挡<style=\"liquid\">液体</style>流动但不会阻挡<style=\"gas\">气体</style>流动。"
+msgstr "用作建造房间的地板和墙壁区块。\n\n阻挡<style=\"liquid\">液体</style>流动但不会阻挡<style=\"gas\">气体</style>流动。"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
@@ -1665,12 +1665,12 @@ msgstr "排气口"
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC"
 msgid "It may not be the most clean-burning power source, but at least it's also inefficient!"
-msgstr "它也许不是最环保的电力源，但还好它的效率也不高啊！"
+msgstr "它也许不是最环保的电力源，但好在它的效率也不高啊！"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT"
 msgid "A <style=\"power\">Power</style> source that burns <style=\"RawMineral\">Coal</style> to generate electricity."
-msgstr "一个<style=\"power\">电力</style>源，燃烧<style=\"RawMineral\">煤炭</style>产生电力。"
+msgstr "一个<style=\"power\">电力</style>供应设施，燃烧<style=\"RawMineral\">煤炭</style>产生电力。"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
@@ -1715,7 +1715,7 @@ msgstr "最新打印出的复制人会从这里出来，谢天谢地，他们永
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT"
 msgid "A bioprinting machine that periodically produces new Duplicants."
-msgstr "一台制造新复制人的生物打印机。"
+msgstr "一台周期性地制造新复制人的生物打印机。"
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME"
@@ -1730,7 +1730,7 @@ msgstr "嘿，等等……原来这不是氢气发生器！"
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT"
 msgid "A <style=\"power\">Power</style> source that converts <style=\"gas\">Hydrogen</style> into electricity."
-msgstr "一台将<style=\"gas\">氢气</style>转化成电力的<style=\"power\">电力</style> 源。"
+msgstr "一台将<style=\"gas\">氢气</style>转化成电力的<style=\"power\">电力</style> 供应设施。"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME"
@@ -1775,7 +1775,7 @@ msgstr "热度不会熔化这东西。"
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.EFFECT"
 msgid "Connects buildings to <style=\"power\">Power</style> sources in extreme <style=\"heat\">Heat</style>.\n\nCan be run through wall and floor tiles."
-msgstr "在极<style=\"heat\">热</style>中连接设施到<style=\"power\">电力</style>源"
+msgstr "在极<style=\"heat\">热</style>环境中连接设施到<style=\"power\">电力</style>源\n\n可以通过墙壁和地板区块。"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME"
@@ -1790,7 +1790,7 @@ msgstr "让你的复制人双脚暖烘烘的。\n而且它是紫色的！"
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT"
 msgid "Used as wall and floor tile to build rooms.\n\nReduces <style=\"heat\">Heat</style> transfer between walls."
-msgstr "用作建造房间地板和墙壁区块。\n\n减少墙之间的<style=\"heat\">热</style>传递。"
+msgstr "用作建造房间的地板和墙壁区块。\n\n减少墙之间的<style=\"heat\">热</style>传递。"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
@@ -1835,7 +1835,7 @@ msgstr "通过简单、密闭的管道轻松地运送液体。"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT"
 msgid "Transports <style=\"liquid\">Liquid</style> between <style=\"LiquidPiping\">Liquid Intakes</style> and <style=\"LiquidPiping\">Liquid Outputs</style>.\n\nCan be run through floor and wall tiles."
-msgstr "在 <style=\"LiquidPiping\">进水口</style>和 <style=\"LiquidPiping\">出水口/style>之间运送<style=\"liquid\">液体</style> 。\n\n可以通过地板和墙壁区块。"
+msgstr "在 <style=\"LiquidPiping\">进水口</style>和 <style=\"LiquidPiping\">出水口</style>之间运送<style=\"liquid\">液体</style> 。\n\n可以通过地板和墙壁区块。"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME"
@@ -1855,7 +1855,7 @@ msgstr "让一段<style=\"LiquidPiping\">液体管道</style>经过另一段但�
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME"
 msgid "Liquid Pipe Bridge"
-msgstr "绕行液体管道"
+msgstr "液体桥接管道"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
@@ -1950,12 +1950,12 @@ msgstr "排水口"
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
 msgid "Watching Duplicants run on it is adorable... the electrical power is just an added bonus."
-msgstr "看复制人在上面跑多可爱……电力只是附赠的。"
+msgstr "看复制人在上面跑多得可爱……电力只是附赠的。"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT"
 msgid "A <style=\"power\">Power</style> source that must be manually operated to produce electricity."
-msgstr "必须人工操作来产生电力的<style=\"power\">电力</style>源。"
+msgstr "必须人工操作来产生电力的<style=\"power\">电力</style>供应设施。"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.NAME"
@@ -2055,7 +2055,7 @@ msgstr "微生物糊糊机"
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
 msgid "Breathe easy knowing you've crushed a bunch of helpless algae into oblivion."
-msgstr "轻松呼吸的同时要知道你刚粉碎了一团无助的藻类。"
+msgstr "自在呼吸的同时要知道你刚粉碎了一团无助的藻类。"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT"
@@ -2070,107 +2070,107 @@ msgstr "藻类去氧机"
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
 msgid "Make your Duplicants faster, stronger... better!"
-msgstr ""
+msgstr "让你的复制人更快，更强……更棒！"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT"
 msgid "Uses <style=\"RawMetal\">Raw Metal</style> or <style=\"RefinedMetal\">Refined Metal</style> to craft <style=\"equipment\">Multitools</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "使用 <style=\"RawMetal\">粗金属</style>或<style=\"RefinedMetal\">精炼金属</style>打造<style=\"equipment\">多功能工具</style>。队列中有配方时复制人才会生产。"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"
 msgid "Crafting Station"
-msgstr ""
+msgstr "制作车间"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC"
 msgid "Outhouses keep Duplicants from getting down in the dumps.\nNot building any'd be a real waste!"
-msgstr ""
+msgstr "户外厕所让复制人们不用活在垃圾堆里。\n不是在造真的垃圾！"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT"
 msgid "Reduces <style=\"stress\">Stress</style> and the spread of <style=\"disease\">Disease</style> by regulating where Duplicants relieve themselves.\n\nRequires no <style=\"GasPiping\">Piping</style>.\n\nMust be emptied of <style=\"solid\">Contaminated Dirt</style> periodically."
-msgstr ""
+msgstr "通过控制复制人们解手的地点来减少<style=\"stress\">压力</style>和<style=\"disease\">疾病</style>的传播。\n\n不需要<style=\"GasPiping\">气体管道</style>.\n\n必须定期清空<style=\"solid\">污泥</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME"
 msgid "Outhouse"
-msgstr ""
+msgstr "户外厕所"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC"
 msgid "Think inside the box."
-msgstr ""
+msgstr "植物可不需要天马行空。"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.EFFECT"
 msgid "Houses a single <style=\"plant\">Plant</style> which will periodically produce <style=\"food\">Food</style> or <style=\"medicine\">Medicine</style>."
-msgstr ""
+msgstr "种猪一株<style=\"plant\">植物</style> ，会周期性地产生<style=\"food\">食物</style>或<style=\"medicine\">药品</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME"
 msgid "Planter Box"
-msgstr ""
+msgstr "栽培盆"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
 msgid "Is there anything more thrilling than the automation of manual processes?"
-msgstr ""
+msgstr "有什么比人工流程的自动化更激动人心？"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT"
 msgid "Creates an airtight seal that maintains atmosphere and pressure between areas.\n\nFunctions as a Manual Airlock when no <style=\"power\">Power</style> is available."
-msgstr ""
+msgstr "创造气密装置维持空气和区域间的气压\n\n没有<style=\"power\">电力</style>时会像手动气密门一样运转。"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
 msgid "Mechanized Airlock"
-msgstr ""
+msgstr "电子气密门"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
 msgid "Storing food in a box?\nSeems rational!"
-msgstr ""
+msgstr 把食物存在箱子里？似乎很合理！"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
 msgid "Stores a small amount of <style=\"food\">Food</style>."
-msgstr ""
+msgstr "储存少量<style=\"food\">食物</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
 msgid "Ration Box"
-msgstr ""
+msgstr "补给箱"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC"
 msgid "Spoil your Duplicants with this hi-tech, spoilage-free food box."
-msgstr ""
+msgstr "有了这高科技防腐食品箱，你的复制人们可以好好腐败一把了。"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT"
 msgid "Drastically increases the shelf life of <style=\"food\">Food</style> by storing it at an ideal <style=\"heat\">Temperature</style>."
-msgstr ""
+msgstr "通过在理想的<style=\"heat\">温度</style>下储存显著延长<style=\"food\">食物</style>的保质期。"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME"
 msgid "Refrigerator"
-msgstr ""
+msgstr "冰箱"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC"
 msgid "Duplicants' first chemistry set."
-msgstr ""
+msgstr "小复制人的第一套化学实验用具。"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT"
 msgid "Can be worked by Duplicants to conduct <style=\"research\">Novice Research</style> and unlock new technologies."
-msgstr ""
+msgstr "复制人可以进行<style=\"research\">初级研究</style>解锁新科技。"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
 msgid "Research Station"
-msgstr ""
+msgstr "研究站"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
@@ -2180,202 +2180,202 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC"
 msgid "An object of questionable form and no discernible function.\nThe Duplicants love it."
-msgstr ""
+msgstr "一个形状可疑的物体，看不出有什么功能。\复制人们很喜欢它。"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT"
 msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be sculpted by a Duplicant."
-msgstr ""
+msgstr "增加 <style=\"decor\">装饰度并</style>减少复制人们的<style=\"stress\">压力</style>。必须由复制人雕刻。"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME"
 msgid "Sculpting Block"
-msgstr ""
+msgstr "雕塑"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME"
 msgid "\"Abstract\" Sculpture"
-msgstr ""
+msgstr "\”抽象派\“雕塑"
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.DESC"
 msgid "Very few things in life can top a nice, hot shower."
-msgstr ""
+msgstr "生命中很少有什么比得过一次舒适的热水澡。"
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.EFFECT"
 msgid "Prevents <style=\"disease\">Disease</style> by improving Duplicant <style=\"hygiene\">Hygiene</style>."
-msgstr ""
+msgstr "通过改善复制人的<style=\"hygiene\">清洁度</style>来防止 <style=\"disease\">疾病</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.NAME"
 msgid "Shower"
-msgstr ""
+msgstr "沐浴间"
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.DESC"
 msgid "Whoever smelt it, dealt it!\nOh, goodness, that was a vulgar crack."
-msgstr ""
+msgstr "谁先温到就是谁干的。\n天哪，这笑话可真粗俗。"
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT"
 msgid "Converts <style=\"RawMetal\">Raw Metal</style> into <style=\"RefinedMetal\">Refined Metal</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "将<style=\"RawMetal\">粗金属</style>转化为<style=\"RefinedMetal\">精炼金属</style>。\n\n队列中有配方时复制人才会生产。"
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.NAME"
 msgid "Smelter"
-msgstr ""
+msgstr "熔炉"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC"
 msgid "Stave off frostbite with this heartwarming doodad.\n(Warms other body parts too!)"
-msgstr ""
+msgstr "用这暖心的玩意儿来防止冻伤。\n（也能暖别的部位！）"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT"
 msgid "Produces a moderate amount of <style=\"heat\">Heat</style> in its immediate vicinity."
-msgstr ""
+msgstr "在周围产生适量的<style=\"heat\">热量</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME"
 msgid "Space Heater"
-msgstr ""
+msgstr "电热器"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC"
 msgid "Keep your clutter off the floor!"
-msgstr ""
+msgstr "别把东西随地乱放！"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.EFFECT"
 msgid "Stores the resources of your choosing."
-msgstr ""
+msgstr "储存你指定的资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME"
 msgid "Storage Compactor"
-msgstr ""
+msgstr "库存压缩机"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
 msgid "Exosuits allow Duplicants to breathe in the harshest of environments.\nThey're also flatteringly form-fitting."
-msgstr ""
+msgstr "潜水服允许复制人们在最严酷的环境下呼吸。\而且他们看起来更搭衣服了。"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT"
 msgid "Uses <style=\"RawMetal\">Raw Metal</style> or <style=\"RefinedMetal\">Refined Metal</style> to craft protective <style=\"equipment\">Exosuits</style> for Duplicants.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "使用<style=\"RawMetal\">粗金属</style>或<style=\"RefinedMetal\">精炼金属</style>为复制人打造防护性<style=\"equipment\">潜水服</style>。\n\n队列中有配方时复制人才会生产。"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME"
 msgid "Exosuit Station"
-msgstr ""
+msgstr "潜水服制作台"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.DESC"
 msgid "Keep the colony's exosuits in tip-top shape with this oxygen refilling station...\nUnless you'd prefer to see your Duplicants suffocate."
-msgstr ""
+msgstr "用这台充氧机保持成员的潜水服在完美状态…\n除非你想看到你的复制人们窒息。"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.EFFECT"
 msgid "Refills a depleted <style=\"equipment\">Exosuit</style> with <style=\"oxygen\">Oxygen</style>."
-msgstr ""
+msgstr "给已耗损的<style=\"equipment\">潜水服</style>"补充<style=\"oxygen\">氧气</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.NAME"
 msgid "Exosuit Recharger"
-msgstr ""
+msgstr "潜水服充氧机"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.DESC"
 msgid "Put the power right in your Duplicants' cute little hands."
-msgstr ""
+msgstr "电力尽在复制人们可爱小手的掌握之中。"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.EFFECT"
 msgid "Toggles all circuity following the switch without affecting the preceding circuitry."
-msgstr ""
+msgstr "切换所有这个开关后的电路状态而不影响之前的电路。"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.NAME"
 msgid "Power Switch"
-msgstr ""
+msgstr "电力开关"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
 msgid "Duplicants find these tiles easier on the feetsies than jagged bedrock."
-msgstr ""
+msgstr "复制人们发现这些区块比参差不齐的基岩更适合落脚丫"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
 msgid "Used as wall and floor tile to build rooms."
-msgstr ""
+msgstr "用作建造房间的地板和墙壁区块。"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
 msgid "Tile"
-msgstr ""
+msgstr "区块"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIGHT.DESC"
 msgid "The light helps imitate the Duplicants' natural aboveground habitat.\nSort of. Maybe."
-msgstr ""
+msgstr "这光线更好地模仿了复制人们在陆上的自然栖息地。\n差不多吧。也许。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIGHT.EFFECT"
 msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
-msgstr ""
+msgstr "改善<style=\"decor\">装饰度</style> 并通过提供<style=\"light\">光线</style>来减少<style=\"stress\">压力</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIGHT.NAME"
 msgid "Lamp"
-msgstr ""
+msgstr "灯"
 
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC"
 msgid "You know it's just going to get dirty again."
-msgstr ""
+msgstr "你知道它还会再变脏的。"
 
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.EFFECT"
 msgid "Uses <style=\"misc\">Sand</style> to purify <style=\"liquid\">Contaminated Water</style>."
-msgstr ""
+msgstr "使用<style=\"misc\">沙子</style>净化<style=\"liquid\">污水</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME"
 msgid "Water Purifier"
-msgstr ""
+msgstr "净水器"
 
 #. STRINGS.BUILDINGS.PREFABS.WIRE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.DESC"
 msgid "A sleek, easy way of delivering electricity right where it needs to go."
-msgstr ""
+msgstr "流畅又简单地把电力送到它该去的地方。"
 
 #. STRINGS.BUILDINGS.PREFABS.WIRE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.EFFECT"
 msgid "Connects buildings to <style=\"power\">Power</style> sources.\n\nCan be run through wall and floor tiles."
-msgstr ""
+msgstr "将设施连接到<style=\"power\">电力</style>源。可以通过墙壁和地板区块。"
 
 #. STRINGS.BUILDINGS.PREFABS.WIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.NAME"
 msgid "Electrical Wire"
-msgstr ""
+msgstr "电线"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC"
 msgid "Two wires, running so close and yet never crossing paths."
-msgstr ""
+msgstr "两条电线，如此相近却从未相交。"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.EFFECT"
 msgid "Runs one section of wire overtop another without joining the <style=\"power\">Power</style> grids.\n\nCan be run through wall and floor tiles."
-msgstr ""
+msgstr "让一段电线经过另一段但不联入 <style=\"power\">电力</style>网。\n\n可以通过地板和墙壁区块。"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME"
 msgid "Wire Bridge"
-msgstr ""
+msgstr "桥接电线"
 
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC"
