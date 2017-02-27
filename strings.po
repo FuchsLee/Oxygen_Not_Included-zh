@@ -9,7 +9,7 @@ msgstr "分配给{Assignee}"
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP"
 msgid "Only {Assignee} can use this amenity"
-msgstr "只有{Assignee}可以使用这个福利设施"
+msgstr "只有{Assignee}可以使用该福利设施"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
@@ -60,7 +60,7 @@ msgstr "损坏"
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
 msgid "This building was broken by a <style=\"stress\">Stressed</style> Duplicant\n\nIt must be repaired"
-msgstr "这个设施已被一个<style=\"stress\">紧张</style>的复制人破坏\n\n需要维修"
+msgstr "该设施已被一个<style=\"stress\">压力过大</style>的复制人破坏\n\n需要维修"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
@@ -85,7 +85,7 @@ msgstr "该设施无法继续冷却周围区域"
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
 msgid "Pending Door State Change: {ControlState}"
-msgstr "预定状态: {ControlState}"
+msgstr "预定状态：{ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP"
@@ -145,7 +145,7 @@ msgstr "开启"
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP"
 msgid "Current State: {ControlState}\n\nAuto: Duplicants will open and close this door as needed\nClosed: This door will remain closed\nOpen: This door will remain open"
-msgstr "当前状态: {ControlState}\n\n自动: 复制人会根据需要开启或关闭这扇门\n关闭: 这扇门会保持关闭\n开启：这扇门会保持开启"
+msgstr "当前状态：{ControlState}\n\n自动：复制人会根据需要开启或关闭这扇门\n关闭：这扇门会保持关闭\n开启：这扇门会保持开启"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
@@ -160,7 +160,7 @@ msgstr "复制人无法到达该区域"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.NAME"
 msgid "Consuming {ElementTypes}: {FlowRate}"
-msgstr "消耗{ElementTypes}速率: {FlowRate}"
+msgstr "消耗{ElementTypes}速率：{FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP"
@@ -170,7 +170,7 @@ msgstr "该设施会从周围环境中使用{ElementTypes} "
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME"
 msgid "Using {ElementTypes}: {FlowRate}"
-msgstr "使用{ElementTypes}速率: {FlowRate}"
+msgstr "使用{ElementTypes}速率：{FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP"
@@ -180,7 +180,7 @@ msgstr "该设施正在以{FlowRate}的速率使用{ElementTypes}  "
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME"
 msgid "Emitting {ElementTypes}: {FlowRate}"
-msgstr "排放{ElementTypes}速率: {FlowRate}"
+msgstr "排放{ElementTypes}速率：{FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP"
@@ -190,7 +190,7 @@ msgstr "该设施正在以{FlowRate}的速率排放{ElementTypes} "
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME"
 msgid "Emitting {ElementTypes}: {FlowRate}"
-msgstr "排放{ElementTypes}速率: {FlowRate}"
+msgstr "排放{ElementTypes}速率：{FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP"
@@ -200,7 +200,7 @@ msgstr "该设施正以{FlowRate}的速率排放{ElementTypes}"
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME"
 msgid "Emitting CO2: {FlowRate}"
-msgstr "排放CO2速率: {FlowRate}"
+msgstr "排放CO2速率：{FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP"
@@ -220,12 +220,12 @@ msgstr "以{FlowRate}的速率产生{ElementType}"
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME"
 msgid "Emitting <style=\"gas\">{Element}</style>: {FlowRate}"
-msgstr "排放 <style=\"gas\">{Element}</style>: {FlowRate}"
+msgstr "排放 <style=\"gas\">{Element}</style>：{FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP"
 msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
-msgstr "产生 <style=\"gas\">{Element}</style>: {FlowRate}"
+msgstr "产生 <style=\"gas\">{Element}</style>：{FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME"
@@ -240,7 +240,7 @@ msgstr "打开光线视图[{LightGridOverlay}]来看<style=\"light\">光线</sty
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME"
 msgid "Emitting <style=\"oxygen\">Oxygen</style>: {FlowRate}"
-msgstr "释放<style=\"oxygen\">氧气</style>速率: {FlowRate}"
+msgstr "释放<style=\"oxygen\">氧气</style>速率：{FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP"
@@ -400,7 +400,7 @@ msgstr "无法在此地建造"
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME"
 msgid "<style=\"power\">Power</style> Available: {JoulesAvailable}"
-msgstr "可用<style=\"power\">电力</style> : {JoulesAvailable}"
+msgstr "可用<style=\"power\">电力</style>：{JoulesAvailable}"
 
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP"
@@ -475,7 +475,7 @@ msgstr "粗俗"
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.TOOLTIP"
 msgid "Honestly, a Morb could do better than this"
-msgstr "老实说，一块石头都能做的比这个好"
+msgstr "老实说，一块石头都能做的比该好"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME"
@@ -575,7 +575,7 @@ msgstr "需要多功能工具"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
 msgid "A <style=\"equipment\">Multitool</style> is required to mine this material\n------------------\nMultitools can be made at Crafting Stations in the Stations Tab <color=#FF0000>(9)</style> of the Build Menu"
-msgstr "需要一个<style=\"equipment\">多功能工具</style> 来采集这个材料\n------------------\n多功能工具可以在建造菜单的科研标签<color=#FF0000>(9)</style> 中的制作车间制作"
+msgstr "需要一个<style=\"equipment\">多功能工具</style> 来采集该材料\n------------------\n多功能工具可以在建造菜单的科研标签<color=#FF0000>(9)</style> 中的制作车间制作"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
@@ -610,7 +610,7 @@ msgstr "该设施没有<style=\"gas\">液体</style>吸入源"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
 msgid "No Liquid Output"
-msgstr ""
+msgstr "没有液体出口"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
@@ -720,7 +720,7 @@ msgstr "<style=\"research\">研究中心</style>闲置"
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid "These buildings cannot produce the correct <style=\"research\">Research Type</style> for the selected <style=\"research\">Research Task</style>:"
-msgstr "这些设施不能为所选的<style=\"research\">研究课题</style>产生正确的 <style=\"research\">研究类型</style>："
+msgstr "以下设施不能为所选的<style=\"research\">研究课题</style>产生正确的 <style=\"research\">研究类型</style>："
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP"
@@ -900,12 +900,12 @@ msgstr "等待一名复制人来波动开关"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Dig Up Pending"
-msgstr "预定挖掘"
+msgstr "预定挖出"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Waiting for a Duplicant to dig up"
-msgstr "等待一名复制人来挖掘"
+msgstr "等待一名复制人来挖出"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME"
@@ -920,7 +920,7 @@ msgstr "等待一名复制人来操作该设施"
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.NAME"
 msgid "Contents: {Contents}"
-msgstr "内容物: {Contents}"
+msgstr "内容物：{Contents}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP"
@@ -955,7 +955,7 @@ msgstr "已达到气压最高值"
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME"
 msgid "Average Flow Rate: {FlowRate}"
-msgstr "平均流量: {FlowRate}"
+msgstr "平均流量：{FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP"
@@ -965,7 +965,7 @@ msgstr "该设施平均吸入{FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME"
 msgid "Storing: {Stored}"
-msgstr "食物储备: {Stored}"
+msgstr "食物储备：{Stored}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP"
@@ -975,7 +975,7 @@ msgstr "该配给箱储存了 {Stored} <style=\"food\">食物</style>"
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
 msgid "Current <style=\"research\">Research</style>: {Tech}"
-msgstr "当前<style=\"research\">研究</style>: {Tech}"
+msgstr "当前<style=\"research\">研究</style>：{Tech}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP"
@@ -995,7 +995,7 @@ msgstr "该容器储存了{Stored} kg材料"
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
 msgid "{FlushesRemaining} \"Visits\" Remaining"
-msgstr "剩余{FlushesRemaining}次 \"\""
+msgstr "剩余{FlushesRemaining}次 \“光临\”"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
@@ -1010,7 +1010,7 @@ msgstr "需要清空"
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP"
 msgid "This amenity cannot be used while full\n------------------\nEmptying it will produce <style=\"solid\">Contaminated Dirt</style>"
-msgstr ""该福利设施因满载无法使用\n------------------\n清空会产生<style=\"solid\">污泥</style>"
+msgstr "该福利设施因满载无法使用\n------------------\n清空会产生<style=\"solid\">污泥</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -1055,7 +1055,7 @@ msgstr "该福利设施需要保养"
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
 msgid "Max Flow Rate: {MaxFlow}"
-msgstr "最大流量: {MaxFlow}"
+msgstr "最大流量：{MaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP"
@@ -1080,12 +1080,12 @@ msgstr "等待运送材料\n{ItemsRemaining}"
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP"
 msgid "Waiting for a Duplicant to deliver:\n{ItemsRemaining}"
-msgstr "等待一名复制人运送:\n{ItemsRemaining}"
+msgstr "等待一名复制人运送：\n{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME"
 msgid "Wattage: {Wattage}"
-msgstr "瓦数: {Wattage}"
+msgstr "瓦数：{Wattage}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP"
@@ -1215,7 +1215,7 @@ msgstr "生物蒸馏器"
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
 msgid "Algae colony. Duplicant colony.\nWe're more similar than we are different."
-msgstr "一群藻类，一群复制人。\n比起不同，我们的相同点要更多。"
+msgstr "一群藻类。一群复制人。\n比起不同，我们的相同点要更多。"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
@@ -1395,7 +1395,7 @@ msgstr "餐桌"
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC"
 msgid "Gets hot and steamy."
-msgstr "那里又热又湿。"
+msgstr "那里，又热又湿。"
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT"
@@ -1545,7 +1545,7 @@ msgstr "花瓶"
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC"
 msgid "No muss, no fuss.\nThis toilet is highly functional and (almost) always clean."
-msgstr "不慌不忙。\n这个厕所非常实用而且（几乎）一直很干净。"
+msgstr "不慌不忙。\n这间厕所非常实用而且（几乎）一直很干净。"
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT"
@@ -2105,7 +2105,7 @@ msgstr "植物可不需要天马行空。"
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.EFFECT"
 msgid "Houses a single <style=\"plant\">Plant</style> which will periodically produce <style=\"food\">Food</style> or <style=\"medicine\">Medicine</style>."
-msgstr "种猪一株<style=\"plant\">植物</style> ，会周期性地产生<style=\"food\">食物</style>或<style=\"medicine\">药品</style>。"
+msgstr "种植一株<style=\"plant\">植物</style> ，会周期性地产生<style=\"food\">食物</style>或<style=\"medicine\">药品</style>。"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME"
@@ -2175,7 +2175,7 @@ msgstr "研究站"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Sculpture"
-msgstr ""
+msgstr "平庸的雕塑"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC"
@@ -2295,7 +2295,7 @@ msgstr "电力尽在复制人们可爱小手的掌握之中。"
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.EFFECT"
 msgid "Toggles all circuity following the switch without affecting the preceding circuitry."
-msgstr "切换所有这个开关后的电路状态而不影响之前的电路。"
+msgstr "切换所有该开关后的电路状态而不影响之前的电路。"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.NAME"
@@ -2305,7 +2305,7 @@ msgstr "电力开关"
 #. STRINGS.BUILDINGS.PREFABS.TILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
 msgid "Duplicants find these tiles easier on the feetsies than jagged bedrock."
-msgstr "复制人们发现这些区块比参差不齐的基岩更适合落脚丫"
+msgstr "复制人们发现这些区块比参差不齐的基岩更适合落脚丫。"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
@@ -2390,7 +2390,7 @@ msgstr "被埋的脏根"
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC"
 msgid "A nutritious, hardy <style=\"plant\">Plant</style>, well-suited for domestication.\n\nIt produces an edible grain that is suspiciously capable of movement."
-msgstr "一种有营养的、耐寒的<style=\"plant\">植物</style>，很适合人工培植。\n\n产生可食用谷物，似乎很能动。"
+msgstr "一种有营养的耐寒<style=\"plant\">植物</style>，很适合人工培植。\n\n产生可食用谷物，似乎还会动。"
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC"
@@ -2400,7 +2400,7 @@ msgstr "一种有营养、快速生长的<style=\"plant\">植物</style>，产�
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME"
 msgid "Mealwood"
-msgstr "食木"
+msgstr "结食树"
 
 #. STRINGS.CREATURES.SPECIES.FLUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.FLUT.DESC"
@@ -2580,7 +2580,7 @@ msgstr "丙烷喷嘴"
 #. STRINGS.CREATURES.SPECIES.PUFT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.DESC"
 msgid "An extremely buoyant, non-aggressive species.\n\nThe Puft rids itself of excess pathogens by excreting lumps of slime with each breath."
-msgstr "一种飘漂浮的、无攻击性的生物。\n\n噗浮特每次呼吸排出黏液团来去除过量的病原体。"
+msgstr "一种漂浮的、无攻击性的生物。\n\n噗浮特每次呼吸会排出黏液团来去除空气中过量的病原体。"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.NAME"
@@ -2595,7 +2595,7 @@ msgstr "<style=\"plant\">食木</style>的<style=\"seed\">种子</style>。"
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
 msgid "Mealwood Seed"
-msgstr "食木种子"
+msgstr "结食树种子"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC"
@@ -2660,10 +2660,8 @@ msgstr "蒸汽喷嘴"
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC"
-msgid ""
-"An elegant, warm climate <style=\"plant\">Plant</style> that can be dug up and agriculturally domesticated.\n\nIt produces long, fragrant leaves with natural medicinal properties."
-msgstr ""
-"一种优雅的温暖气候植物，可以被挖出并人工培植。\n\n它会长出长而脆弱的叶子，有着天然药物成分。"
+msgid "An elegant, warm climate <style=\"plant\">Plant</style> that can be dug up and agriculturally domesticated.\n\nIt produces long, fragrant leaves with natural medicinal properties."
+msgstr "一种优雅的温暖气候植物，可以被挖出并人工培植。\n\n它会长出长而脆弱的叶子，有着天然药物成分。"
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC"
@@ -2758,7 +2756,7 @@ msgstr "缺氧"
 #. STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP"
 msgid "This creature is about to suffocate"
-msgstr "这个生物快要窒息了"
+msgstr "该生物快要窒息了"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME"
@@ -2778,7 +2776,7 @@ msgstr "钻洞中"
 #. STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP"
 msgid "This creature is trying to hide"
-msgstr "这个生物正在试图藏起来"
+msgstr "该生物正在试图藏起来"
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.NAME"
@@ -2798,7 +2796,7 @@ msgstr "被鱼饵引诱"
 #. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.TOOLTIP"
 msgid "This creature is tempted to bite a nearby lure"
-msgstr "这个生物被引诱去咬附近的鱼饵"
+msgstr "该生物被引诱去咬附近的鱼饵"
 
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.NAME"
@@ -2808,7 +2806,7 @@ msgstr "死亡"
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP"
 msgid "This creature isn't getting back up"
-msgstr "这个生物不会再起来了"
+msgstr "该生物不会再起来了"
 
 #. STRINGS.CREATURES.STATUSITEMS.DIGESTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.NAME"
@@ -2818,7 +2816,7 @@ msgstr "消化中"
 #. STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP"
 msgid "This creature is working off a big meal"
-msgstr "这个生物正在处理一顿大餐"
+msgstr "该生物正在处理一顿大餐"
 
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME"
@@ -2838,7 +2836,7 @@ msgstr "进食中"
 #. STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP"
 msgid "This creature found something tasty"
-msgstr "这个生物发现了好吃的东西"
+msgstr "该生物发现了好吃的东西"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
@@ -2848,7 +2846,7 @@ msgstr "出土中"
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP"
 msgid "This creature is leaving its burrow"
-msgstr "这个生物正在离开洞穴"
+msgstr "该生物正在离开洞穴"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENTOMBED.NAME"
@@ -2858,7 +2856,7 @@ msgstr "被埋"
 #. STRINGS.CREATURES.STATUSITEMS.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENTOMBED.TOOLTIP"
 msgid "This creature is trapped and must be dug out"
-msgstr "这个生物被困住了，需要被挖出来"
+msgstr "该生物被困住了，需要被挖出来"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOCOLD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOCOLD.NAME"
@@ -2888,7 +2886,7 @@ msgstr "下落中"
 #. STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP"
 msgid "This creature is in freefall"
-msgstr "这个生物正在自由落体"
+msgstr "该生物正在自由落体"
 
 #. STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME"
@@ -2898,7 +2896,7 @@ msgstr "逃跑中"
 #. STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP"
 msgid "This creature is trying to escape combat"
-msgstr "这个生物正在试图逃离战斗"
+msgstr "该生物正在试图逃离战斗"
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.NAME"
@@ -2988,7 +2986,7 @@ msgstr "孵蛋中"
 #. STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP"
 msgid "This creature is participating in the miracle of life"
-msgstr "这个生物正在参与生命的奇迹"
+msgstr "该生物正在参与生命的奇迹"
 
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME"
@@ -2998,7 +2996,7 @@ msgstr "觅食中"
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP"
 msgid "This creature is looking for food"
-msgstr "这个生物正在寻找食物"
+msgstr "该生物正在寻找食物"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
@@ -3018,7 +3016,7 @@ msgstr "被保鲜"
 #. STRINGS.CREATURES.STATUSITEMS.PRESERVED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRESERVED.TOOLTIP"
 msgid "This food can be stored indefinitely"
-msgstr "这个食物被无限期的保存了"
+msgstr "该食物被无限期的保存了"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
@@ -3048,7 +3046,7 @@ msgstr "未冷藏"
 #. STRINGS.CREATURES.STATUSITEMS.ROTTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ROTTING.TOOLTIP"
 msgid "This food will begin to spoil in temperatures above <style=\"heat\">{RotTemperature}</style>"
-msgstr "这个食物在<style=\"heat\">{RotTemperature}</style>以上将开始变质"
+msgstr "该食物在<style=\"heat\">{RotTemperature}</style>以上将开始变质"
 
 #. STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME"
@@ -3058,7 +3056,7 @@ msgstr "睡眠中"
 #. STRINGS.CREATURES.STATUSITEMS.SLEEPING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.TOOLTIP"
 msgid "This creature is replenishing its stamina"
-msgstr "这个生物正在恢复体力"
+msgstr "该生物正在恢复体力"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME"
@@ -3068,7 +3066,7 @@ msgstr "腐烂"
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP"
 msgid "This food is well past its prime and shouldn't be consumed by Duplicants"
-msgstr "这个食物已经不新鲜了，不应该再让复制人吃它"
+msgstr "该食物已经不新鲜了，不该让复制人吃它"
 
 #. STRINGS.CREATURES.STATUSITEMS.STALE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.NAME"
@@ -3078,7 +3076,7 @@ msgstr "不新鲜"
 #. STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP"
 msgid "This food is approaching its expiry date"
-msgstr "这个食物正在过期"
+msgstr "该食物正在过期"
 
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME"
@@ -3088,7 +3086,7 @@ msgstr "挣扎中"
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP"
 msgid "This creature is trying to get away"
-msgstr "这个生物正在试图脱离"
+msgstr "该生物正在试图脱离"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME"
@@ -3108,7 +3106,7 @@ msgstr "疲惫"
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP"
 msgid "This creature needs to rest"
-msgstr "这个生物需要休息"
+msgstr "该生物需要休息"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
@@ -3183,7 +3181,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME"
 msgid "Bladder Change"
-msgstr ""
+msgstr "膀胱改变"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC"
@@ -3403,7 +3401,7 @@ msgstr "抗病能力 $value%"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
 msgid "This Duplicant is most proficient at {0}"
-msgstr "这个复制人最精通{0}"
+msgstr "该复制人最精通{0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC"
@@ -3413,12 +3411,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina Change"
-msgstr "毅力"
+msgstr "体力改变"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
 msgid "The Strength attribute determines a Duplicant's carrying capacity and combat effectiveness."
-msgstr "力量决定了一个复制人的物品携带量和战斗速度。"
+msgstr "力量决定了一个复制人的物品携带量和战斗效果。"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
@@ -3473,12 +3471,12 @@ msgstr "毒性变化"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC"
 msgid "This Duplicant has no discernible skills to speak of"
-msgstr "这个复制人乏善可陈"
+msgstr "该复制人乏善可陈"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_NAME"
 msgid "Lump"
-msgstr "笨拙的人"
+msgstr "笨蛋"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC"
@@ -3513,7 +3511,7 @@ msgstr "战斗"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC"
 msgid "Deliver <style=\"solid\">Contaminated Dirt</style> to compost to produce <style=\"solid\">Fertilizer</style>."
-msgstr "运送<style=\"solid\">污泥</style>到堆肥来产生<style=\"solid\">肥料</style>。"
+msgstr "运送<style=\"solid\">污泥</style>到堆肥场来产生<style=\"solid\">肥料</style>。"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME"
@@ -3793,12 +3791,12 @@ msgstr "参与高优先级工作？"
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
 msgid "Emptying Storage"
-msgstr "清空储藏"
+msgstr "清空库存"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS"
 msgid "Going to empty storage"
-msgstr "将要去清空储藏"
+msgstr "将要去清空库存"
 
 #. STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME"
@@ -3823,12 +3821,12 @@ msgstr "将要去配备"
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME"
 msgid "Fabricating"
-msgstr "装配"
+msgstr "制造"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS"
 msgid "Going to fabricate"
-msgstr "将要去装配"
+msgstr "将要去制造"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME"
@@ -3983,12 +3981,12 @@ msgstr "休息中"
 #. STRINGS.DUPLICANTS.CHORES.MOP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.NAME"
 msgid "Mop"
-msgstr "擦拭"
+msgstr "打扫"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.STATUS"
 msgid "Going to mop"
-msgstr "将要去擦拭"
+msgstr "将要去打扫"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.NAME"
@@ -4033,7 +4031,7 @@ msgstr "移动到安全室？"
 #. STRINGS.DUPLICANTS.CHORES.MUSH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.NAME"
 msgid "Mushing"
-msgstr "糊状物"
+msgstr "制糊中"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.STATUS"
@@ -4198,7 +4196,7 @@ msgstr "发泄压力"
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS"
 msgid "Lashing out"
-msgstr "破坏设备中"
+msgstr "发泄中"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
@@ -4263,12 +4261,12 @@ msgstr "将要去升级"
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.NAME"
 msgid "Dig Up"
-msgstr "挖起"
+msgstr "挖出"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS"
 msgid "Going to dig up"
-msgstr "将要去挖起"
+msgstr "将要去挖出"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.NAME"
@@ -4313,7 +4311,7 @@ msgstr "洗手中"
 #. STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME"
 msgid "All Diseases"
-msgstr "全生病了"
+msgstr "所有疾病"
 
 #. STRINGS.DUPLICANTS.DISEASES.BOOSTSCURESPEED
 msgctxt "STRINGS.DUPLICANTS.DISEASES.BOOSTSCURESPEED"
@@ -4333,7 +4331,7 @@ msgstr "立刻治疗<style=\"disease\">{0}</style>"
 #. STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION"
 msgid "This Duplicant's gut is giving them some trouble"
-msgstr "这个复制人的腹泻正在给他们带来麻烦"
+msgstr "该复制人的腹泻正在给他们带来麻烦"
 
 #. STRINGS.DUPLICANTS.DISEASES.DIARRHEA.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DIARRHEA.NAME"
@@ -4348,7 +4346,7 @@ msgstr "可能会引起<style=\"disease\">{Diseases}</style>"
 #. STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.DESCRIPTION"
 msgid "This Duplicant is experiencing some cognitive impairment"
-msgstr "这个复制人正在受到认知损害"
+msgstr "该复制人正在受到认知损害"
 
 #. STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.NAME"
@@ -4358,7 +4356,7 @@ msgstr "思维混乱"
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION"
 msgid "This Duplicant's last meal might have been past its prime"
-msgstr "这个复制人上次可能吃了变质的食物"
+msgstr "该复制人上次可能吃了变质的食物"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME"
@@ -4383,7 +4381,7 @@ msgstr "正站在有毒区域中"
 #. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION"
 msgid "This Duplicant really doesn't feel like working right now"
-msgstr "这个复制人现在非常不想工作"
+msgstr "该复制人现在非常不想工作"
 
 #. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME"
@@ -4408,7 +4406,7 @@ msgstr "闻到一股恶臭味"
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION"
 msgid "The pungent odor wafting off this Duplicant is nauseating their peers"
-msgstr "这个复制人身上的刺鼻臭味正在令同伴们作呕"
+msgstr "该复制人身上的刺鼻臭味正在令同伴们作呕"
 
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME"
@@ -4428,7 +4426,7 @@ msgstr "恢复速度（<style=\"disease\">{0}</style>）：<style=\"consumed\">{
 #. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION"
 msgid "This Duplicant saw the corpse of a friend"
-msgstr "这个复制人看到了一个朋友的尸体"
+msgstr "该复制人看到了一个朋友的尸体"
 
 #. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME"
@@ -4438,7 +4436,7 @@ msgstr "畏惧死亡"
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION"
 msgid "This Duplicant is a walking fungal pod"
-msgstr "这个复制人是一团行走的真菌"
+msgstr "该复制人是一团行走的真菌"
 
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.NAME"
@@ -4448,7 +4446,7 @@ msgstr "真菌感染"
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP"
 msgid "{Symptoms}\n\nInfected by {InfectionSource}\nDuration remaining: {Duration}\nRemedies: <style=\"medicine\">{Cures}</style>"
-msgstr "{Symptoms}\n\n被{InfectionSource}感染了\n还将持续：{Duration}\n治疗措施：Remedies: <style=\"medicine\">{Cures}</style>"
+msgstr "{Symptoms}\n\n被{InfectionSource}感染了\n还将持续：{Duration}\n治疗措施：Remedies：<style=\"medicine\">{Cures}</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
@@ -5998,12 +5996,12 @@ msgstr "复制人"
 #. STRINGS.DUPLICANTS.RACE_PREFIX
 msgctxt "STRINGS.DUPLICANTS.RACE_PREFIX"
 msgid "Race: {0}"
-msgstr "民族"
+msgstr "种族：{0}"
 
 #. STRINGS.DUPLICANTS.RELAXATION.RELAXATION_EFFECT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.RELAXATION.RELAXATION_EFFECT.DESCRIPTION"
 msgid "Reduces <style=\"stress\">Stress</style> by {0}/day"
-msgstr "缓解<style=\"stress\">压力</style>需要{0}/天"
+msgstr "每天缓解{0}<style=\"stress\">压力</style>"
 
 #. STRINGS.DUPLICANTS.RELAXATION.RELAXATION_EFFECT.NAME
 msgctxt "STRINGS.DUPLICANTS.RELAXATION.RELAXATION_EFFECT.NAME"
@@ -6028,7 +6026,7 @@ msgstr "呼吸"
 #. STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP"
 msgid "Breath\n----------\nA Duplicant will begin suffocating at 0%"
-msgstr "呼吸\n----------\n当复制人屏住呼吸过久时将开始窒息"
+msgstr "呼吸\n----------\n到达0%时复制人时将开始窒息"
 
 #. STRINGS.DUPLICANTS.STATS.CALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.NAME"
@@ -6038,7 +6036,7 @@ msgstr "卡路里"
 #. STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP"
 msgid "Calories\n----------\nThis Duplicant has {0} of stored energy they can burn before starving"
-msgstr "卡路里\n----------\n此复制人还有{0}卡路里可供消耗"
+msgstr "卡路里\n----------\n该复制人还有{0}卡路里可供消耗"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.NAME"
@@ -6048,17 +6046,17 @@ msgstr "装饰度"
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
 msgid "Decor\n----------\nA Duplicant will gain <style=\"stress\">Stress</style> while in rooms with lower <style=\"decor\">Decor</style> values than their expectations"
-msgstr "装饰度\n----------\n当复制人处在装饰度低于低于期望值<style=\"decor\">Decor</style>的房间时会增加<style=\"stress\">压力</style>"
+msgstr "装饰度\n----------\n当复制人处在<style=\"decor\">装饰度</style>低于期望值的房间时会增加<style=\"stress\">压力</style>"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
 msgid "External Temperature"
-msgstr "周围温度"
+msgstr "外界温度"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP"
 msgid "External Temperature\n----------\nThis Duplicant's immediate environment is {0}"
-msgstr "周围温度\n----------\n此复制人周围温度为{0}"
+msgstr "外界温度\n----------\n该复制人的外界环境温度为{0}"
 
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME"
@@ -6068,7 +6066,7 @@ msgstr "健康"
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP"
 msgid "Health\n----------\nA combatant will become incapacitated at zero <style=\"Health\">Health</style>"
-msgstr "健康\n----------\进入战斗时会立即丧失工作能力<style=\"Health\">健康</style>"
+msgstr "健康\n----------\n<style=\"Health\">健康</style>变为0的战斗员将不能行动"
 
 #. STRINGS.DUPLICANTS.STATS.MORALE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.MORALE.NAME"
@@ -6083,12 +6081,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATS.STAMINA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.NAME"
 msgid "Stamina"
-msgstr "耐力"
+msgstr "体力"
 
 #. STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP"
 msgid "Stamina\n----------\nA Duplicant will pass out from fatigue at 0%"
-msgstr "耐力\n----------\n复制人过度疲劳时会昏厥"
+msgstr "体力\n----------\n到达0%时复制人会因过度疲劳而昏厥"
 
 #. STRINGS.DUPLICANTS.STATS.STRESS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.NAME"
@@ -6098,7 +6096,7 @@ msgstr "压力"
 #. STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP"
 msgid "Stress\n----------\nA Duplicant will have a Nervous Breakdown at 100% <style=\"stress\">Stress</style>"
-msgstr "压力\n----------\n复制人压力过大时会精神崩溃<style=\"stress\">压力</style>"
+msgstr "压力\n----------\n到达100%<style=\"stress\">压力</style>时复制人会精神崩溃"
 
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME"
@@ -6128,7 +6126,7 @@ msgstr "装饰中"
 #. STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP"
 msgid "This Duplicant is expressing themselves artistically"
-msgstr "此复制人正在展现自己的艺术细胞"
+msgstr "该复制人正在展现自己的艺术细胞"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME"
@@ -6143,12 +6141,12 @@ msgstr "床铺位置不可达"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot sleep because their bed is out of reach:"
-msgstr "这些复制人因为无法到达床铺而无法入睡："
+msgstr "以下复制人因为无法到达床铺而无法入睡："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot reach their bed"
-msgstr "此复制人无法到达自己的床"
+msgstr "该复制人无法到达自己的床"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.NAME"
@@ -6158,7 +6156,7 @@ msgstr "正在降温：{TempDelta}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.TOOLTIP"
 msgid "This Duplicant is regulating their <style=\"heat\">Temperature</style>"
-msgstr "此复制人正在调节自己的<style=\"heat\">体温</style>"
+msgstr "该复制人正在调节自己的<style=\"heat\">体温</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.NAME"
@@ -6168,7 +6166,7 @@ msgstr "正在升温：{TempDelta}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.TOOLTIP"
 msgid "This Duplicant is regulating their <style=\"heat\">Temperature</style>"
-msgstr "此复制人正在调节自己的<style=\"heat\">体温</style>"
+msgstr "该复制人正在调节自己的<style=\"heat\">体温</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.NAME"
@@ -6178,17 +6176,17 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME"
 msgid "Breaking {Target}"
-msgstr "破坏中{Target}"
+msgstr "正在破坏{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP"
 msgid "This Duplicant is going totally bananas on the {Target}"
-msgstr "此复制人简直要在这上面发狂了{Target}"
+msgstr "该复制人正在{Target}上发疯"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.NAME"
@@ -6198,7 +6196,7 @@ msgstr "吸入{ConsumptionRate}O2"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP"
 msgid "Duplicants require <style=\"oxygen\">Oxygen</style> to live"
-msgstr "复制人们至少需要<style=\"oxygen\">氧气</style>才能维持生存"
+msgstr "复制人们需要<style=\"oxygen\">氧气</style>才能维持生存"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME"
@@ -6208,37 +6206,37 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.NAME"
 msgid "Building {Target}"
-msgstr "建造中{Target}"
+msgstr "正在建造{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.TOOLTIP"
 msgid "This Duplicant is constructing a {Target}"
-msgstr "此复制人正在建造{Target}"
+msgstr "该复制人正在建造{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.NAME"
 msgid "Building {Target}"
-msgstr "建造中{Target}"
+msgstr "正在建造{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.TOOLTIP"
 msgid "This Duplicant is constructing a {Target}"
-msgstr "此复制人正在建造{Target}"
+msgstr "该复制人正在建造{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.NAME"
 msgid "Cleaning {Target}"
-msgstr "打扫{Target}"
+msgstr "正在打扫{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning Up</style> {Target}"
-msgstr "此复制人正在<style=\"hygiene\">打扫</style> {Target}"
+msgstr "该复制人正在<style=\"hygiene\">打扫</style> {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.NAME"
@@ -6248,17 +6246,17 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.NAME"
 msgid "Sweeping {Target}"
-msgstr "清理"
+msgstr "正在清理{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.TOOLTIP"
 msgid "This Duplicant is sweeping away {Target}"
-msgstr "此复制人正在清理{Target}"
+msgstr "该复制人正在清理{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.NAME"
@@ -6273,22 +6271,22 @@ msgstr "温度过低"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are about to freeze to death:"
-msgstr "这些复制人就快要被冻死了："
+msgstr "以下复制人即将被冻死："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP"
 msgid "This Duplicant is about to freeze to death"
-msgstr "此复制人就快要被冻死了"
+msgstr "该复制人即将被冻死"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME"
 msgid "Going to flip compost"
-msgstr "准备堆肥"
+msgstr "将要去翻动堆肥"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.TOOLTIP"
 msgid "This Duplicant is going to flip the compost"
-msgstr "此复制人正准备去翻动堆肥"
+msgstr "该复制人正准备去翻动堆肥"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME"
@@ -6298,7 +6296,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKING.NAME"
@@ -6308,7 +6306,7 @@ msgstr "制作食物"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKING.TOOLTIP"
 msgid "This Duplicant is cooking up something tasty"
-msgstr "此复制人正在制作某种可口的东西"
+msgstr "该复制人正在制作某种可口的东西"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NAME"
@@ -6323,12 +6321,12 @@ msgstr "已到达每日最高卡路里"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have consumed their allotted <style=\"food\">Rations</style> for the day:"
-msgstr "复制人们今天消耗了<style=\"food\">口粮</style>"
+msgstr "以下复制人耗尽了今天的额定<style=\"food\">口粮</style>："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.TOOLTIP"
 msgid "This Duplicant has consumed their allotted <style=\"food\">Rations</style> for the day"
-msgstr "此复制人今天消耗了<style=\"food\">口粮</style>"
+msgstr "该复制人耗尽了今天的额定<style=\"food\">口粮</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEAD.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEAD.NAME"
@@ -6338,7 +6336,7 @@ msgstr "死者：{Death}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEAD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEAD.TOOLTIP"
 msgid "This Duplicant definitely isn't sleeping"
-msgstr "此复制人可能在思考人生"
+msgstr "该复制人绝不是睡着了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.NAME"
@@ -6348,7 +6346,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME"
@@ -6358,7 +6356,7 @@ msgstr "正在拆除{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP"
 msgid "This Duplicant is tearing down the {Target}"
-msgstr "此复制人正在拆除{Target}"
+msgstr "该复制人正在拆除{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.NAME"
@@ -6368,7 +6366,7 @@ msgstr "正在挖掘"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.TOOLTIP"
 msgid "This Duplicant is excavating raw resources"
-msgstr "此复制人正在挖掘矿物资源"
+msgstr "该复制人正在挖掘待加工资源"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.NAME"
@@ -6378,7 +6376,7 @@ msgstr "放置资源"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.TOOLTIP"
 msgid "This Duplicant is dropping what they're holding"
-msgstr "此复制人正在放置所携带的资源"
+msgstr "该复制人正在放置所携带的资源"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.NAME"
@@ -6388,7 +6386,7 @@ msgstr "迫不及待要开始新的一天"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.TOOLTIP"
 msgid "This Duplicant is an Early Bird and gets a burst of energy in the morning"
-msgstr "此复制人是一个在清晨会获得能量爆发的早起的鸟"
+msgstr "该复制人是一只早起的鸟儿，在清晨会爆发能量"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME"
@@ -6398,7 +6396,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME"
@@ -6408,7 +6406,7 @@ msgstr "正在进食{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP"
 msgid "This Duplicant is replenishing their <style=\"food\">Calorie</style> stores"
-msgstr "此复制人正在补充<style=\"food\">卡路里</style>"
+msgstr "该复制人正在补充<style=\"food\">卡路里</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME"
@@ -6423,12 +6421,12 @@ msgstr "复制人们呼出了<style=\"gas\">二氧化碳</style>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME"
 msgid "Emptying {Target}"
-msgstr "清空{Target}"
+msgstr "正在清空{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.TOOLTIP"
 msgid "This Duplicant is removing materials from the {Target}"
-msgstr "此复制人正在清空{Target}"
+msgstr "该复制人正在清空{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.NAME"
@@ -6438,7 +6436,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NAME"
@@ -6458,7 +6456,7 @@ msgstr "这些复制人被困住了："
 #. STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.TOOLTIP"
 msgid "This Duplicant needs someone to help dig them out!"
-msgstr "这个复制人需要其他人把他挖出来"
+msgstr "该复制人需要其他人把他挖出来！"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.NAME"
@@ -6468,17 +6466,17 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.NAME"
 msgid "Equipping <style=\"equipment\">{Item}</style>"
-msgstr "组装<style=\"equipment\">{Item}</style>"
+msgstr "正在组装<style=\"equipment\">{Item}</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.TOOLTIP"
 msgid "This Duplicant is equipping a <style=\"equipment\">{Item}</style>"
-msgstr "此复制人正在组装<style=\"equipment\">{Item}</style>"
+msgstr "该复制人正在组装<style=\"equipment\">{Item}</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME"
@@ -6488,17 +6486,17 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.NAME"
 msgid "Fabricating {Item}"
-msgstr "正在制造"
+msgstr "正在生产{Item}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.TOOLTIP"
 msgid "This Duplicant is making a {Item}"
-msgstr "此复制人正在制造{Item}"
+msgstr "该复制人正在制造{Item}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NAME"
@@ -6513,17 +6511,17 @@ msgstr "进入战斗！"
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have engaged a creature in combat:"
-msgstr "这些复制人在战斗中与对方进行了交战："
+msgstr "这些复制人在战斗中与生物进行了交战："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP"
 msgid "This Duplicant is attacking a creature"
-msgstr "此复制人正在攻击对方"
+msgstr "该复制人正在攻击生物"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME"
 msgid "Fleeing"
-msgstr "逃避中"
+msgstr "正在逃避"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_NAME"
@@ -6533,12 +6531,12 @@ msgstr "逃避中！"
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are trying to escape combat:"
-msgstr "这些复制人正试图逃离这场战斗："
+msgstr "以下复制人正试图逃离战斗："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.TOOLTIP"
 msgid "This Duplicant is trying to escape combat"
-msgstr "此复制人正试图逃离这场战斗"
+msgstr "该复制人正试图逃离战斗"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.NAME"
@@ -6548,7 +6546,7 @@ msgstr "膀胱已满"
 #. STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.TOOLTIP"
 msgid "This Duplicant would really appreciate a toilet"
-msgstr "此复制人会对有厕所可用而心怀感激"
+msgstr "该复制人会对有厕所可用而心怀感激"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME"
@@ -6558,7 +6556,7 @@ msgstr "正在发电"
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP"
 msgid "This Duplicant is using the {Target} to produce electrical <style=\"power\">Power</style>"
-msgstr "此复制人正在通过{Target}来提供电力<style=\"power\">Power</style>"
+msgstr "该复制人正在通过{Target}来提供电力<style=\"power\">电力</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME"
@@ -6568,7 +6566,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.NAME"
@@ -6578,7 +6576,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.NAME"
@@ -6588,7 +6586,7 @@ msgstr "正在收割{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.TOOLTIP"
 msgid "This Duplicant is gathering resources from a {Target}"
-msgstr "此复制人正在收割{Target}"
+msgstr "该复制人正在收割{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NAME"
@@ -6603,12 +6601,12 @@ msgstr "已患病"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have contracted a <style=\"disease\">Disease</style>:"
-msgstr "这些复制人感染了<style=\"disease\">疾病</style>："
+msgstr "以下复制人感染了<style=\"disease\">疾病</style>："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.TOOLTIP"
 msgid "This Duplicant has contracted a <style=\"disease\">Disease</style>"
-msgstr "此复制人感染了<style=\"disease\">疾病</style>"
+msgstr "该复制人感染了<style=\"disease\">疾病</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.NAME"
@@ -6618,7 +6616,7 @@ msgstr "屏住呼吸"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.TOOLTIP"
 msgid "This Duplicant cannot breathe in their current location"
-msgstr "此复制人在目前所处位置无法呼吸"
+msgstr "该复制人在目前所处位置无法呼吸"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME"
@@ -6633,12 +6631,12 @@ msgstr "温度过高"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are overheating:"
-msgstr "这些复制人好像快要熟了："
+msgstr "以下复制人快熟了："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP"
 msgid "This Duplicant is overheating"
-msgstr "此复制人好像快要熟了"
+msgstr "该复制人快熟了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME"
@@ -6648,7 +6646,7 @@ msgstr "饥饿"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP"
 msgid "This Duplicant would love a snack"
-msgstr "此复制人希望能有一顿点心"
+msgstr "该复制人希望能有一顿点心"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME"
@@ -6663,12 +6661,12 @@ msgstr "空闲"
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot reach any pending job tasks:"
-msgstr "这些复制人无法进行任何已预定的工作任务："
+msgstr "以下复制人无法进行任何已预定的工作任务："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP"
 msgid "This Duplicant cannot reach any pending job tasks"
-msgstr "此复制人无法进行任何已预订的工作任务"
+msgstr "该复制人无法进行任何已预订的工作任务"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME"
@@ -6683,12 +6681,12 @@ msgstr "已丧失工作能力"
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants need to be rescued before they kick the bucket"
-msgstr "这些复制人需要救援"
+msgstr "这些复制人需要救援，在翘辫子之前"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP"
 msgid "This Duplicant is near death! They need to be rescued quickly"
-msgstr "此复制人快要翘辫子了，需要马上救援！"
+msgstr "该复制人濒临死亡！需要马上救援"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME"
@@ -6703,12 +6701,12 @@ msgstr "破坏设备中"
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants broke buildings to relieve <style=\"stress\">Stress</style>:"
-msgstr "这些复制人正在通过破坏设备来缓解<style=\"stress\">压力</style>："
+msgstr "这些复制人正在通过破坏设施来缓解<style=\"stress\">压力</style>："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.TOOLTIP"
 msgid "This Duplicant is breaking stuff to relieve <style=\"stress\">Stress</style>"
-msgstr "此复制人正在通过破坏设备来缓解<style=\"stress\">压力</style>"
+msgstr "该复制人正在通过破坏设施来缓解<style=\"stress\">压力</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NAME"
@@ -6728,7 +6726,7 @@ msgstr "这些复制人正工作在低<style=\"oxygen\">氧气</style>浓度区�
 #. STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.TOOLTIP"
 msgid "This Duplicant is working in a dangerously low <style=\"oxygen\">Oxygen</style> area"
-msgstr "此复制人正工作在危险<style=\"oxygen\">氧气</style>浓度区域"
+msgstr "该复制人正工作在危险低<style=\"oxygen\">氧气</style>浓度区域"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.NAME"
@@ -6738,7 +6736,7 @@ msgstr "手动任务"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.TOOLTIP"
 msgid "This Duplicant is manually controlled and has been ordered to perform a specific task"
-msgstr "此复制人被手动控制指定了一个特殊任务"
+msgstr "该复制人被手动控制并指定了一个特殊任务"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.NAME"
@@ -6748,7 +6746,7 @@ msgstr "手动移动"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.TOOLTIP"
 msgid "This Duplicant is manually controlled and has been ordered to a specific location"
-msgstr "此复制人被手动控制指定了一个特殊位置"
+msgstr "该复制人被手动控制并指定了一个特殊地点"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME"
@@ -6758,7 +6756,7 @@ msgstr "手动空闲"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP"
 msgid "This Duplicant is manually controlled and will be idle until given a task"
-msgstr "此复制人正被手动控制，在指定任务之前将会一直空闲"
+msgstr "该复制人正被手动控制，在指定任务之前将会一直空闲"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.NAME"
@@ -6768,7 +6766,7 @@ msgstr "手动控制"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under manual control and cannot act independently"
-msgstr "此复制人正被手动控制，无法自主工作"
+msgstr "该复制人正被手动控制，无法自主工作"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.NAME"
@@ -6778,7 +6776,7 @@ msgstr "精神崩溃"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.TOOLTIP"
 msgid "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to function"
-msgstr "此复制人的行为能力已被过高的<style=\"stress\">压力</style>完全摧毁"
+msgstr "该复制人的行为能力已被过高的<style=\"stress\">压力</style>完全摧毁"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME"
@@ -6788,7 +6786,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME"
@@ -6798,17 +6796,17 @@ msgstr "打扫"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning</style> up a nasty spill"
-msgstr "此复制人正在<style=\"hygiene\">打扫</style>某人不小心漏出来的东西"
+msgstr "该复制人正在<style=\"hygiene\">打扫</style>洒出来的脏东西"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME"
 msgid "Exiting <style=\"equipment\">Exosuit</style> area"
-msgstr "正在离开<style=\"equipment\">建筑</style>建造区域"
+msgstr "正在离开<style=\"equipment\">潜水服</style>区域"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP"
 msgid "This Duplicant is leaving an area where an <style=\"equipment\">Exosuit</style> was required"
-msgstr "此复制人正在离开<style=\"equipment\">建筑</style>建造所需区域"
+msgstr "该复制人正在离开需要<style=\"equipment\">潜水服</style>的区域"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME"
@@ -6818,7 +6816,7 @@ msgstr "正在移动到安全区域"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.TOOLTIP"
 msgid "This Duplicant is finding a safer place"
-msgstr "此复制人正在寻找安全区域"
+msgstr "该复制人正在寻找安全区域"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME"
@@ -6828,17 +6826,17 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.NAME"
 msgid "Mushing microbes"
-msgstr "糊状微生物"
+msgstr "正在用微生物制糊"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.TOOLTIP"
 msgid "This Duplicant is trying to produce something edible"
-msgstr "此复制人正准备做出什么能吃的东西"
+msgstr "该复制人正准备做出什么能吃的东西"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NAME"
@@ -6853,82 +6851,82 @@ msgstr "精神崩溃"
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have cracked under the <style=\"stress\">Stress</style> and need assistance:"
-msgstr "这些复制人需要帮助，因为他们在<style=\"stress\">压力</style>下精神崩溃了："
+msgstr "以下复制人在<style=\"stress\">压力</style>下精神崩溃了，需要帮助："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP"
 msgid "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to function"
-msgstr "此复制人的行为能力已被过高的<style=\"stress\">压力</style>完全摧毁"
+msgstr "该复制人的行为能力已被过高的<style=\"stress\">压力</style>完全摧毁"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME"
 msgid "Impassioned by the night"
-msgstr "激情之夜"
+msgstr "夜来疯"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP"
 msgid "This Duplicant is a Night Owl and gets a burst of energy at night"
-msgstr "此复制人是一个在夜晚会获得能量爆发的夜猫子"
+msgstr "该复制人是一个夜猫子，在夜晚会获得能量爆发"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME"
 msgid "No food available"
-msgstr "食物储备不足"
+msgstr "没有食物"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_NAME"
 msgid "No food available"
-msgstr "食物储备不足"
+msgstr "没有食物"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have nothing to eat:"
-msgstr "这些复制人正在考虑要喝西北风还是东北风："
+msgstr "以下复制人没有食物可吃："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.TOOLTIP"
 msgid "There is nothing in the colony for this Duplicant to eat"
-msgstr "此复制人已经找不到什么能吃的了"
+msgstr "该复制人已经找不到什么能吃的了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME"
 msgid "No restrooms"
-msgstr "无可用的洗手间"
+msgstr "没有洗手间"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_NAME"
 msgid "No restrooms built"
-msgstr "无已建造的洗手间"
+msgstr "没有已建造的洗手间"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are distressed by the lack of toilets:"
-msgstr "这些复制人正因为没有洗手间可用而苦恼："
+msgstr "以下复制人正因为没有洗手间可用而苦恼："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP"
 msgid "There are no toilets available for this Duplicant"
-msgstr "此复制人无厕所可用"
+msgstr "该复制人无厕所可用"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME"
 msgid "Restroom out of order"
-msgstr "洗手间出问题了"
+msgstr "厕所故障"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_NAME"
 msgid "Restrooms out of order"
-msgstr "洗手间出问题了"
+msgstr "厕所故障"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants want to use a toilet that is out of order:"
-msgstr "这些复制人正在等待厕所可用："
+msgstr "以下复制人想使用故障的厕所："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP"
 msgid "The only toilets in this Duplicant's reach are out of order"
-msgstr "此复制人唯一能够使用到的厕所出问题了"
+msgstr "该复制人唯一能够使用到的厕所出故障了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME"
@@ -6938,7 +6936,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME"
@@ -6948,7 +6946,7 @@ msgstr "正在拾起{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP"
 msgid "This Duplicant is retrieving {Target}"
-msgstr "此复制人正在拾起{Target}"
+msgstr "该复制人正在拾起{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME"
@@ -6958,7 +6956,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME"
@@ -6968,7 +6966,7 @@ msgstr "单调的装饰"
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP"
 msgid "This Duplicant finds this room's lack of <style=\"decor\">Decor</style> depressing"
-msgstr "此复制人感觉这房间的<style=\"decor\">装饰</style>实在太单调了"
+msgstr "该复制人感觉这房间的<style=\"decor\">装饰</style>实在太单调了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME"
@@ -6983,12 +6981,12 @@ msgstr "无指定的隔离区"
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have not been assigned a room:"
-msgstr "这些复制人还没有被分配房间："
+msgstr "以下复制人还没有被分配房间："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.TOOLTIP"
 msgid "This Duplicant has not been assigned a room"
-msgstr "此复制人还没有被分配房间"
+msgstr "该复制人还没有被分配房间"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME"
@@ -7003,12 +7001,12 @@ msgstr "不可达的隔离区"
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot reach their assigned quarantine zones:"
-msgstr "这些复制人无法到达已分配的隔离区："
+msgstr "以下复制人无法到达已分配的隔离区："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot reach their quarantine zone"
-msgstr "此复制人无法到达已分配的隔离区"
+msgstr "该复制人无法到达已分配的隔离区"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.NAME"
@@ -7018,37 +7016,37 @@ msgstr "已被隔离"
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.TOOLTIP"
 msgid "This Duplicant has been isolated from the colony"
-msgstr "此复制人已被隔离"
+msgstr "该复制人已被隔离"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NAME"
 msgid "Cannot reach food"
-msgstr "无法接近食物"
+msgstr "无法到达食物"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_NAME"
 msgid "Food beyond reach"
-msgstr "无法接近食物"
+msgstr "无法到达食物"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot access the colony's <style=\"food\">Food</style>:"
-msgstr "这些复制人无法接近殖民地里的<style=\"food\">食物</style>："
+msgstr "以下复制人无法到达殖民地里的<style=\"food\">食物</style>："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.TOOLTIP"
 msgid "There is <style=\"food\">Food</style> in the colony but this Duplicant cannot reach it"
-msgstr "此复制人无法接近殖民地里的<style=\"food\">食物</style>"
+msgstr "该复制人无法到达殖民地里的<style=\"food\">食物</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.NAME"
 msgid "Recovering breath"
-msgstr "恢复呼吸"
+msgstr "正在恢复呼吸"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.TOOLTIP"
 msgid "This Duplicant had to hold their breath for too long and needs a breather"
-msgstr "此复制人屏住呼吸太久了因而需要休息一下"
+msgstr "该复制人屏住呼吸太久了，需要休息一下"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME"
@@ -7068,7 +7066,7 @@ msgstr "放松中"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.TOOLTIP"
 msgid "This Duplicant's just taking it easy"
-msgstr "此复制人只是在放松一下"
+msgstr "该复制人只是在放松一下"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.NAME"
@@ -7078,7 +7076,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME"
@@ -7088,7 +7086,7 @@ msgstr "正在维修{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.TOOLTIP"
 msgid "This Duplicant is fixing the {Target}"
-msgstr "此复制人正在维修{Target}"
+msgstr "该复制人正在维修{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.NAME"
@@ -7098,7 +7096,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.NAME"
@@ -7118,7 +7116,7 @@ msgstr "正在研究<style=\"research\">{Tech}</style>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.TOOLTIP"
 msgid "This Duplicant is intently researching <style=\"research\">{Tech}</style> technology"
-msgstr "此复制人正在心无旁骛的研究<style=\"research\">{Tech}</style>科技"
+msgstr "该复制人正在心无旁骛地研究<style=\"research\">{Tech}</style>科技"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ROTTEN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ROTTEN.NAME"
@@ -7143,12 +7141,12 @@ msgstr "伤势严重"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are badly hurt and require medical attention"
-msgstr "这些复制人伤势过重因而需要医疗照顾"
+msgstr "这些复制人伤势严重，需要医治"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.TOOLTIP"
 msgid "This Duplicant is badly hurt"
-msgstr "这个复制人伤势严重"
+msgstr "该复制人伤势严重"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SHOWERING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SHOWERING.NAME"
@@ -7158,7 +7156,7 @@ msgstr "淋浴中"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SHOWERING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SHOWERING.TOOLTIP"
 msgid "This Duplicant is getting squeaky <style=\"hygiene\">Clean</style>"
-msgstr "此复制人把身体搓得<style=\"hygiene\">吱吱作响</style>"
+msgstr "该复制人正在把自己<style=\"hygiene\">清洗</style>得一清二白"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.NAME"
@@ -7168,7 +7166,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.NAME"
@@ -7178,27 +7176,27 @@ msgstr "睡觉中"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.TOOLTIP"
 msgid "This Duplicant is recovering stamina"
-msgstr "这个复制人正在恢复耐力"
+msgstr "该复制人正在恢复体力"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NAME"
 msgid "Starving"
-msgstr "饥火烧肠"
+msgstr "饥饿"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_NAME"
 msgid "Starvation"
-msgstr "饥火烧肠"
+msgstr "饥肠辘辘"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are starving and need <style=\"food\">Food</style>:"
-msgstr "这些复制人正在挨饿并需要<style=\"food\">食物</style>："
+msgstr "以下复制人正在挨饿，需要<style=\"food\">食物</style>："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.TOOLTIP"
 msgid "This Duplicant needs <style=\"food\">Food</style>!"
-msgstr "这个复制人需要<style=\"food\">食物</style>！"
+msgstr "该复制人需要<style=\"food\">食物</style>！"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.NAME"
@@ -7208,7 +7206,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.NAME"
@@ -7218,7 +7216,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.NAME"
@@ -7228,17 +7226,17 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送材料到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.NAME"
 msgid "Allocating {Item} to {Target}"
-msgstr "部署{Item}到{Target}"
+msgstr "分配{Item}到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is delivering {Item} resources to a construction task to build {Target}"
-msgstr "此复制人正在运送{Item}资源到{Target}建造任务"
+msgstr "该复制人正在运送{Item}资源到{Target}建造任务"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME"
@@ -7248,7 +7246,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "该复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORING.NAME"
@@ -7258,7 +7256,7 @@ msgstr "正在储存{Item}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORING.TOOLTIP"
 msgid "This Duplicant is putting {Item} in storage"
-msgstr "这个复制人正在将{Item}存入储存器"
+msgstr "该复制人正在将{Item}存入库存"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NAME"
@@ -8868,7 +8866,7 @@ msgstr "虱子糕"
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC"
 msgid "<style=\"food\">Meal Lice</style> compacted into a dense, immobile loaf."
-msgstr ""<style=\"food\">食用虱子</style>被压缩成一块高密度、静止的肉糕。"
+msgstr "<style=\"food\">食用虱子</style>被压缩成一块高密度、静止的肉糕。"
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC"
@@ -9123,7 +9121,7 @@ msgstr "复制人屈服与病魔"
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.TOOLTIP"
 msgid "These Duplicants died from an untreated <style=\"disease\">Disease</style>:"
-msgstr "以下复制人因<style=\"disease\">疾病</style>未被治愈而死亡:"
+msgstr "以下复制人因<style=\"disease\">疾病</style>未被治愈而死亡："
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.NAME"
@@ -9263,7 +9261,7 @@ msgstr "复制人因吸入其他气体而窒息"
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.TOOLTIP"
 msgid "These Duplicants died from breathing <style=\"gas\">Gas</style> with no <style=\"oxygen\">Oxygen</style>:"
-msgstr "以下复制人因吸入<style=\"gas\">气体</style>而不是<style=\"oxygen\">氧气</style>而窒息:"
+msgstr "以下复制人因吸入<style=\"gas\">气体</style>而不是<style=\"oxygen\">氧气</style>而窒息："
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME"
@@ -9603,7 +9601,7 @@ msgstr "未指定储存区域"
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP"
 msgid "You have no defined storage regions.\nUse the <color=#833A5FFF>CREATE STORAGE TOOL</color> [Y] to create storage for these items:\n{0}"
-msgstr "你没有指定储存区域。\n使用 <color=#833A5FFF>建造储藏点工具</color> [Y]来给以下道具创造储存区域。:\n{0}"
+msgstr "你没有指定储存区域。\n使用 <color=#833A5FFF>建造储藏点工具</color> [Y]来给以下道具创造储存区域。：\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME"
@@ -9803,1127 +9801,1127 @@ msgstr "擦拭"
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME"
 msgid "Bleachstone blocked"
-msgstr ""
+msgstr "漂白石被堵塞"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Bleachstone</style> deposit is not exposed to air and cannot emit <style=\"gas\">Chlorine</style>"
-msgstr ""
+msgstr "该<style=\"solid\">漂白石</style>没有暴露在空气中，不能放出 <style=\"gas\">氯气</style>"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.NAME"
 msgid "Inert"
-msgstr ""
+msgstr "惰性状态"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Bleachstone</style> deposit to emit <style=\"gas\">Chlorine</style>"
-msgstr ""
+msgstr "环境气压过高，该<style=\"solid\">漂白石</style>不能放出<style=\"gas\">氯气</style> "
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.NAME"
 msgid "{BlockedString}"
-msgstr ""
+msgstr "{BlockedString}"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Bleachstone</style> deposit has no room to emit <style=\"gas\">Chlorine</style>"
-msgstr ""
+msgstr "该<style=\"solid\">漂白石</style>没有空间放出<style=\"gas\">氯气</style>"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.NAME"
 msgid "Emitting <style=\"gas\">{Element}</style>: {FlowRate}"
-msgstr ""
+msgstr "放出<style=\"gas\">{Element}</style>速率：{FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP"
 msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
-msgstr ""
+msgstr " 正在以{FlowRate}的速率产生<style=\"gas\">{Element}</style>"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME"
 msgid "Inert"
-msgstr ""
+msgstr "惰性状态"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Bleachstone</style> deposit to emit <style=\"gas\">Chlorine</style>"
-msgstr ""
+msgstr "环境气压过高，该<style=\"solid\">漂白石</style>不能放出<style=\"gas\">氯气</style> "
 
 #. STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME"
 msgid "Buried Object"
-msgstr ""
+msgstr "被掩埋的物体"
 
 #. STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP"
 msgid "Something seems to be hidden here"
-msgstr ""
+msgstr "看起来这里藏着什么"
 
 #. STRINGS.MISC.STATUSITEMS.CLEANING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
 msgid "Cleaning"
-msgstr ""
+msgstr "清扫中"
 
 #. STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP"
 msgid "This building is currently being cleaned"
-msgstr ""
+msgstr "该设施正在被清扫"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
 msgid "{EdibleName} count: {EdibleCount} ({RationCount})"
-msgstr ""
+msgstr "{EdibleName}计数：{EdibleCount} ({RationCount})"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP"
 msgid "Can provide <style=\"food\">{RationCount}</style> of energy to Duplicants"
-msgstr ""
+msgstr "可以为复制人提供<style=\"food\">{RationCount}</style>"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME"
 msgid "{Category}"
-msgstr ""
+msgstr "{Category}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP"
 msgid "This object belongs to the {Category} resource category"
-msgstr ""
+msgstr "该物体属于{Category}资源分类"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.NAME"
 msgid "{Mass}"
-msgstr ""
+msgstr "{Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP"
 msgid "This object has a mass of {Mass}"
-msgstr ""
+msgstr "该物体质量为 {Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.NAME"
 msgid "{Temp}"
-msgstr ""
+msgstr "{Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP"
 msgid "This object is currently {Temp}"
-msgstr ""
+msgstr "该物体当前{Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME"
 msgid "Severe"
-msgstr ""
+msgstr "严重感染"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP"
 msgid "This Duplicant is in serious need of <style=\"medicine\">Medical</style> attention"
-msgstr ""
+msgstr "该复制人现在急需<style=\"medicine\">Medical</style>"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME"
 msgid "Conclusive"
-msgstr ""
+msgstr "确认死亡"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.TOOLTIP"
 msgid "This Duplicant won't be getting back up"
-msgstr ""
+msgstr "该复制人不会再起来了"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.NAME"
 msgid "Paralyzing"
-msgstr ""
+msgstr "瘫痪"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP"
 msgid "This Duplicant will die if they do not receive <style=\"medicine\">Medical</style> attention"
-msgstr ""
+msgstr "若没有<style=\"medicine\">药品</style>治疗，该复制人将会死亡"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME"
 msgid "Moderate"
-msgstr ""
+msgstr "亚健康"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.TOOLTIP"
 msgid "This Duplicant needs some patching up"
-msgstr ""
+msgstr "该复制人需要一些微小的治疗"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.NAME"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.TOOLTIP"
 msgid "This Duplicant is in peak condition"
-msgstr ""
+msgstr "该复制人正在最佳状态"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME"
 msgid "Minor"
-msgstr ""
+msgstr "轻伤"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP"
 msgid "This Duplicant has a few scrapes and bruises"
-msgstr ""
+msgstr "该复制人有一些擦伤"
 
 #. STRINGS.MISC.STATUSITEMS.HIT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HIT.NAME"
 msgid "{targetName} took {damageAmount} damage from {attackerName}'s attack!"
-msgstr ""
+msgstr "{targetName}受到了{attackerName}的{damageAmount}点伤害！"
 
 #. STRINGS.MISC.STATUSITEMS.OPERATING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.NAME"
 msgid "Being Used"
-msgstr ""
+msgstr "正在被使用"
 
 #. STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP"
 msgid "This building is currently in use"
-msgstr ""
+msgstr "该设备正在被使用"
 
 #. STRINGS.MISC.STATUSITEMS.OREMASS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.NAME"
 msgid "{Mass}"
-msgstr ""
+msgstr "{Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP"
 msgid "This object has a mass of {Mass}"
-msgstr ""
+msgstr "物体质量为{Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.ORETEMP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.NAME"
 msgid "{Temp}"
-msgstr ""
+msgstr "{Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP"
 msgid "This object is currently {Temp}"
-msgstr ""
+msgstr "该物体当前{Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME"
 msgid "Oxylite blocked"
-msgstr ""
+msgstr "氧气石被阻挡"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Oxylite</style> deposit is not exposed to air and cannot emit <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "该<style=\"solid\">氧气石</style>没有暴露在空气中，不能放出<style=\"oxygen\">氧气</style> "
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME"
 msgid "Inert"
-msgstr ""
+msgstr "惰性状态"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Oxylite</style> deposit to emit <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "环境气压过高，该<style=\"solid\">氧气石</style>不能放出<style=\"gas\">氧气</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME"
 msgid "{BlockedString}"
-msgstr ""
+msgstr "{BlockedString}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Oxylite</style> deposit has no room to emit <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "该<style=\"solid\">氧气石</style>没有空间放出<style=\"gas\">氧气</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME"
 msgid "Emitting <style=\"oxygen\">Oxygen</style>: {FlowRate}"
-msgstr ""
+msgstr "放出 <style=\"oxygen\">氧气</style>速率：{FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.TOOLTIP"
 msgid "Producing <style=\"oxygen\">Oxygen</style> at {FlowRate}"
-msgstr ""
+msgstr "正在以{FlowRate}产生<style=\"oxygen\">氧气</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.NAME"
 msgid "Inert"
-msgstr ""
+msgstr "惰性状态"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Oxylite</style> deposit to emit <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "环境气压过高，该<style=\"solid\">氧气石</style>不能放出<style=\"gas\">氧气</style>"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
 msgid "Sweep pending"
-msgstr ""
+msgstr "预定打扫"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
 msgid "Awaiting a Duplicant to sweep"
-msgstr ""
+msgstr "正在等待复制人打扫"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest pending"
-msgstr ""
+msgstr "预定收获"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
 msgid "Awaiting a Duplicant to harvest"
-msgstr ""
+msgstr "正在等待复制人收获"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Dig up pending"
-msgstr ""
+msgstr "预定挖出"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Awaiting a Duplicant to dig up"
-msgstr ""
+msgstr "正在等待复制人打扫"
 
 #. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME"
 msgid "Unreachable"
-msgstr ""
+msgstr "不可达"
 
 #. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this item"
-msgstr ""
+msgstr "复制人无法到达该物品"
 
 #. STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME"
 msgid "Prioritized"
-msgstr ""
+msgstr "优先"
 
 #. STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP"
 msgid "This task has been made a high priority"
-msgstr ""
+msgstr "该任务已被标为高优先级"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONINVALID.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONINVALID.NAME"
 msgid "Invalid Region"
-msgstr ""
+msgstr "无效区域"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONINVALID.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONINVALID.TOOLTIP"
 msgid "This region currently needs:\n{0}"
-msgstr ""
+msgstr "该区域当前需要：\n{0}"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME"
 msgid "Blocked"
-msgstr ""
+msgstr "被阻挡"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP"
 msgid "Undug material is blocking off an essential tile"
-msgstr ""
+msgstr "未挖掘的材料正阻挡必要的区块"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME"
 msgid "Missing Walls"
-msgstr ""
+msgstr "缺少墙壁"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP"
 msgid "Use tiles to build walls around this region"
-msgstr ""
+msgstr "使用区块来建造区域周围的墙壁"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME"
 msgid "Missing Doors"
-msgstr ""
+msgstr "缺少门"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP"
 msgid "This region must have at least one door"
-msgstr ""
+msgstr "该区域必须至少有一扇门"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.NAME"
 msgid "Missing Furniture"
-msgstr ""
+msgstr "缺少家具"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.TOOLTIP"
 msgid "This region still needs:\n{0}"
-msgstr ""
+msgstr "该区域仍缺少：\n{0}"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.NAME"
 msgid "Insufficient Size"
-msgstr ""
+msgstr "面积不足"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.TOOLTIP"
 msgid "This region must be a minimum of {0} tiles high and {0} tiles wide"
-msgstr ""
+msgstr "该区域至少需要{0}格高{0}格宽"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME"
 msgid "Venting"
-msgstr ""
+msgstr "正在排放"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP"
 msgid "This spout is releasing gas"
-msgstr ""
+msgstr "该喷口正在放出气体"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME"
 msgid "Over pressure"
-msgstr ""
+msgstr "高压"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP"
 msgid "Spout cannot vent due to high environmental pressure"
-msgstr ""
+msgstr "因为环境压强过高，喷口不能喷出"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME"
 msgid "Pressure rising"
-msgstr ""
+msgstr "压力上升中"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP"
 msgid "Gas pressure is building"
-msgstr ""
+msgstr "气压上升中"
 
 #. STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME"
 msgid "{Tags}"
-msgstr ""
+msgstr "{Tags}"
 
 #. STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.TOOLTIP"
 msgid "{Tags}"
-msgstr ""
+msgstr "{Tags}"
 
 #. STRINGS.MISC.STATUSITEMS.USING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.USING.NAME"
 msgid "Using {Target}"
-msgstr ""
+msgstr "正在使用{Target}"
 
 #. STRINGS.MISC.STATUSITEMS.USING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.USING.TOOLTIP"
 msgid "{Target} is currently in use"
-msgstr ""
+msgstr "{Target}正在被使用"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
 msgid "Dig pending"
-msgstr ""
+msgstr "预定挖掘"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
 msgid "Awaiting a Duplicant to dig"
-msgstr ""
+msgstr "正在等待复制人挖掘"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop pending"
-msgstr ""
+msgstr "预定打扫"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
 msgid "Awaiting a Duplicant to mop"
-msgstr ""
+msgstr "正在等待复制人打扫"
 
 #. STRINGS.MISC.TAGS.ALLOY
 msgctxt "STRINGS.MISC.TAGS.ALLOY"
 msgid "Alloy"
-msgstr ""
+msgstr "合金"
 
 #. STRINGS.MISC.TAGS.BLEACHSTONE
 msgctxt "STRINGS.MISC.TAGS.BLEACHSTONE"
 msgid "Bleach Stone"
-msgstr ""
+msgstr "漂白石"
 
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
 msgid "Breathable Gas"
-msgstr ""
+msgstr "可呼吸气体"
 
 #. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
 msgid "Refined Mineral"
-msgstr ""
+msgstr "精炼矿物"
 
 #. STRINGS.MISC.TAGS.BUILDABLERAW
 msgctxt "STRINGS.MISC.TAGS.BUILDABLERAW"
 msgid "Raw Mineral"
-msgstr ""
+msgstr "粗矿物"
 
 #. STRINGS.MISC.TAGS.BURNS
 msgctxt "STRINGS.MISC.TAGS.BURNS"
 msgid "Flammable"
-msgstr ""
+msgstr "可燃物"
 
 #. STRINGS.MISC.TAGS.COAL
 msgctxt "STRINGS.MISC.TAGS.COAL"
 msgid "Coal"
-msgstr ""
+msgstr "煤炭"
 
 #. STRINGS.MISC.TAGS.CONSUMABLEORE
 msgctxt "STRINGS.MISC.TAGS.CONSUMABLEORE"
 msgid "Consumable Ore"
-msgstr ""
+msgstr "消耗品矿石"
 
 #. STRINGS.MISC.TAGS.EMITSLIGHT
 msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
 msgid "Light Emitter"
-msgstr ""
+msgstr "光源"
 
 #. STRINGS.MISC.TAGS.FARMABLE
 msgctxt "STRINGS.MISC.TAGS.FARMABLE"
 msgid "Cultivable Soil"
-msgstr ""
+msgstr "可种植土壤"
 
 #. STRINGS.MISC.TAGS.FILTER
 msgctxt "STRINGS.MISC.TAGS.FILTER"
 msgid "Filtration Medium"
-msgstr ""
+msgstr "过滤物"
 
 #. STRINGS.MISC.TAGS.GAS
 msgctxt "STRINGS.MISC.TAGS.GAS"
 msgid "Gas"
-msgstr ""
+msgstr "气体"
 
 #. STRINGS.MISC.TAGS.ICEORE
 msgctxt "STRINGS.MISC.TAGS.ICEORE"
 msgid "Ice"
-msgstr ""
+msgstr "冰"
 
 #. STRINGS.MISC.TAGS.LIFE
 msgctxt "STRINGS.MISC.TAGS.LIFE"
 msgid "Life"
-msgstr ""
+msgstr "生命"
 
 #. STRINGS.MISC.TAGS.LIQUID
 msgctxt "STRINGS.MISC.TAGS.LIQUID"
 msgid "Liquid"
-msgstr ""
+msgstr "液体"
 
 #. STRINGS.MISC.TAGS.LIQUIFIABLE
 msgctxt "STRINGS.MISC.TAGS.LIQUIFIABLE"
 msgid "Liquifiable"
-msgstr ""
+msgstr "可液化"
 
 #. STRINGS.MISC.TAGS.METAL
 msgctxt "STRINGS.MISC.TAGS.METAL"
 msgid "Raw Metal"
-msgstr ""
+msgstr "粗金属"
 
 #. STRINGS.MISC.TAGS.MIXTURE
 msgctxt "STRINGS.MISC.TAGS.MIXTURE"
 msgid "Mixture"
-msgstr ""
+msgstr "混合物"
 
 #. STRINGS.MISC.TAGS.ORE
 msgctxt "STRINGS.MISC.TAGS.ORE"
 msgid "Ore"
-msgstr ""
+msgstr "矿石"
 
 #. STRINGS.MISC.TAGS.ORGANICS
 msgctxt "STRINGS.MISC.TAGS.ORGANICS"
 msgid "Organic"
-msgstr ""
+msgstr "有机的"
 
 #. STRINGS.MISC.TAGS.OTHER
 msgctxt "STRINGS.MISC.TAGS.OTHER"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "杂物"
 
 #. STRINGS.MISC.TAGS.PHOSPHORUS
 msgctxt "STRINGS.MISC.TAGS.PHOSPHORUS"
 msgid "Phosphorus"
-msgstr ""
+msgstr "磷"
 
 #. STRINGS.MISC.TAGS.PRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.PRECIOUSMETAL"
 msgid "Precious Metal"
-msgstr ""
+msgstr "贵金属"
 
 #. STRINGS.MISC.TAGS.RAWPRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.RAWPRECIOUSMETAL"
 msgid "Raw Precious Metal"
-msgstr ""
+msgstr "粗贵金属"
 
 #. STRINGS.MISC.TAGS.REFINEDMETAL
 msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
 msgid "Refined Metal"
-msgstr ""
+msgstr "精炼金属"
 
 #. STRINGS.MISC.TAGS.SOLID
 msgctxt "STRINGS.MISC.TAGS.SOLID"
 msgid "Solid"
-msgstr ""
+msgstr "固体"
 
 #. STRINGS.MISC.TAGS.SPECIAL
 msgctxt "STRINGS.MISC.TAGS.SPECIAL"
 msgid "Special"
-msgstr ""
+msgstr "特殊"
 
 #. STRINGS.MISC.TAGS.TOXIC
 msgctxt "STRINGS.MISC.TAGS.TOXIC"
 msgid "Toxic"
-msgstr ""
+msgstr "有毒物"
 
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
 msgid "Unbreathable"
-msgstr ""
+msgstr "不可呼吸"
 
 #. STRINGS.MISC.TAGS.UNSTABLE
 msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
 msgid "Unstable Material"
-msgstr ""
+msgstr "不稳定材料"
 
 #. STRINGS.REGIONS.EXOSUITREGION.NAME
 msgctxt "STRINGS.REGIONS.EXOSUITREGION.NAME"
 msgid "Exosuit"
-msgstr ""
+msgstr "潜水服"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.BLOCKED
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.BLOCKED"
 msgid "Cells must be cleared of solid materials and tiles"
-msgstr ""
+msgstr "不能有固体和区块"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.BUILDINGTAG
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.BUILDINGTAG"
 msgid "A building tagged '{0}'\n"
-msgstr ""
+msgstr "一个标签为'{0}的设施'\n"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.DOOR
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.DOOR"
 msgid "A Door"
-msgstr ""
+msgstr "一扇门"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.ENCLOSED
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.ENCLOSED"
 msgid "To be enclosed"
-msgstr ""
+msgstr "需要封闭"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT"
 msgid "A height of at least {0} cells"
-msgstr ""
+msgstr "高度至少为{0}"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.WIDTH
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.WIDTH"
 msgid "A width of at least {0} cells"
-msgstr ""
+msgstr "宽度至少为{0}"
 
 #. STRINGS.RESEARCH.ADVANCEDFILTRATION.DESC
 msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.DESC"
 msgid "Cutting-edge technologies to get the most out of your recycled materials."
-msgstr ""
+msgstr "能回收大部分材料的尖端科技。"
 
 #. STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME
 msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME"
 msgid "Advanced Filtration"
-msgstr ""
+msgstr "强化过滤"
 
 #. STRINGS.RESEARCH.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.COMBUSTION.DESC"
 msgid "Crude fuel-powered generators for automatic <style=\"power\">Power</style> production."
-msgstr ""
+msgstr "简陋的燃料驱动发电机，自动产生<style=\"power\">电力</style>。"
 
 #. STRINGS.RESEARCH.COMBUSTION.NAME
 msgctxt "STRINGS.RESEARCH.COMBUSTION.NAME"
 msgid "Combustion"
-msgstr ""
+msgstr "燃烧"
 
 #. STRINGS.RESEARCH.FARMINGTECH.DESC
 msgctxt "STRINGS.RESEARCH.FARMINGTECH.DESC"
 msgid "Produce <style=\"food\">Food</style> by mastering the peaceful art of agriculture."
-msgstr ""
+msgstr "通过掌握怡然的农业技巧来生产<style=\"food\">食物</style>。"
 
 #. STRINGS.RESEARCH.FARMINGTECH.NAME
 msgctxt "STRINGS.RESEARCH.FARMINGTECH.NAME"
 msgid "Farming Tech"
-msgstr ""
+msgstr "农业科技"
 
 #. STRINGS.RESEARCH.FINEDINING.DESC
 msgctxt "STRINGS.RESEARCH.FINEDINING.DESC"
 msgid "Prepare more nutritious <style=\"food\">Food</style> and store it longer before spoiling."
-msgstr ""
+msgstr "准备更营养的<style=\"food\">食物</style>，而且能在腐坏前保存更久。"
 
 #. STRINGS.RESEARCH.FINEDINING.NAME
 msgctxt "STRINGS.RESEARCH.FINEDINING.NAME"
 msgid "Fine Dining"
-msgstr ""
+msgstr "豪华餐厅"
 
 #. STRINGS.RESEARCH.GASPIPING.DESC
 msgctxt "STRINGS.RESEARCH.GASPIPING.DESC"
 msgid "Rudimentary technologies for installing <style=\"gas\">Gas</style> infrastructure."
-msgstr ""
+msgstr "安装<style=\"gas\">气体</style>基础设施的初级科技"
 
 #. STRINGS.RESEARCH.GASPIPING.NAME
 msgctxt "STRINGS.RESEARCH.GASPIPING.NAME"
 msgid "Gas Piping"
-msgstr ""
+msgstr "气体管道运输"
 
 #. STRINGS.RESEARCH.INSULATION.DESC
 msgctxt "STRINGS.RESEARCH.INSULATION.DESC"
 msgid "Improve <style=\"heat\">Heat</style> distribution in your base and guard buildings from extreme temperatures."
-msgstr ""
+msgstr "改善你基地内的<style=\"heat\">热</style>分布，并在极端温度下保护你的设施。"
 
 #. STRINGS.RESEARCH.INSULATION.NAME
 msgctxt "STRINGS.RESEARCH.INSULATION.NAME"
 msgid "Insulation"
-msgstr ""
+msgstr "隔热"
 
 #. STRINGS.RESEARCH.INTERIORDECOR.DESC
 msgctxt "STRINGS.RESEARCH.INTERIORDECOR.DESC"
 msgid "<style=\"decor\">Decor</style> boosting items to counteract the gloom of underground living."
-msgstr ""
+msgstr "强化<style=\"decor\">装饰度</style>的道具，减少地下生活带来的愁闷。"
 
 #. STRINGS.RESEARCH.INTERIORDECOR.NAME
 msgctxt "STRINGS.RESEARCH.INTERIORDECOR.NAME"
 msgid "Interior Decor"
-msgstr ""
+msgstr "内饰"
 
 #. STRINGS.RESEARCH.LIQUIDPIPING.DESC
 msgctxt "STRINGS.RESEARCH.LIQUIDPIPING.DESC"
 msgid "Rudimentary technologies for installing <style=\"liquid\">Liquid</style> infrastructure."
-msgstr ""
+msgstr "安装 <style=\"liquid\">液体</style>基础设施的初级科技。"
 
 #. STRINGS.RESEARCH.LIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.LIQUIDPIPING.NAME"
 msgid "Liquid Piping"
-msgstr ""
+msgstr "液体管道运输"
 
 #. STRINGS.RESEARCH.MEDBAY.DESC
 msgctxt "STRINGS.RESEARCH.MEDBAY.DESC"
 msgid "<style=\"medicine\">Medicines</style> to stop injury and <style=\"disease\">Disease</style> from running rampant in your colony."
-msgstr ""
+msgstr "防止伤病和<style=\"disease\">疾病</style>在殖民地蔓延的<style=\"medicine\">药品</style> "
 
 #. STRINGS.RESEARCH.MEDBAY.NAME
 msgctxt "STRINGS.RESEARCH.MEDBAY.NAME"
 msgid "Medbay"
-msgstr ""
+msgstr "医学角"
 
 #. STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED
 msgctxt "STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED"
 msgid "No research selected"
-msgstr ""
+msgstr "没有选择研究"
 
 #. STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEALSOREQUIRED
 msgctxt "STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEALSOREQUIRED"
 msgid "{0} also required"
-msgstr ""
+msgstr "同时需要{0}"
 
 #. STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEREQUIRED
 msgctxt "STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEREQUIRED"
 msgid "{0} required"
-msgstr ""
+msgstr "需要{0}"
 
 #. STRINGS.RESEARCH.PERCOLATION.DESC
 msgctxt "STRINGS.RESEARCH.PERCOLATION.DESC"
 msgid "Waste management techniques to keep your base clean and livable."
-msgstr ""
+msgstr "使你的基地保持干净宜居的废料管理科技。"
 
 #. STRINGS.RESEARCH.PERCOLATION.NAME
 msgctxt "STRINGS.RESEARCH.PERCOLATION.NAME"
 msgid "Percolation"
-msgstr ""
+msgstr "渗透"
 
 #. STRINGS.RESEARCH.POWERREGULATION.DESC
 msgctxt "STRINGS.RESEARCH.POWERREGULATION.DESC"
 msgid "Gain better control over your circuits to prevent wasted <style=\"power\">Power</style>."
-msgstr ""
+msgstr "更好地控制电流防止 <style=\"power\">电力</style>浪费。"
 
 #. STRINGS.RESEARCH.POWERREGULATION.NAME
 msgctxt "STRINGS.RESEARCH.POWERREGULATION.NAME"
 msgid "Power Regulation"
-msgstr ""
+msgstr "电力管理"
 
 #. STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC
 msgctxt "STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC"
 msgid "Unlock technologies to manage colony pressure and atmosphere."
-msgstr ""
+msgstr "解锁科技以管理殖民地的气压和空气。"
 
 #. STRINGS.RESEARCH.PRESSUREMANAGEMENT.NAME
 msgctxt "STRINGS.RESEARCH.PRESSUREMANAGEMENT.NAME"
 msgid "Pressure Management"
-msgstr ""
+msgstr "气压管理"
 
 #. STRINGS.RESEARCH.SANITATIONSCIENCES.DESC
 msgctxt "STRINGS.RESEARCH.SANITATIONSCIENCES.DESC"
 msgid "Make daily ablutions less of a hassle."
-msgstr ""
+msgstr "让沐浴更简单。"
 
 #. STRINGS.RESEARCH.SANITATIONSCIENCES.NAME
 msgctxt "STRINGS.RESEARCH.SANITATIONSCIENCES.NAME"
 msgid "Sanitation Sciences"
-msgstr ""
+msgstr "卫生科学"
 
 #. STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC
 msgctxt "STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC"
 msgid "Unlock <style=\"heat\">Temperature</style> changing technologies to keep your colony at the perfect Kelvin."
-msgstr ""
+msgstr "解锁<style=\"heat\">温度</style>调节科技，使你的殖民地保持完美的温度。 "
 
 #. STRINGS.RESEARCH.TEMPERATUREMODULATION.NAME
 msgctxt "STRINGS.RESEARCH.TEMPERATUREMODULATION.NAME"
 msgid "Temperature Modulation"
-msgstr ""
+msgstr "气温调控"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
 msgid "<style=\"research\">Novice Research</style> is required to unlock basic technologies.\nIt can be conducted at a <style=\"research\">Research Station</style>."
-msgstr ""
+msgstr "需要<style=\"research\">初级研究</style>解锁基础科技。\n可以在<style=\"research\">研究站</style>进行。"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
 msgid "Novice Research"
-msgstr ""
+msgstr "初级研究"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC"
 msgid "Unlocks rudimentary technologies."
-msgstr ""
+msgstr "解锁基础的科技。"
 
 #. STRINGS.RESEARCH.TYPES.BETA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
 msgid "<style=\"research\">Intermediary Research</style> is required to unlock intermediate technologies.\nIt can be conducted at an <style=\"research\">Super Computer</style>."
-msgstr ""
+msgstr "需要<style=\"research\">中级研究</style>解锁中级科技。\n可以在<style=\"research\">超级电脑</style>进行。"
 
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.NAME"
 msgid "Intermediary Research"
-msgstr ""
+msgstr "中级研究"
 
 #. STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC"
 msgid "Unlocks improved technologies."
-msgstr ""
+msgstr "解锁改进的科技"
 
 #. STRINGS.TAGS.BED
 msgctxt "STRINGS.TAGS.BED"
 msgid "Bed"
-msgstr ""
+msgstr "床"
 
 #. STRINGS.TAGS.RELAXATION_POINT
 msgctxt "STRINGS.TAGS.RELAXATION_POINT"
 msgid "Relaxation Point"
-msgstr ""
+msgstr "放松处"
 
 #. STRINGS.TAGS.SOLID
 msgctxt "STRINGS.TAGS.SOLID"
 msgid "Solid Material"
-msgstr ""
+msgstr "固体材料"
 
 #. STRINGS.UI.ACTIONS
 msgctxt "STRINGS.UI.ACTIONS"
 msgid "ACTIONS"
-msgstr ""
+msgstr "行动"
 
 #. STRINGS.UI.ALERTS
 msgctxt "STRINGS.UI.ALERTS"
 msgid "ALERTS"
-msgstr ""
+msgstr "警报"
 
 #. STRINGS.UI.ASSIGNDUPLICANT
 msgctxt "STRINGS.UI.ASSIGNDUPLICANT"
 msgid "Assign Duplicant"
-msgstr ""
+msgstr "指定复制人"
 
 #. STRINGS.UI.ATTRIBUTELEVEL
 msgctxt "STRINGS.UI.ATTRIBUTELEVEL"
 msgid "Level {0} {1}"
-msgstr ""
+msgstr "等级{0} {1}"
 
 #. STRINGS.UI.BASECOUNT
 msgctxt "STRINGS.UI.BASECOUNT"
 msgid "Base {0}"
-msgstr ""
+msgstr "基础{0}"
 
 #. STRINGS.UI.BUILDCATEGORIES.BASE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.NAME"
 msgid "Base"
-msgstr ""
+msgstr "基础"
 
 #. STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP"
 msgid "Maintain your colony's infrastructure with these homebase basics."
-msgstr ""
+msgstr "用这些基本物品来维持你殖民地的基础设施。"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
 msgid "Stations"
-msgstr ""
+msgstr "科技"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
 msgid "Unlock new technologies through the power of science!"
-msgstr ""
+msgstr "用科学的力量解锁新科技！"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
 msgid "Food"
-msgstr ""
+msgstr "食物"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP"
 msgid "Keep your Duplicants' spirits high and their bellies full."
-msgstr ""
+msgstr "让你的复制人一直斗志昂扬、肚子鼓鼓。"
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME"
 msgid "Furniture"
-msgstr ""
+msgstr "家具"
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP"
 msgid "Amenities to keep your Duplicants happy, comfy and efficient."
-msgstr ""
+msgstr "保持复制人开心、舒适、高效的福利设施。"
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME"
 msgid "Medicine"
-msgstr ""
+msgstr "医药"
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP"
 msgid "A cure for everything but the common cold."
-msgstr ""
+msgstr "包治百病，除了普通感冒。"
 
 #. STRINGS.UI.BUILDCATEGORIES.MISC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.NAME"
 msgid "Decor"
-msgstr ""
+msgstr "装饰"
 
 #. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
 msgid "Spruce up your colony with some lovely interior decorating."
-msgstr ""
+msgstr "用一些可爱的内饰让你的殖民地焕然一新吧。"
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "氧气"
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP"
 msgid "Everything you need to keep your colony breathing."
-msgstr ""
+msgstr "维持你殖民地呼吸的所有东西。"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
 msgid "Plumbing"
-msgstr ""
+msgstr "管道"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
 msgid "Move gases and liquid around with the greatest of ease."
-msgstr ""
+msgstr "用最轻松的方法移动气体和液体。"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.NAME"
 msgid "Power"
-msgstr ""
+msgstr "电力"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP"
 msgid "Need to power your colony? Here's how you do it!"
-msgstr ""
+msgstr "想要给你的殖民地动力？这就是方法！"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
 msgid "Refinement"
-msgstr ""
+msgstr "提纯"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP"
 msgid "Use the resources you want, filter the ones you don't."
-msgstr ""
+msgstr "去其糟粕，取其精华"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
 msgid "Utilities"
-msgstr ""
+msgstr "公共"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
 msgid "Guaranteed to keep your colony warm and cozy."
-msgstr ""
+msgstr "绝对让你的殖民地温暖又舒适。"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT"
 msgid "Duplicant assignment"
-msgstr ""
+msgstr "复制人指定"
 
 #. STRINGS.UI.BUILDINGEFFECTS.BATTERYEFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.BATTERYEFFECT"
 msgid "<style=\"power\">Power</style> capacity: {0}"
-msgstr ""
+msgstr "<style=\"power\">电力</style>容量：{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
 msgid "<style=\"decor\">Decor</style>: <style=\"{0}\">{1}</style> ({2} tile radius)"
-msgstr ""
+msgstr "<style=\"decor\">装饰度</style>： <style=\"{0}\">{1}</style> ({2}格范围)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST"
 msgid "Runspeed: <style=\"produced\">+{0}</style>"
-msgstr ""
+msgstr "移动速度： <style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED"
 msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>： <style=\"consumed\">-{2}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE"
 msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2} per use</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>： <style=\"consumed\">每次使用-{2}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED"
 msgid "<style={0}>{1}</style>: <style=\"produced\">+{2}</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>： <style=\"produced\">+{2}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE"
 msgid "<style={0}>{1}</style>: <style=\"produced\">+{2} per use</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>： <style=\"produced\">每次使用+{2}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED"
 msgid "<style=\"power\">Power</style> consumed: {0}"
-msgstr ""
+msgstr "<style=\"power\">电力</style>消耗： {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ENERGYGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYGENERATED"
 msgid "<style=\"power\">Power</style>: <style=\"produced\">+{0}</style>"
-msgstr ""
+msgstr "<style=\"power\">电力</style>： <style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.FABRICATEDITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.FABRICATEDITEM"
 msgid "<style=\"{0}\">{1}</style>"
-msgstr ""
+msgstr "<style=\"{0}\">{1}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.FABRICATES
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.FABRICATES"
 msgid "Fabricates"
-msgstr ""
+msgstr "生产"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GASCOOLING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GASCOOLING"
 msgid "<style=\"heat\">Cooling factor: </style>: <style=\"produced\">{0}</style>"
-msgstr ""
+msgstr "<style=\"heat\">制冷系数：</style>： <style=\"produced\">{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED"
 msgid "<style=\"heat\">Heat</style>: <style=\"consumed\">-{0}</style>"
-msgstr ""
+msgstr "<style=\"heat\">热量</style>：<style=\"consumed\">-{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED"
 msgid "<style=\"heat\">Heat</style>: <style=\"produced\">+{0}</style>"
-msgstr ""
+msgstr "<style=\"heat\">热量</style>：<style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS"
 msgid "<b>Effects:</b>"
-msgstr ""
+msgstr "<b>效果：</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS"
 msgid "<b>Requirements:</b>"
-msgstr ""
+msgstr "<b>需求：</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY"
 msgid "Planter box penalty"
-msgstr ""
+msgstr "栽培盆惩罚"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK"
 msgid "Refills <style=\"equipment\">Exosuit Oxygen Tank</style>"
-msgstr ""
+msgstr "充满<style=\"equipment\">潜水服氧气瓶</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REMOVEDEFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVEDEFFECT"
 msgid "<style=\"disease\">{0}</style>"
-msgstr ""
+msgstr "<style=\"disease\">{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE"
 msgid "Cures"
-msgstr ""
+msgstr "治愈"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT"
 msgid "Supply of <style={0}>{1}</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>的供应"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT"
 msgid "<style=\"GasPiping\">Gas Intake Pipe</style>"
-msgstr ""
+msgstr "<style=\"GasPiping\">进气管道</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT"
 msgid "<style=\"GasPiping\">Gas Output Pipe</style>"
-msgstr ""
+msgstr "<style=\"GasPiping\">出气管道</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS"
 msgid "Two <style=\"GasPiping\">Gas Output Pipes</style>"
-msgstr ""
+msgstr "两条<style=\"GasPiping\">出气管道</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT"
 msgid "<style=\"LiquidPiping\">Liquid Intake Pipe</style>"
-msgstr ""
+msgstr "<style=\"LiquidPiping\">进水管道</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT"
 msgid "<style=\"LiquidPiping\">Liquid Output Pipe</style>"
-msgstr ""
+msgstr ""<style=\"LiquidPiping\">出水管道</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS"
 msgid "Two <style=\"LiquidPiping\">Liquid Output Pipes</style>"
-msgstr ""
+msgstr "两条<style=\"LiquidPiping\">出水管道</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION"
 msgid "Duplicant operation"
-msgstr ""
+msgstr "复制人操作"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER"
 msgid "<style=\"power\">Power</style>: <style=\"consumed\">-{0}</style>"
-msgstr ""
+msgstr "<style=\"power\">电力</style>：<style=\"consumed\">-{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR"
 msgid "<style=\"power\">Power</style> generator"
-msgstr ""
+msgstr "<style=\"power\">电力</style>发电机"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED"
 msgid "1 Unplanted <style=\"seed\">Seed</style>"
-msgstr ""
+msgstr "1颗未种植的<style=\"seed\">种子</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY"
 msgid "Storage capacity: {0}"
-msgstr ""
+msgstr "库存容量：{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE"
 msgid "<style=\"stress\">Stress</style>: <style=\"consumed\">{0} per minute</style>"
-msgstr ""
+msgstr "<style=\"stress\">压力</style>：<style=\"consumed\">每分钟{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT"
