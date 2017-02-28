@@ -7850,32 +7850,32 @@ msgstr "病秧子"
 #. STRINGS.ELEMENTS.ALGAE.DESC
 msgctxt "STRINGS.ELEMENTS.ALGAE.DESC"
 msgid "A cluster of non-motile, single-celled lifeforms.\n\nAlgae can be used as a renewable source of <style=\"oxygen\">Oxygen</style> when domesticated with Algae Terrariums."
-msgstr ""
+msgstr "一团不会移动的单细胞生物。\n\n海藻为可再生资源，可通过饲养在海藻饲养器中来生成<style=\"oxygen\">氧气</style>。"
 
 #. STRINGS.ELEMENTS.ALGAE.NAME
 msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
 msgid "Algae"
-msgstr ""
+msgstr "海藻"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.DESC"
 msgid "An unstable compound that emits toxic <style=\"gas\">Chlorine Gas</style>.\n\nBleach Stone is useful in <style=\"hygiene\">Hygienic</style> processes."
-msgstr ""
+msgstr "一种会释放出<style=\"gas\">氯气</style>的不稳定化合物。\n\n漂白石可应用在<style=\"hygiene\">卫生</style>处理中。"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
 msgid "Bleach Stone"
-msgstr ""
+msgstr "漂白石"
 
 #. STRINGS.ELEMENTS.BOTTLEDWATER.DESC
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.DESC"
 msgid "Clean <style=\"liquid\">Water</style>, prepped for transport."
-msgstr ""
+msgstr "干净的<style=\"liquid\">净水</style>，已做好运送准备。"
 
 #. STRINGS.ELEMENTS.BOTTLEDWATER.NAME
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.NAME"
 msgid "Water"
-msgstr ""
+msgstr "净水"
 
 #. STRINGS.ELEMENTS.BREATHABLEDESC
 msgctxt "STRINGS.ELEMENTS.BREATHABLEDESC"
@@ -7885,132 +7885,132 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBON.DESC
 msgctxt "STRINGS.ELEMENTS.CARBON.DESC"
 msgid "A combustible fossil fuel composed of carbon.\n\nCoal is useful in <style=\"power\">Power</style> production."
-msgstr ""
+msgstr "一种由碳组成的可燃矿物燃料。\n\n煤炭可应用在<style=\"power\">电力</style>生产中。"
 
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
 msgid "Coal"
-msgstr ""
+msgstr "煤炭"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic, atomically heavy chemical compound in a <style=\"gas\">Gaseous</style> state.\n\nCarbon Dioxide tends to sink below other gases."
-msgstr ""
+msgstr "(CO2)一种有毒的高密度的<style=\"gas\">气体</style>状态分子化合物。\n\n二氧化碳一般情况下会沉在其他气体下方。"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "二氧化碳"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
 msgid "A <style=\"RefinedMineral\">Manufactured Material</style> with high tensile strength."
-msgstr ""
+msgstr "一种具有高拉伸强度的<style=\"RefinedMineral\">人造材料</style>。"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.NAME"
 msgid "Carbon Fiber"
-msgstr ""
+msgstr "碳纤维"
 
 #. STRINGS.ELEMENTS.CARBONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.DESC"
 msgid "(C) An abundant, versatile element heated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(C)一种含量丰富且功能众多的元素的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
 msgid "Carbon"
-msgstr ""
+msgstr "碳化气"
 
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
 msgid "(Cl) An extremely toxic element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(Cl)一种剧毒元素的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "氯"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
 msgid "(Cl) An extremely toxic chemical in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(Cl)一种剧毒化学制品的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "氯气"
 
 #. STRINGS.ELEMENTS.CLAY.DESC
 msgctxt "STRINGS.ELEMENTS.CLAY.DESC"
 msgid "A soft, naturally occurring composite of stone and soil that hardens at high <style=\"heat\">Temperatures</style>.\n\nClay is a reliable <style=\"RawMineral\">Construction Material</style>."
-msgstr ""
+msgstr "一种由石头和泥土天然混合而成的柔软黏土，在<style=\"heat\">温度</style>下会变得坚硬。\n\n黏土是一种可靠的<style=\"RawMineral\">建造材料</style>"
 
 #. STRINGS.ELEMENTS.CLAY.NAME
 msgctxt "STRINGS.ELEMENTS.CLAY.NAME"
 msgid "Clay"
-msgstr ""
+msgstr "黏土"
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC"
 msgid "(O2) A vehicle of airborne <style=\"disease\">Disease</style>.\n\nBreathable."
-msgstr ""
+msgstr "(O2)通过空气传播<style=\"disease\">疾病</style>的绝好媒介。"
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Contaminated Oxygen"
-msgstr ""
+msgstr "被污染的氧气"
 
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style>.\n\nCopper is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "(Cu)一种导电<style=\"RawMetal\">金属</style>。\n\n铜适合应用在<style=\"power\">电力</style>系统的建造中。"
 
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
 msgid "Copper"
-msgstr ""
+msgstr "铜"
 
 #. STRINGS.ELEMENTS.COPPERGAS.DESC
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(Cu)一种导电<style=\"RawMetal\">金属</style>的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.COPPERGAS.NAME
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.NAME"
 msgid "Copper"
-msgstr ""
+msgstr "铜气"
 
 #. STRINGS.ELEMENTS.CRUDEOIL.DESC
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.DESC"
 msgid "A raw <style=\"power\">Power</style> source composed of billions of dead, primordial organisms."
-msgstr ""
+msgstr "一种由无数死亡原始生物沉积而成的，未经加工的<style=\"power\">电力</style>资源。"
 
 #. STRINGS.ELEMENTS.CRUDEOIL.NAME
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.NAME"
 msgid "Crude Oil"
-msgstr ""
+msgstr "原油"
 
 #. STRINGS.ELEMENTS.CRUSHEDICE.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.DESC"
 msgid "(H20) A slush of crushed, semi-solid ice."
-msgstr ""
+msgstr "(H20)一种碎成烂泥的，半固态的冰。"
 
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
-msgstr ""
+msgstr "碎冰"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.DESC"
 msgid "<style=\"solid\">Igneous Rock</style> crushed into a mechanical mixture."
-msgstr ""
+msgstr "粉碎成机械混合物的<style=\"solid\">火成岩</style>。"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.NAME"
 msgid "Crushed Rock"
-msgstr ""
+msgstr "碎石"
 
 #. STRINGS.ELEMENTS.CUPRITE.DESC
 msgctxt "STRINGS.ELEMENTS.CUPRITE.DESC"
