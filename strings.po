@@ -505,7 +505,7 @@ msgstr "手动控制"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under your control"
-msgstr "该复制人在你的控制之下"
+msgstr "这个复制人在你的控制之下"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME"
@@ -995,12 +995,12 @@ msgstr "该容器储存了{Stored} kg材料"
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
 msgid "{FlushesRemaining} \"Visits\" Remaining"
-msgstr "剩余{FlushesRemaining}次 \"\""
+msgstr "剩余{FlushesRemaining}次"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
 msgid "This amenity can handle {FlushesRemaining} more \"visits\" before needing maintenance"
-msgstr "该福利设施在需要保养前可以再接受{FlushesRemaining}次\“光临\”"
+msgstr "该福利设施在需要保养前可以再使用{FlushesRemaining}次"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
@@ -6035,7 +6035,7 @@ msgstr "卡路里"
 #. STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP"
 msgid "Calories\n----------\nThis Duplicant has {0} of stored energy they can burn before starving"
-msgstr "卡路里\n----------\n此复制人还有{0}卡路里可供消耗"
+msgstr "卡路里\n----------\n这个复制人还有{0}卡路里可供消耗"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.NAME"
@@ -6055,7 +6055,7 @@ msgstr "周围温度"
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP"
 msgid "External Temperature\n----------\nThis Duplicant's immediate environment is {0}"
-msgstr "周围温度\n----------\n此复制人周围温度为{0}"
+msgstr "周围温度\n----------\n这个复制人周围温度为{0}"
 
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME"
@@ -6125,7 +6125,7 @@ msgstr "装饰中"
 #. STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP"
 msgid "This Duplicant is expressing themselves artistically"
-msgstr "此复制人正在展现自己的艺术细胞"
+msgstr "这个复制人正在展现自己的艺术细胞"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME"
@@ -6145,7 +6145,7 @@ msgstr "这些复制人因为无法到达床铺而无法入睡："
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot reach their bed"
-msgstr "此复制人无法到达自己的床"
+msgstr "这个复制人无法到达自己的床"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.NAME"
@@ -6155,7 +6155,7 @@ msgstr "正在降温：{TempDelta}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.TOOLTIP"
 msgid "This Duplicant is regulating their <style=\"heat\">Temperature</style>"
-msgstr "此复制人正在调节自己的<style=\"heat\">体温</style>"
+msgstr "这个复制人正在调节自己的<style=\"heat\">体温</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.NAME"
@@ -6165,7 +6165,7 @@ msgstr "正在升温：{TempDelta}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.TOOLTIP"
 msgid "This Duplicant is regulating their <style=\"heat\">Temperature</style>"
-msgstr "此复制人正在调节自己的<style=\"heat\">体温</style>"
+msgstr "这个复制人正在调节自己的<style=\"heat\">体温</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.NAME"
@@ -6175,7 +6175,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME"
@@ -6185,7 +6185,7 @@ msgstr "破坏中{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP"
 msgid "This Duplicant is going totally bananas on the {Target}"
-msgstr "此复制人简直要在这上面发狂了{Target}"
+msgstr "这个复制人简直要在这上面发狂了{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.NAME"
@@ -6205,7 +6205,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.NAME"
@@ -6215,7 +6215,7 @@ msgstr "建造中{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.TOOLTIP"
 msgid "This Duplicant is constructing a {Target}"
-msgstr "此复制人正在建造{Target}"
+msgstr "这个复制人正在建造{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.NAME"
@@ -6225,7 +6225,7 @@ msgstr "建造中{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.TOOLTIP"
 msgid "This Duplicant is constructing a {Target}"
-msgstr "此复制人正在建造{Target}"
+msgstr "这个复制人正在建造{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.NAME"
@@ -6235,7 +6235,7 @@ msgstr "打扫{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning Up</style> {Target}"
-msgstr "此复制人正在<style=\"hygiene\">打扫</style> {Target}"
+msgstr "这个复制人正在<style=\"hygiene\">打扫</style> {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.NAME"
@@ -6245,7 +6245,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.NAME"
@@ -6255,7 +6255,7 @@ msgstr "清理"
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.TOOLTIP"
 msgid "This Duplicant is sweeping away {Target}"
-msgstr "此复制人正在清理{Target}"
+msgstr "这个复制人正在清理{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.NAME"
@@ -6275,7 +6275,7 @@ msgstr "这些复制人就快要被冻死了："
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP"
 msgid "This Duplicant is about to freeze to death"
-msgstr "此复制人就快要被冻死了"
+msgstr "这个复制人就快要被冻死了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME"
@@ -6285,7 +6285,7 @@ msgstr "准备堆肥"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.TOOLTIP"
 msgid "This Duplicant is going to flip the compost"
-msgstr "此复制人正准备去翻动堆肥"
+msgstr "这个复制人正准备去翻动堆肥"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME"
@@ -6295,7 +6295,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKING.NAME"
@@ -6305,7 +6305,7 @@ msgstr "制作食物"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKING.TOOLTIP"
 msgid "This Duplicant is cooking up something tasty"
-msgstr "此复制人正在制作某种可口的东西"
+msgstr "这个复制人正在制作某种可口的东西"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NAME"
@@ -6325,7 +6325,7 @@ msgstr "复制人们今天消耗了<style=\"food\">口粮</style>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.TOOLTIP"
 msgid "This Duplicant has consumed their allotted <style=\"food\">Rations</style> for the day"
-msgstr "此复制人今天消耗了<style=\"food\">口粮</style>"
+msgstr "这个复制人今天消耗了<style=\"food\">口粮</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEAD.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEAD.NAME"
@@ -6335,7 +6335,7 @@ msgstr "死者：{Death}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEAD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEAD.TOOLTIP"
 msgid "This Duplicant definitely isn't sleeping"
-msgstr "此复制人可能在思考人生"
+msgstr "这个复制人可能在思考人生"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.NAME"
@@ -6345,7 +6345,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME"
@@ -6355,7 +6355,7 @@ msgstr "正在拆除{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP"
 msgid "This Duplicant is tearing down the {Target}"
-msgstr "此复制人正在拆除{Target}"
+msgstr "这个复制人正在拆除{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.NAME"
@@ -6365,7 +6365,7 @@ msgstr "正在挖掘"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.TOOLTIP"
 msgid "This Duplicant is excavating raw resources"
-msgstr "此复制人正在挖掘矿物资源"
+msgstr "这个复制人正在挖掘矿物资源"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.NAME"
@@ -6375,7 +6375,7 @@ msgstr "放置资源"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.TOOLTIP"
 msgid "This Duplicant is dropping what they're holding"
-msgstr "此复制人正在放置所携带的资源"
+msgstr "这个复制人正在放置所携带的资源"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.NAME"
@@ -6385,7 +6385,7 @@ msgstr "迫不及待要开始新的一天"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.TOOLTIP"
 msgid "This Duplicant is an Early Bird and gets a burst of energy in the morning"
-msgstr "此复制人是一个在清晨会获得能量爆发的早起的鸟"
+msgstr "这个复制人是一个在清晨会获得能量爆发的早起的鸟"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME"
@@ -6395,7 +6395,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME"
@@ -6405,7 +6405,7 @@ msgstr "正在进食{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP"
 msgid "This Duplicant is replenishing their <style=\"food\">Calorie</style> stores"
-msgstr "此复制人正在补充<style=\"food\">卡路里</style>"
+msgstr "这个复制人正在补充<style=\"food\">卡路里</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME"
@@ -6425,7 +6425,7 @@ msgstr "清空{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.TOOLTIP"
 msgid "This Duplicant is removing materials from the {Target}"
-msgstr "此复制人正在清空{Target}"
+msgstr "这个复制人正在清空{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.NAME"
@@ -6435,7 +6435,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NAME"
@@ -6465,7 +6465,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.NAME"
@@ -6475,7 +6475,7 @@ msgstr "组装<style=\"equipment\">{Item}</style>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.TOOLTIP"
 msgid "This Duplicant is equipping a <style=\"equipment\">{Item}</style>"
-msgstr "此复制人正在组装<style=\"equipment\">{Item}</style>"
+msgstr "这个复制人正在组装<style=\"equipment\">{Item}</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME"
@@ -6485,7 +6485,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.NAME"
@@ -6495,7 +6495,7 @@ msgstr "正在制造"
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.TOOLTIP"
 msgid "This Duplicant is making a {Item}"
-msgstr "此复制人正在制造{Item}"
+msgstr "这个复制人正在制造{Item}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NAME"
@@ -6515,7 +6515,7 @@ msgstr "这些复制人在战斗中与对方进行了交战："
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP"
 msgid "This Duplicant is attacking a creature"
-msgstr "此复制人正在攻击对方"
+msgstr "这个复制人正在攻击对方"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME"
@@ -6535,7 +6535,7 @@ msgstr "这些复制人正试图逃离这场战斗："
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.TOOLTIP"
 msgid "This Duplicant is trying to escape combat"
-msgstr "此复制人正试图逃离这场战斗"
+msgstr "这个复制人正试图逃离这场战斗"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.NAME"
@@ -6545,7 +6545,7 @@ msgstr "膀胱已满"
 #. STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.TOOLTIP"
 msgid "This Duplicant would really appreciate a toilet"
-msgstr "此复制人会对有厕所可用而心怀感激"
+msgstr "这个复制人会对有厕所可用而心怀感激"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME"
@@ -6555,7 +6555,7 @@ msgstr "正在发电"
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP"
 msgid "This Duplicant is using the {Target} to produce electrical <style=\"power\">Power</style>"
-msgstr "此复制人正在通过{Target}来提供电力<style=\"power\">Power</style>"
+msgstr "这个复制人正在通过{Target}来提供电力<style=\"power\">Power</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME"
@@ -6565,7 +6565,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.NAME"
@@ -6575,7 +6575,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.NAME"
@@ -6585,7 +6585,7 @@ msgstr "正在收割{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.TOOLTIP"
 msgid "This Duplicant is gathering resources from a {Target}"
-msgstr "此复制人正在收割{Target}"
+msgstr "这个复制人正在收割{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NAME"
@@ -6605,7 +6605,7 @@ msgstr "这些复制人感染了<style=\"disease\">疾病</style>："
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.TOOLTIP"
 msgid "This Duplicant has contracted a <style=\"disease\">Disease</style>"
-msgstr "此复制人感染了<style=\"disease\">疾病</style>"
+msgstr "这个复制人感染了<style=\"disease\">疾病</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.NAME"
@@ -6615,7 +6615,7 @@ msgstr "屏住呼吸"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.TOOLTIP"
 msgid "This Duplicant cannot breathe in their current location"
-msgstr "此复制人在目前所处位置无法呼吸"
+msgstr "这个复制人在目前所处位置无法呼吸"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME"
@@ -6635,7 +6635,7 @@ msgstr "这些复制人好像快要熟了："
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP"
 msgid "This Duplicant is overheating"
-msgstr "此复制人好像快要熟了"
+msgstr "这个复制人好像快要熟了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME"
@@ -6645,7 +6645,7 @@ msgstr "饥饿"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP"
 msgid "This Duplicant would love a snack"
-msgstr "此复制人希望能有一顿点心"
+msgstr "这个复制人希望能有一顿点心"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME"
@@ -6665,7 +6665,7 @@ msgstr "这些复制人无法进行任何已预定的工作任务："
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP"
 msgid "This Duplicant cannot reach any pending job tasks"
-msgstr "此复制人无法进行任何已预订的工作任务"
+msgstr "这个复制人无法进行任何已预订的工作任务"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME"
@@ -6685,7 +6685,7 @@ msgstr "这些复制人需要救援"
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP"
 msgid "This Duplicant is near death! They need to be rescued quickly"
-msgstr "此复制人快要翘辫子了，需要马上救援！"
+msgstr "这个复制人快要翘辫子了，需要马上救援！"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME"
@@ -6705,7 +6705,7 @@ msgstr "这些复制人正在通过破坏设备来缓解<style=\"stress\">压力
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.TOOLTIP"
 msgid "This Duplicant is breaking stuff to relieve <style=\"stress\">Stress</style>"
-msgstr "此复制人正在通过破坏设备来缓解<style=\"stress\">压力</style>"
+msgstr "这个复制人正在通过破坏设备来缓解<style=\"stress\">压力</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NAME"
@@ -6725,7 +6725,7 @@ msgstr "这些复制人正工作在低<style=\"oxygen\">氧气</style>浓度区�
 #. STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.TOOLTIP"
 msgid "This Duplicant is working in a dangerously low <style=\"oxygen\">Oxygen</style> area"
-msgstr "此复制人正工作在危险<style=\"oxygen\">氧气</style>浓度区域"
+msgstr "这个复制人正工作在危险<style=\"oxygen\">氧气</style>浓度区域"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.NAME"
@@ -6735,7 +6735,7 @@ msgstr "手动任务"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.TOOLTIP"
 msgid "This Duplicant is manually controlled and has been ordered to perform a specific task"
-msgstr "此复制人被手动控制指定了一个特殊任务"
+msgstr "这个复制人被手动控制指定了一个特殊任务"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.NAME"
@@ -6745,7 +6745,7 @@ msgstr "手动移动"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.TOOLTIP"
 msgid "This Duplicant is manually controlled and has been ordered to a specific location"
-msgstr "此复制人被手动控制指定了一个特殊位置"
+msgstr "这个复制人被手动控制指定了一个特殊位置"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME"
@@ -6755,7 +6755,7 @@ msgstr "手动空闲"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP"
 msgid "This Duplicant is manually controlled and will be idle until given a task"
-msgstr "此复制人正被手动控制，在指定任务之前将会一直空闲"
+msgstr "这个复制人正被手动控制，在指定任务之前将会一直空闲"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.NAME"
@@ -6765,7 +6765,7 @@ msgstr "手动控制"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under manual control and cannot act independently"
-msgstr "此复制人正被手动控制，无法自主工作"
+msgstr "这个复制人正被手动控制，无法自主工作"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.NAME"
@@ -6775,7 +6775,7 @@ msgstr "精神崩溃"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.TOOLTIP"
 msgid "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to function"
-msgstr "此复制人的行为能力已被过高的<style=\"stress\">压力</style>完全摧毁"
+msgstr "这个复制人的行为能力已被过高的<style=\"stress\">压力</style>完全摧毁"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME"
@@ -6785,7 +6785,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME"
@@ -6795,7 +6795,7 @@ msgstr "打扫"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning</style> up a nasty spill"
-msgstr "此复制人正在<style=\"hygiene\">打扫</style>某人不小心漏出来的东西"
+msgstr "这个复制人正在<style=\"hygiene\">打扫</style>某人不小心漏出来的东西"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME"
@@ -6805,7 +6805,7 @@ msgstr "正在离开<style=\"equipment\">建筑</style>建造区域"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP"
 msgid "This Duplicant is leaving an area where an <style=\"equipment\">Exosuit</style> was required"
-msgstr "此复制人正在离开<style=\"equipment\">建筑</style>建造所需区域"
+msgstr "这个复制人正在离开<style=\"equipment\">建筑</style>建造所需区域"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME"
@@ -6815,7 +6815,7 @@ msgstr "正在移动到安全区域"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.TOOLTIP"
 msgid "This Duplicant is finding a safer place"
-msgstr "此复制人正在寻找安全区域"
+msgstr "这个复制人正在寻找安全区域"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME"
@@ -6825,7 +6825,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.NAME"
@@ -6835,7 +6835,7 @@ msgstr "糊状微生物"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.TOOLTIP"
 msgid "This Duplicant is trying to produce something edible"
-msgstr "此复制人正准备做出什么能吃的东西"
+msgstr "这个复制人正准备做出什么能吃的东西"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NAME"
@@ -6855,7 +6855,7 @@ msgstr "这些复制人需要帮助，因为他们在<style=\"stress\">压力</s
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP"
 msgid "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to function"
-msgstr "此复制人的行为能力已被过高的<style=\"stress\">压力</style>完全摧毁"
+msgstr "这个复制人的行为能力已被过高的<style=\"stress\">压力</style>完全摧毁"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME"
@@ -6865,7 +6865,7 @@ msgstr "激情之夜"
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP"
 msgid "This Duplicant is a Night Owl and gets a burst of energy at night"
-msgstr "此复制人是一个在夜晚会获得能量爆发的夜猫子"
+msgstr "这个复制人是一个在夜晚会获得能量爆发的夜猫子"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME"
@@ -6885,7 +6885,7 @@ msgstr "这些复制人正在考虑要喝西北风还是东北风："
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.TOOLTIP"
 msgid "There is nothing in the colony for this Duplicant to eat"
-msgstr "此复制人已经找不到什么能吃的了"
+msgstr "这个复制人已经找不到什么能吃的了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME"
@@ -6905,7 +6905,7 @@ msgstr "这些复制人正因为没有洗手间可用而苦恼："
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP"
 msgid "There are no toilets available for this Duplicant"
-msgstr "此复制人无厕所可用"
+msgstr "这个复制人无厕所可用"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME"
@@ -6925,7 +6925,7 @@ msgstr "这些复制人正在等待厕所可用："
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP"
 msgid "The only toilets in this Duplicant's reach are out of order"
-msgstr "此复制人唯一能够使用到的厕所出问题了"
+msgstr "这个复制人唯一能够使用到的厕所出问题了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME"
@@ -6935,7 +6935,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME"
@@ -6945,7 +6945,7 @@ msgstr "正在拾起{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP"
 msgid "This Duplicant is retrieving {Target}"
-msgstr "此复制人正在拾起{Target}"
+msgstr "这个复制人正在拾起{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME"
@@ -6955,7 +6955,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME"
@@ -6965,7 +6965,7 @@ msgstr "单调的装饰"
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP"
 msgid "This Duplicant finds this room's lack of <style=\"decor\">Decor</style> depressing"
-msgstr "此复制人感觉这房间的<style=\"decor\">装饰</style>实在太单调了"
+msgstr "这个复制人感觉这房间的<style=\"decor\">装饰</style>实在太单调了"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME"
@@ -6985,7 +6985,7 @@ msgstr "这些复制人还没有被分配房间："
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.TOOLTIP"
 msgid "This Duplicant has not been assigned a room"
-msgstr "此复制人还没有被分配房间"
+msgstr "这个复制人还没有被分配房间"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME"
@@ -7005,7 +7005,7 @@ msgstr "这些复制人无法到达已分配的隔离区："
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot reach their quarantine zone"
-msgstr "此复制人无法到达已分配的隔离区"
+msgstr "这个复制人无法到达已分配的隔离区"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.NAME"
@@ -7015,7 +7015,7 @@ msgstr "已被隔离"
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.TOOLTIP"
 msgid "This Duplicant has been isolated from the colony"
-msgstr "此复制人已被隔离"
+msgstr "这个复制人已被隔离"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NAME"
@@ -7035,7 +7035,7 @@ msgstr "这些复制人无法接近殖民地里的<style=\"food\">食物</style>
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.TOOLTIP"
 msgid "There is <style=\"food\">Food</style> in the colony but this Duplicant cannot reach it"
-msgstr "此复制人无法接近殖民地里的<style=\"food\">食物</style>"
+msgstr "这个复制人无法接近殖民地里的<style=\"food\">食物</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.NAME"
@@ -7045,7 +7045,7 @@ msgstr "恢复呼吸"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.TOOLTIP"
 msgid "This Duplicant had to hold their breath for too long and needs a breather"
-msgstr "此复制人屏住呼吸太久了因而需要休息一下"
+msgstr "这个复制人屏住呼吸太久了因而需要休息一下"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME"
@@ -7065,7 +7065,7 @@ msgstr "放松中"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.TOOLTIP"
 msgid "This Duplicant's just taking it easy"
-msgstr "此复制人只是在放松一下"
+msgstr "这个复制人只是在放松一下"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.NAME"
@@ -7075,7 +7075,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME"
@@ -7085,7 +7085,7 @@ msgstr "正在维修{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.TOOLTIP"
 msgid "This Duplicant is fixing the {Target}"
-msgstr "此复制人正在维修{Target}"
+msgstr "这个复制人正在维修{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.NAME"
@@ -7095,7 +7095,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.NAME"
@@ -7105,7 +7105,7 @@ msgstr "正在救援{0}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.TOOLTIP"
 msgid "This Duplicant is saving {Target} from certain peril!"
-msgstr "该复制人正在将{Target}从某种危险中解救出来！"
+msgstr "这个复制人正在将{Target}从某种危险中解救出来！"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.NAME"
@@ -7115,7 +7115,7 @@ msgstr "正在研究<style=\"research\">{Tech}</style>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.TOOLTIP"
 msgid "This Duplicant is intently researching <style=\"research\">{Tech}</style> technology"
-msgstr "此复制人正在心无旁骛的研究<style=\"research\">{Tech}</style>科技"
+msgstr "这个复制人正在心无旁骛地研究<style=\"research\">{Tech}</style>科技"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ROTTEN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ROTTEN.NAME"
@@ -7155,7 +7155,7 @@ msgstr "淋浴中"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SHOWERING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SHOWERING.TOOLTIP"
 msgid "This Duplicant is getting squeaky <style=\"hygiene\">Clean</style>"
-msgstr "此复制人把身体搓得<style=\"hygiene\">吱吱作响</style>"
+msgstr "这个复制人把身体搓得<style=\"hygiene\">吱吱作响</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.NAME"
@@ -7165,7 +7165,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.NAME"
@@ -7180,7 +7180,7 @@ msgstr "这个复制人正在恢复耐力"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NAME"
 msgid "Starving"
-msgstr "饥火烧肠"
+msgstr "饥饿"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_NAME"
@@ -7205,7 +7205,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.NAME"
@@ -7215,7 +7215,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.NAME"
@@ -7225,7 +7225,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.NAME"
@@ -7235,7 +7235,7 @@ msgstr "部署{Item}到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is delivering {Item} resources to a construction task to build {Target}"
-msgstr "此复制人正在运送{Item}资源到{Target}建造任务"
+msgstr "这个复制人正在运送{Item}资源到{Target}建造任务"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME"
@@ -7245,7 +7245,7 @@ msgstr "正在运送资源到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "此复制人正在运送资源到{Target}"
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORING.NAME"
@@ -7260,592 +7260,592 @@ msgstr "这个复制人正在将{Item}存入储存器"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NAME"
 msgid "Stressed"
-msgstr ""
+msgstr "压力过大"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NOTIFICATION_NAME"
 msgid "Stressed"
-msgstr ""
+msgstr "压力过大"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NOTIFICATION_TOOLTIP"
 msgid "The colony is troubled by excess <style=\"stress\">Stress</style>.\nDecorate your base and build better amenities to help these Duplicants unwind:"
-msgstr ""
+msgstr "殖民地正因为<style=\"stress\">压力</style>而陷入困境，需要更多的服务设施来使这些复制人轻松下来："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.TOOLTIP"
 msgid "This Duplicant is feeling the <style=\"stress\">Stress</style>"
-msgstr ""
+msgstr "这个复制人正在承受<style=\"stress\">压力</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NAME"
 msgid "Making a mess"
-msgstr ""
+msgstr "随地大小便"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_NAME"
 msgid "Made a mess"
-msgstr ""
+msgstr "随地大小便"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants could not find a toilet in time.\n\nUse the <color=#833A5FFF>MOP TOOL</color> [K] to clean up their mess:"
-msgstr ""
+msgstr "这些复制人实在憋不住了，\n\n使用<color=#833A5FFF>MOP TOOL</color> [K]来打扫他们的便溺物："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP"
 msgid "This Duplicant couldn't find a toilet and is super embarrassed"
-msgstr ""
+msgstr "这个复制人找不到厕所来用，即使这样很羞耻"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME"
 msgid "Stress vomiting"
-msgstr ""
+msgstr "应激呕吐"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_NAME"
 msgid "Stress vomiting"
-msgstr ""
+msgstr "应激呕吐"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants became too <style=\"stress\">Stress</style> and it caused them to throw up:"
-msgstr ""
+msgstr "这些复制人正因为过高的<style=\"stress\">压力</style>而呕吐："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP"
 msgid "This Duplicant is releasing their <style=\"stress\">Stress</style> all over the floor"
-msgstr ""
+msgstr "这个复制人正在通过呕吐来缓解压力"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME"
 msgid "Suffocating"
-msgstr ""
+msgstr "呼吸困难"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NOTIFICATION_NAME"
 msgid "Suffocating"
-msgstr ""
+msgstr "呼吸困难"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot find <style=\"oxygen\">Oxygen</style>:"
-msgstr ""
+msgstr "这些复制人找不到<style=\"oxygen\">氧气</style>来维持呼吸："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.TOOLTIP"
 msgid "This Duplicant cannot breathe!"
-msgstr ""
+msgstr "这个复制人喘不上气了！"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TIRED.NAME"
 msgid "Tired"
-msgstr ""
+msgstr "劳累过度"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TIRED.TOOLTIP"
 msgid "This Duplicant could use a nice nap"
-msgstr ""
+msgstr "这个复制人想要打个盹"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.NAME"
 msgid "Toggling {Target} switch"
-msgstr ""
+msgstr "切换{Target}开关"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.TOOLTIP"
 msgid "This Duplicant is toggling the {Target}'s switch"
-msgstr ""
+msgstr "这个复制人正在切换{Target}的开关"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NAME"
 msgid "Restroom unreachable"
-msgstr ""
+msgstr "无法到达洗手间"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NOTIFICATION_NAME"
 msgid "Restroom out of reach"
-msgstr ""
+msgstr "无法到达洗手间"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot access a functioning toilet:"
-msgstr ""
+msgstr "这些复制人无法正常的如厕："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot access a functioning toilet"
-msgstr ""
+msgstr "这个复制人无法正常的如厕"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.NAME"
 msgid "Digging up {Target}"
-msgstr ""
+msgstr "正在挖掘{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.TOOLTIP"
 msgid "This Duplicant is turning a {Target} into a seed"
-msgstr ""
+msgstr "这个复制人正在将{Target}连根拔起"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NAME"
 msgid "Throwing up"
-msgstr ""
+msgstr "阵阵作呕"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_NAME"
 msgid "Throwing up"
-msgstr ""
+msgstr "阵阵作呕"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_TOOLTIP"
 msgid "A <style=\"disease\">Disease</style> has caused these Duplicants to throw up:"
-msgstr ""
+msgstr "这些复制人正因为<style=\"disease\">疾病</style>而阵阵作呕："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.TOOLTIP"
 msgid "This Duplicant has unceremoniously hurled as a result of a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "这个复制人正因为<style=\"disease\">疾病</style>而呕吐不止"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.NAME"
 msgid "Warming up"
-msgstr ""
+msgstr "回复体温"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.TOOLTIP"
 msgid "This Duplicant got too <style=\"heat\">Cold</style> and is trying to warm up"
-msgstr ""
+msgstr "这个复制人正在回复自己过低的<style=\"heat\">体温</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.NAME"
 msgid "Washing hands"
-msgstr ""
+msgstr "正在洗手"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning</style> their hands"
-msgstr ""
+msgstr "这个复制人正在<style=\"hygiene\">清洗</style>自己的手"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.ANGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.ANGRY.TOOLTIP"
 msgid "Angry"
-msgstr ""
+msgstr "生气"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.COLD.TOOLTIP"
 msgid "Cold"
-msgstr ""
+msgstr "寒冷"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.FULLBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.FULLBLADDER.TOOLTIP"
 msgid "Full Bladder"
-msgstr ""
+msgstr "膀胱已满"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.GOTINFECTED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.GOTINFECTED.TOOLTIP"
 msgid "Got Infected"
-msgstr ""
+msgstr "已被传染"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.HAPPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.HAPPY.TOOLTIP"
 msgid "Happy"
-msgstr ""
+msgstr "快乐"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.HOT.TOOLTIP"
 msgid "Hot"
-msgstr ""
+msgstr "炎热"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP"
 msgid "Poor Decor"
-msgstr ""
+msgstr "单调的装饰"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP"
 msgid "Smelled Something Putrid"
-msgstr ""
+msgstr "闻到了腐败的味道"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.RAGING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.RAGING.TOOLTIP"
 msgid "Raging"
-msgstr ""
+msgstr "愤怒"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.SLEEPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.SLEEPY.TOOLTIP"
 msgid "Sleepy"
-msgstr ""
+msgstr "打瞌睡"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.STARVING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.STARVING.TOOLTIP"
 msgid "Starving"
-msgstr ""
+msgstr "饥饿"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.SUFFOCATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.SUFFOCATING.TOOLTIP"
 msgid "Suffocating"
-msgstr ""
+msgstr "呼吸困难"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.UNHAPPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.UNHAPPY.TOOLTIP"
 msgid "Unhappy"
-msgstr ""
+msgstr "悲伤"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC"
 msgid "This Duplicant will take out their frustrations on defenseless machines when stressed"
-msgstr ""
+msgstr "这个复制人压力过大时会对无法反抗的机器拳脚相加"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME"
 msgid "Destructive"
-msgstr ""
+msgstr "破璧毁珪"
 
 #. STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.DESC"
 msgid "This Duplicant moves as quickly underwater as they do on land"
-msgstr ""
+msgstr "这个复制人在水下跑得和在陆地上一样快"
 
 #. STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.NAME"
 msgid "Amphibious"
-msgstr ""
+msgstr "两栖生物"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC"
 msgid "This Duplicant is the exact opposite of athletic"
-msgstr ""
+msgstr "这个复制人不擅长任何运动"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME"
 msgid "Anemic"
-msgstr ""
+msgstr "贫血患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC"
 msgid "This Duplicant collapses when put under too much pressure"
-msgstr ""
+msgstr "这个复制人在过高的压力下会崩溃"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME"
 msgid "Anxious"
-msgstr ""
+msgstr "焦虑患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC"
 msgid "This Duplicant might actually be several blackholes in a trenchcoat"
-msgstr ""
+msgstr "这个复制人的风衣下或许不是身体，而是几个黑洞"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME"
 msgid "Bottomless Stomach"
-msgstr ""
+msgstr "次元胃"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
 msgid "Cannot perform job"
-msgstr ""
+msgstr "无法胜任工作"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC"
 msgid "This Duplicant is incapable of visualizing an object in 3D space"
-msgstr ""
+msgstr "这个复制人无法想象出三维空间中的物体"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME"
 msgid "Dimensionally Inept"
-msgstr ""
+msgstr "纸上谈兵"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC"
 msgid "This Duplicant has an unshakable fear of kitchens and the culinary arts"
-msgstr ""
+msgstr "这个复制人对厨房和烹饪有着无法摆脱的恐惧"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME"
 msgid "Gastrophobia"
-msgstr ""
+msgstr "酒囊饭袋"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC"
 msgid "This Duplicant just can't operate a dig tool for the life of them"
-msgstr ""
+msgstr "这个复制人无法使用挖掘工具"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME"
 msgid "Can't Dig It"
-msgstr ""
+msgstr "不能挖掘"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC"
 msgid "This Duplicant isn't the brightest star in the sky"
-msgstr ""
+msgstr "这个复制人并不是天空中最闪亮的星"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME"
 msgid "Yokel"
-msgstr ""
+msgstr "乡巴佬"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC"
 msgid "This Duplicant may have been a talented opera singer in another life"
-msgstr ""
+msgstr "这个复制人的原型或许是个天才歌剧家"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME"
 msgid "Diver's Lungs"
-msgstr ""
+msgstr "潜水员的肺"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC"
 msgid "This Duplicant wakes up feeling fresh and efficient!"
-msgstr ""
+msgstr "这个复制人醒来能够直接投入到工作中去"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC"
 msgid "In the first part of the day, adds <style=\"produced\">{0}</style> to all skills."
-msgstr ""
+msgstr "在每天清晨，所有能力值<style=\"produced\">{0}</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.NAME"
 msgid "Early Bird"
-msgstr ""
+msgstr "早起的鸟"
 
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC"
 msgid "This Duplicant's sharp as a tack and picks up new skills with amazing speed"
-msgstr ""
+msgstr "这个复制人能够以惊人的速度来学习新的技能"
 
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.NAME"
 msgid "Quick Learner"
-msgstr ""
+msgstr "学霸"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC"
 msgid "Some Duplicants are just full of it"
-msgstr ""
+msgstr "一些复制人总是喜欢目中无人"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME"
 msgid "Flatulence"
-msgstr ""
+msgstr "自视甚高"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC"
 msgid "Nothing's ever quite good enough for this Duplicant"
-msgstr ""
+msgstr "简直没什么事是能让这家伙满意的"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME"
 msgid "Fussy"
-msgstr ""
+msgstr "难以取悦"
 
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.DESC"
 msgid "This Duplicant likes to throw a wrench into the colony's plans... in a good way"
-msgstr ""
+msgstr "这个复制人总是喜欢以好的方式给殖民地的计划添点乱子．．．"
 
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME"
 msgid "Grease Monkey"
-msgstr ""
+msgstr "捣蛋鬼"
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC"
 msgid "Just a little more to the left..."
-msgstr ""
+msgstr "再往左一点点．．．对，就是这里！"
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME"
 msgid "Interior Decorator"
-msgstr ""
+msgstr "室内装饰师"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC"
 msgid "This Duplicant can eat just about anything without getting sick!"
-msgstr ""
+msgstr "这个复制人不管吃什么都不会生病"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME"
 msgid "Iron Gut"
-msgstr ""
+msgstr "铁打的胃"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
 msgid "This Duplicant takes a little longer than usual to \"do their business\""
-msgstr ""
+msgstr "这个复制人比要比其他人花费更多的时间在“不可描述的事”上"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME"
 msgid "Irritable Bowel"
-msgstr ""
+msgstr "肠易激综合征患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC"
 msgid "These hands are great for tunneling, but finding gloves is a nightmare"
-msgstr ""
+msgstr "这双手很擅长挖掘，不过对手套而言可就是噩梦了"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME"
 msgid "Mole Hands"
-msgstr ""
+msgstr "挖掘能手"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
 msgid "This Duplicant sucks up way more than their fair share of <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "这个复制人将会消耗更多的<style=\"oxygen\">氧气</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME"
 msgid "Mouth Breather"
-msgstr ""
+msgstr "口式呼吸者"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC"
 msgid "This Duplicant can and will fall asleep anytime, anyplace"
-msgstr ""
+msgstr "这个复制人将会随时随地进入睡眠"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME"
 msgid "Narcoleptic"
-msgstr ""
+msgstr "发作性睡病患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC"
 msgid "This Duplicant does their best work when they ought to be sleeping"
-msgstr ""
+msgstr "这个复制人即使在应该睡觉时也会尽最大努力工作"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME"
 msgid "Night Owl"
-msgstr ""
+msgstr "夜猫子"
 
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
 msgid "Refuses to do job"
-msgstr ""
+msgstr "拒绝工作"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC"
 msgid "This Duplicant is afraid of violence."
-msgstr ""
+msgstr "这个复制人恐惧暴力"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME"
 msgid "Scaredy-Cat"
-msgstr ""
+msgstr "胆小如鼠"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC"
 msgid "This Duplicant is a little slow on the uptake, but gosh do they try"
-msgstr ""
+msgstr "这个复制人不仅学习很慢，而且连试都不试"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME"
 msgid "Slow Learner"
-msgstr ""
+msgstr "学渣"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC"
 msgid "This Duplicant has a tiny, pea-sized bladder. Adorable!"
-msgstr ""
+msgstr "这个复制人有着一个小小的，豌豆一样大的膀胱。太可爱了！"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME"
 msgid "Small Bladder"
-msgstr ""
+msgstr "豌豆膀胱"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.DESC"
 msgid "In space, everyone can hear you snore"
-msgstr ""
+msgstr "在太空中，每个人都能听到你的呼噜声"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.NAME"
 msgid "Loud Sleeper"
-msgstr ""
+msgstr "鼾症患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
 msgid "This Duplicant is liable to puke everywhere when stressed"
-msgstr ""
+msgstr "这个复制人压力过大时会吐得到处都是"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME"
 msgid "Vomiter"
-msgstr ""
+msgstr "胃虚脾弱"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
 msgid "This Duplicant's hardy immune system repels most common illnesses"
-msgstr ""
+msgstr "这个复制人强健的身体能够抵抗大多数疾病"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
 msgid "Naturally Robust"
-msgstr ""
+msgstr "身强体壮"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
 msgid "This Duplicant is light as a feather on their feet"
-msgstr ""
+msgstr "这个复制人的身体就像羽毛一样轻"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME"
 msgid "Twinkletoes"
-msgstr ""
+msgstr "身轻如燕"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has no appreciation for the finer things"
-msgstr ""
+msgstr "这个复制人对美好的事物毫无欣赏能力"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
 msgid "Uncultured"
-msgstr ""
+msgstr "粗俗之辈"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
 msgid "All the Vitamin C in space can't stop this Duplicant from getting sick"
-msgstr ""
+msgstr "再多的维他命C也不能阻止这个复制人生病"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
 msgid "Biohazard"
-msgstr ""
+msgstr "病秧子"
 
 #. STRINGS.ELEMENTS.ALGAE.DESC
 msgctxt "STRINGS.ELEMENTS.ALGAE.DESC"
