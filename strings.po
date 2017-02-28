@@ -1385,7 +1385,7 @@ msgstr "这群人一起吃喝，也一起拉撒。"
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
 msgid "Gives Duplicants a place to eat and reduces <style=\"stress\">Stress</style>.\n\nDuplicants will automatically eat at their assigned table when hungry."
-msgstr "给复制人们一个进食的地方，减少他们的<style=\"stress\">压力</style>。\n\n复制人们饥饿时会自动在指定的餐桌进食。"
+msgstr "给复制人们一个进餐的地方，减少他们的<style=\"stress\">压力</style>。\n\n复制人们饥饿时会自动在指定的餐桌进餐。"
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
@@ -2540,7 +2540,7 @@ msgstr "喷油嘴"
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
 msgid "A barbed, fruiting <style=\"plant\">Plant</style> that can be dug up and agriculturally domesticated.\n\nIt produces an edible bud, the growth of which coincides with the cycles of the colony."
-msgstr "一种带刺的水果 <style=\"plant\">植物</style>，可以被挖出并人工培植。\n\n产生可食用的芽，生长与殖民地保持一致。"
+msgstr "一种带刺的水果 <style=\"plant\">植物</style>，可以被挖出并人工培植。\n\n产生可食用的芽，生长与殖民地周期保持一致。"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC"
@@ -3581,7 +3581,7 @@ msgstr "研究"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC"
 msgid "Move materials to noncritical buildings and normal priority storage."
-msgstr "运送材料到普通设施和普通优先级储藏设备。"
+msgstr "运送材料到普通设施和普通优先级库存。"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME"
@@ -3981,12 +3981,12 @@ msgstr "休息中"
 #. STRINGS.DUPLICANTS.CHORES.MOP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.NAME"
 msgid "Mop"
-msgstr "打扫"
+msgstr "拖地"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.STATUS"
 msgid "Going to mop"
-msgstr "将要去打扫"
+msgstr "将要去拖地"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.NAME"
@@ -4371,7 +4371,7 @@ msgstr "被<style=\"disease\">{0}</style>传染了"
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD"
 msgid "eating a {0}"
-msgstr "正在进食{0}"
+msgstr "正在食用{0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA"
@@ -6401,7 +6401,7 @@ msgstr "该复制人正在运送材料到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME"
 msgid "Eating {Target}"
-msgstr "正在进食{Target}"
+msgstr "正在食用{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP"
@@ -6791,12 +6791,12 @@ msgstr "该复制人正在运送材料到{Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME"
 msgid "Mopping"
-msgstr "打扫"
+msgstr "拖地"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning</style> up a nasty spill"
-msgstr "该复制人正在<style=\"hygiene\">打扫</style>洒出来的脏东西"
+msgstr "该复制人正在<style=\"hygiene\">清理</style>洒出来的脏东西"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME"
@@ -9461,7 +9461,7 @@ msgstr "以下设施不能建在指定的位置：\n"
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME"
 msgid "Skill increase"
-msgstr "技能提升"
+msgstr "能力提升"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX"
@@ -9471,7 +9471,7 @@ msgstr "- {0}现在是{1}"
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP"
 msgid "Hardwork and repetition have improved these Duplicants' skills:"
-msgstr "经过日复一日地辛勤工作，以下复制人提升了技能："
+msgstr "经过日复一日地辛勤工作，以下复制人提升了能力："
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
@@ -9501,7 +9501,7 @@ msgstr "以下资源不可用："
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
 msgid "<style=\"liquid\">Contaminated Water</style> is a yucky substance that emits <style=\"gas\">Contaminated Oxygen</style> and can cause <style=\"disease\">Disease</style> in your Duplicants.\n\nSmall accidents can be cleaned up by clicking and dragging with the <color=#833A5FFF>MOP TOOL</color> [M], while larger bodies may be worth filtering. Dirty water also <style=\"stress\">Stresses</style> out any Duplicants that come into contact with it, so it is best removed quickly for your colony's safety."
-msgstr "<style=\"liquid\">污水</style>是令人作呕的物质，会放出<style=\"gas\">被污染的氧气</style>并导致复制人的<style=\"disease\">疾病</style>\n\n小意外可以用<color=#833A5FFF>擦拭工具</color> [M]点击并拖拽来清理。大量的污水则最好过滤。而且脏水会增加接触它的复制人的<style=\"stress\">压力</style>，所以为了你殖民地的安全，最好快点清除。"
+msgstr "<style=\"liquid\">污水</style>是令人作呕的物质，会放出<style=\"gas\">被污染的氧气</style>并导致复制人的<style=\"disease\">疾病</style>\n\n小意外可以用<color=#833A5FFF>拖地工具</color> [M]点击并拖拽来清扫。大量的污水则最好过滤。而且脏水会增加接触它的复制人的<style=\"stress\">压力</style>，所以为了你殖民地的安全，最好快点清除。"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
@@ -9796,7 +9796,7 @@ msgstr "挖掘"
 #. STRINGS.MISC.PLACERS.MOPPLACER.NAME
 msgctxt "STRINGS.MISC.PLACERS.MOPPLACER.NAME"
 msgid "Mop"
-msgstr "擦拭"
+msgstr "拖地"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME"
@@ -10081,7 +10081,7 @@ msgstr "预定挖出"
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Awaiting a Duplicant to dig up"
-msgstr "正在等待复制人打扫"
+msgstr "正在等待复制人挖起"
 
 #. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME"
@@ -10096,7 +10096,7 @@ msgstr "复制人无法到达该物品"
 #. STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME"
 msgid "Prioritized"
-msgstr "优先"
+msgstr "优先化"
 
 #. STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP"
@@ -10226,12 +10226,12 @@ msgstr "正在等待复制人挖掘"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop pending"
-msgstr "预定打扫"
+msgstr "预定拖地"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
 msgid "Awaiting a Duplicant to mop"
-msgstr "正在等待复制人打扫"
+msgstr "正在等待复制人拖地"
 
 #. STRINGS.MISC.TAGS.ALLOY
 msgctxt "STRINGS.MISC.TAGS.ALLOY"
@@ -10926,397 +10926,397 @@ msgstr "<style=\"stress\">压力</style>：<style=\"consumed\">每分钟{0}</sty
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT"
 msgid "This amenity may only be used by the Duplicant it is assigned to"
-msgstr ""
+msgstr "该福利设施只能由指定的复制人使用"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYEFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYEFFECT"
 msgid "Can hold {0} of power when connected to a generator"
-msgstr ""
+msgstr "连接到发电机可以储存{0}电力"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases Decor values by {0} in a {1} tile radius"
-msgstr ""
+msgstr "减少{1}格半径内的{0}点装饰度"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
 msgid "Improves Decor values by {0} in a {1} tile radius"
-msgstr ""
+msgstr "改善{1}格半径内的{0}点装饰度"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
 msgid "Duplicants walk {0} faster on this tile"
-msgstr ""
+msgstr "复制人在此区块上移动速度增加{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED"
 msgid "Consumes {2} of {1} when in use"
-msgstr ""
+msgstr "使用时消耗{2}个{1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE"
 msgid "Consumes {2} of {1} with each use"
-msgstr ""
+msgstr "每次使用消耗{2}个{1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED"
 msgid "Produces {2} of {1} when in use"
-msgstr ""
+msgstr "使用时产生{2}个{1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE"
 msgid "Produces {2} of {1} with each use"
-msgstr ""
+msgstr "每次使用产生{2}个{1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED"
 msgid "Draws {0} from the power grid it's connected to"
-msgstr ""
+msgstr "从相连的电力网中吸收{0}电力"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED"
 msgid "Produces {0} for the power grid it's connected to"
-msgstr ""
+msgstr "为相连的电力网中产生{0}电力"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES"
 msgid "Fabrication is the production of items and equipment"
-msgstr ""
+msgstr "生产指制造道具和装备"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING"
 msgid "Reduces the temperature of piped gases by {0}"
-msgstr ""
+msgstr "降低管道内的气体温度{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED"
 msgid "Dissipates -{0} of heat"
-msgstr ""
+msgstr "吸热-{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED"
 msgid "Generates +{0} of heat"
-msgstr ""
+msgstr "放热+{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONEFFECTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONEFFECTS"
 msgid "The building will produce these effects when its requirements are met"
-msgstr ""
+msgstr "该设施满足需求时产生以下效果"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONREQUIREMENTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONREQUIREMENTS"
 msgid "All requirements must be met in order for this building to operate"
-msgstr ""
+msgstr "必须满足所有需求使该设施运转"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY"
 msgid "Plants grow more slowly when contained within boxes"
-msgstr ""
+msgstr "植物在盆中生长得更慢"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFILLOXYGENTANK
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFILLOXYGENTANK"
 msgid "Refills Exosuit Oxygen Tanks with oxygen for reuse"
-msgstr ""
+msgstr "为潜水服的氧气瓶充氧以重新使用"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVEDEFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVEDEFFECT"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE"
 msgid "Use of this building will remove the listed effects"
-msgstr ""
+msgstr "使用该设施会移除以下效果"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT"
 msgid "Must receive deliveries of <style={0}>{1}</style> to function"
-msgstr ""
+msgstr "必须接收<style={0}>{1}</style>以运转"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT"
 msgid "Must receive gas from a gas pipe system"
-msgstr ""
+msgstr "必须从气体管道系统接收气体"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT"
 msgid "Must expel gas through a gas pipe system"
-msgstr ""
+msgstr "必须从气体管道系统排放气体"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS"
 msgid "Must expel gas through a gas pipe system"
-msgstr ""
+msgstr "必须从气体管道系统排放气体"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT"
 msgid "Must receive liquid from a liquid pipe system"
-msgstr ""
+msgstr "必须从液体管道系统排放液体"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT"
 msgid "Must expel liquid through a liquid pipe system"
-msgstr ""
+msgstr "必须从液体管道系统排放液体"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS"
 msgid "Must expel liquid through a liquid pipe system"
-msgstr ""
+msgstr "必须从液体管道系统排放液体"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION"
 msgid "A Duplicant must be present to run this building"
-msgstr ""
+msgstr "该设施必须由复制人操作"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWER"
 msgid "Must be connected to a power grid with at least -{0} of available power"
-msgstr ""
+msgstr "必须连接到至少有 -{0}可用电力的电力网"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR"
 msgid "Must be connected to a power producing generator to function"
-msgstr ""
+msgstr "必须连接到电力供应设施"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED"
 msgid "Must receive a seed from a dug out plant"
-msgstr ""
+msgstr "必须接收被挖出植物的种子"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY"
 msgid "Holds up to {0} of material"
-msgstr ""
+msgstr "可储存{0}材料"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STRESSREDUCEDPERMINUTE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STRESSREDUCEDPERMINUTE"
 msgid "Removes {0} of Duplicants' Stress for every uninterrupted minute of use"
-msgstr ""
+msgstr "不被中断地使用时，每分钟减少复制人{0}压力"
 
 #. STRINGS.UI.CALCULATING
 msgctxt "STRINGS.UI.CALCULATING"
 msgid "Calculating..."
-msgstr ""
+msgstr "计算中……"
 
 #. STRINGS.UI.CANCELPLACEINRECEPTACLE
 msgctxt "STRINGS.UI.CANCELPLACEINRECEPTACLE"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. STRINGS.UI.CANCELREMOVALFROMRECEPTACLE
 msgctxt "STRINGS.UI.CANCELREMOVALFROMRECEPTACLE"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. STRINGS.UI.CHANGEPERCYCLE
 msgctxt "STRINGS.UI.CHANGEPERCYCLE"
 msgid "Change per cycle: {0}"
-msgstr ""
+msgstr "每个周期改变：{0}"
 
 #. STRINGS.UI.CHANGEPERSECOND
 msgctxt "STRINGS.UI.CHANGEPERSECOND"
 msgid "Change per second: {0}"
-msgstr ""
+msgstr "每秒改变：{0}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE"
 msgid "ADDITIONAL"
-msgstr ""
+msgstr "附加特性"
 
 #. STRINGS.UI.CHARACTERCONTAINER_NEED
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_NEED"
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE"
 msgid " {0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE"
 msgid "ATTRIBUTES"
-msgstr ""
+msgstr "属性"
 
 #. STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
 msgid "Stress Response: {0}"
-msgstr ""
+msgstr "压力反应：{0}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE"
 msgid "TRAITS"
-msgstr ""
+msgstr "特性"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST"
 msgid "COLONY LOST"
-msgstr ""
+msgstr "失去殖民地"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION"
 msgid "All Duplicants are dead or incapacitated."
-msgstr ""
+msgstr "所有复制人已死亡或无法行动。"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON"
 msgid "DISMISS"
-msgstr ""
+msgstr "解散"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON"
 msgid "MAIN MENU"
-msgstr ""
+msgstr "主菜单"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT"
 msgid "Press <color=#F44A47>[ESC]</color> to return to a previous colony, or begin a new one."
-msgstr ""
+msgstr "按<color=#F44A47>[ESC]</color>键来回到之前的殖民地，或者重新开拓一个。"
 
 #. STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO"
 msgid "Assigned To:"
-msgstr ""
+msgstr "指定给："
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT"
 msgid "Can't reach"
-msgstr ""
+msgstr "不可达"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCURE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCURE"
 msgid "Can cure"
-msgstr ""
+msgstr "可以治愈"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANMOVETO
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANMOVETO"
 msgid "Can't reach"
-msgstr ""
+msgstr "不可达"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP"
 msgid "Can't reach"
-msgstr ""
+msgstr "不可达"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE"
 msgid "No fetchable items available"
-msgstr ""
+msgstr "没有可取回的道具"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL"
 msgid "Not operational"
-msgstr ""
+msgstr "不可运转"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION"
 msgid "Not marked for destruction"
-msgstr ""
+msgstr "未被标记拆除"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT"
 msgid "Red alert"
-msgstr ""
+msgstr "红色警报"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL"
 msgid "Not operational"
-msgstr ""
+msgstr "不可运转"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED"
 msgid "Job not allowed"
-msgstr ""
+msgstr "不能做此工作"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISTANKLOW
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISTANKLOW"
 msgid "Tank not low"
-msgstr ""
+msgstr "氧气瓶含量低"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS"
 msgid "No resources available"
-msgstr ""
+msgstr "无可用资源"
 
 #. STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE"
 msgid "UNAVAILABLE"
-msgstr ""
+msgstr "不可用"
 
 #. STRINGS.UI.CRAFT
 msgctxt "STRINGS.UI.CRAFT"
 msgid "FABRICATE"
-msgstr ""
+msgstr "生产"
 
 #. STRINGS.UI.CRASHSCREEN.BODY
 msgctxt "STRINGS.UI.CRASHSCREEN.BODY"
 msgid "Help! A black hole ate my game!"
-msgstr ""
+msgstr "救命！黑洞吃掉了我的游戏！"
 
 #. STRINGS.UI.CRASHSCREEN.CONTINUEBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.CONTINUEBUTTON"
 msgid "CONTINUE GAME"
-msgstr ""
+msgstr "继续游戏"
 
 #. STRINGS.UI.CRASHSCREEN.HEADER
 msgctxt "STRINGS.UI.CRASHSCREEN.HEADER"
 msgid "OPTIONAL CRASH DESCRIPTION"
-msgstr ""
+msgstr "可选崩溃描述"
 
 #. STRINGS.UI.CRASHSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.QUITBUTTON"
 msgid "QUIT TO DESKTOP"
-msgstr ""
+msgstr "退回桌面"
 
 #. STRINGS.UI.CRASHSCREEN.REPORTBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTBUTTON"
 msgid "REPORT CRASH"
-msgstr ""
+msgstr "崩溃报告"
 
 #. STRINGS.UI.CRASHSCREEN.REPORTING
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTING"
 msgid "REPORTING, PLEASE WAIT..."
-msgstr ""
+msgstr "报告中，请等待……"
 
 #. STRINGS.UI.CRASHSCREEN.THANKYOU
 msgctxt "STRINGS.UI.CRASHSCREEN.THANKYOU"
 msgid "Thank you!\n\nYou're making our game better, one crash at a time."
-msgstr ""
+msgstr "谢谢！\n\n你正在让我们的游戏变得更好，我们会一个一个解决崩溃。"
 
 #. STRINGS.UI.CRASHSCREEN.TITLE
 msgctxt "STRINGS.UI.CRASHSCREEN.TITLE"
 msgid "Whoops! We're sorry, but it seems your game has encountered an error.\nIt's okay though - these errors are how we find and fix problems to make our game more fun for everyone.\nIf you use the box below to submit a crash report to us, we can use this information to get the issue sorted out."
-msgstr ""
+msgstr "糟糕！对不起，但是你的游戏遇到了错误。\n但是没关系—正是有这些错误我们才能找到并修复问题，让所有人更好地享受我们的游\n如果你在下面提交崩溃报告，我们会利用这信息更好地解决问题。"
 
 #. STRINGS.UI.CRASHSCREEN.UPLOADINFO
 msgctxt "STRINGS.UI.CRASHSCREEN.UPLOADINFO"
 msgid "UPLOAD ADDITIONAL INFO ({0})"
-msgstr ""
+msgstr "上传附加信息({0})"
 
 #. STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON
 msgctxt "STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON"
 msgid "CLOSE"
-msgstr ""
+msgstr "关闭"
 
 #. STRINGS.UI.CREDITSSCREEN.TITLE
 msgctxt "STRINGS.UI.CREDITSSCREEN.TITLE"
 msgid "CREDITS"
-msgstr ""
+msgstr "开发人员名单"
 
 #. STRINGS.UI.DELIVERED
 msgctxt "STRINGS.UI.DELIVERED"
 msgid "Delivered: {0} {1}"
-msgstr ""
+msgstr "已送达：{0} {1}"
 
 #. STRINGS.UI.DEMOOVERSCREEN.DEMOOVER
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DEMOOVER"
 msgid "END OF DEMO"
-msgstr ""
+msgstr "试玩版已结束"
 
 #. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION"
 msgid "Thank you for playing <color=#F44A47>Oxygen Not Included</color>!"
-msgstr ""
+msgstr "感谢你游玩<color=#F44A47>缺氧</color>!"
 
 #. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2"
@@ -11326,737 +11326,737 @@ msgstr ""
 #. STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON"
 msgid "RESET"
-msgstr ""
+msgstr "重置"
 
 #. STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING"
 msgid "Demo time remaining:"
-msgstr ""
+msgstr "试玩时间剩余："
 
 #. STRINGS.UI.DEMOOVERSCREEN.TIMERINACTIVE
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMERINACTIVE"
 msgid "Timer inactive"
-msgstr ""
+msgstr "计时器停止"
 
 #. STRINGS.UI.DEMOOVERSCREEN.TIMERTOOLTIP
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMERTOOLTIP"
 msgid "Demo time remaining"
-msgstr ""
+msgstr "试玩时间剩余"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS"
 msgid "CONTENTS"
-msgstr ""
+msgstr "内容"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS"
 msgid "DETAILS"
-msgstr ""
+msgstr "详情"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS"
 msgid "CARRIED ITEMS"
-msgstr ""
+msgstr "携带道具"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
 msgid "Details"
-msgstr ""
+msgstr "详情"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY"
 msgid "Nothing"
-msgstr ""
+msgstr "无"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP"
 msgid "More information"
-msgstr ""
+msgstr "更多信息"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME"
 msgid "Energy"
-msgstr ""
+msgstr "能量"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP"
 msgid "View how much <style=\"power\">Power</style> this building consumes"
-msgstr ""
+msgstr "查看该设施消耗多少<style=\"power\">电力</style>"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
 msgid "<style=\"power\">Power</style> stored: {0}"
-msgstr ""
+msgstr "已储存<style=\"power\">电力</style>：{0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP"
 msgid "Amount of <style=\"power\">Power</style> stored in batteries"
-msgstr ""
+msgstr "电池中储存的<style=\"power\">电力</style>量"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES"
 msgid "BATTERIES"
-msgstr ""
+msgstr "电池"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW"
 msgid "CIRCUIT OVERVIEW"
-msgstr ""
+msgstr "电路总览"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS"
 msgid "POWER CONSUMERS"
-msgstr ""
+msgstr "电力消耗设施"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED"
 msgid "Not connected to an electrical circuit"
-msgstr ""
+msgstr "没有连接到电路"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS"
 msgid "POWER GENERATORS"
-msgstr ""
+msgstr "发电机"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME"
 msgid "Energy"
-msgstr ""
+msgstr "能量"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES"
 msgid "No batteries on this circuit"
-msgstr ""
+msgstr "该电路没有电池"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOCONSUMERS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOCONSUMERS"
 msgid "No consumers on this circuit"
-msgstr ""
+msgstr "该电路没有电力消耗设施"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS"
 msgid "No generators on this circuit"
-msgstr ""
+msgstr "该电路没有发电机"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED"
 msgid "Potential <style=\"power\">Power</style> consumed: {0}"
-msgstr ""
+msgstr "预计<style=\"power\">电力</style>消耗：{0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP"
 msgid "The total amount of <style=\"power\">Power</style> that can be used by this circuit if all connected buildings are active"
-msgstr ""
+msgstr "电路中所有设施开启时使用的<style=\"power\">电力</style>总量"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP"
 msgid "Monitor the <style=\"power\">Power</style> this building is generating"
-msgstr ""
+msgstr "监测该设施产生的<style=\"power\">电力</style>"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED"
 msgid "<style=\"power\">Power</style> consumed: {0}"
-msgstr ""
+msgstr "<style=\"power\">电力</style>消耗：{0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP"
 msgid "The total amount of <style=\"power\">Power</style> used by this circuit"
-msgstr ""
+msgstr "电路使用的<style=\"power\">电力</style>总量"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED"
 msgid "<style=\"power\">Power</style> produced: {0}"
-msgstr ""
+msgstr "<style=\"power\">电力</style>产生：{0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP"
 msgid "The total amount of <style=\"power\">Power</style> generated by this circuit"
-msgstr ""
+msgstr "电路产生的<style=\"power\">电力</style>总量"
 
 #. STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME"
 msgid "Energy"
-msgstr ""
+msgstr "能量"
 
 #. STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP"
 msgid "View this wire's network"
-msgstr ""
+msgstr "查看该电线的网络"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL"
 msgid "Current Level: {0}"
-msgstr ""
+msgstr "当前等级：{0}"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.CURRENT_STRESS_LEVEL
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.CURRENT_STRESS_LEVEL"
 msgid "Current <style=\"stress\">Stress</style> Level: {0}"
-msgstr ""
+msgstr "当前<style=\"stress\">压力</style>等级: {0}"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.NAME"
 msgid "Stress"
-msgstr ""
+msgstr "压力"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.NEXT_NEED_LEVEL
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.NEXT_NEED_LEVEL"
 msgid "Next Level: {0}"
-msgstr ""
+msgstr "下一等级：{0}"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.OVERVIEW
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.OVERVIEW"
 msgid "Overview"
-msgstr ""
+msgstr "总览"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS"
 msgid "<style=\"stress\">Stress</style> Creators"
-msgstr ""
+msgstr "<style=\"stress\">压力</style>源头"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS"
 msgid "<style=\"stress\">Stress</style> Relievers"
-msgstr ""
+msgstr "<style=\"stress\">压力</style>缓解 "
 
 #. STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP"
 msgid "View this Duplicant's psychological status"
-msgstr ""
+msgstr "查看该复制人的精神状态"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP"
 msgid "This Duplicant has been assigned a {0}"
-msgstr ""
+msgstr "该复制人已被指定到{0}"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP"
 msgid "This Duplicant has been equipped with a <style=\"equipment\">{0}</style>"
-msgstr ""
+msgstr "该复制人已配备<style=\"equipment\">{0}</style>"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT"
 msgid "CARRIED ITEMS"
-msgstr ""
+msgstr "携带道具"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_OWNABLE
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_OWNABLE"
 msgid "EQUIPMENT"
-msgstr ""
+msgstr "装备"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_ROOMS
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_ROOMS"
 msgid "ROOMS"
-msgstr ""
+msgstr "房间"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NAME"
 msgid "Assigned"
-msgstr ""
+msgstr "指定"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT"
 msgid "No equipment"
-msgstr ""
+msgstr "无道具"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT_TOOLTIP"
 msgid "This Duplicant has not been equipped with a <style=\"equipment\">Tool</style>"
-msgstr ""
+msgstr "该复制人已配备<style=\"equipment\">工具</style>"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP"
 msgid "View this Duplicant's inventory"
-msgstr ""
+msgstr "查看该复制人的物品"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED"
 msgid "Unassigned"
-msgstr ""
+msgstr "未指定"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED_TOOLTIP"
 msgid "This Duplicant has not been assigned a {0}"
-msgstr ""
+msgstr "该复制人未指定{0}"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "信息"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_NEEDS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_NEEDS"
 msgid "NEEDS"
-msgstr ""
+msgstr "需求"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH"
 msgid "RESEARCH"
-msgstr ""
+msgstr "研究"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS"
 msgid "STATUS"
-msgstr ""
+msgstr "状态"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME"
 msgid "Info"
-msgstr ""
+msgstr "信息"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP"
 msgid "Status and basic information"
-msgstr ""
+msgstr "状态和基本信息"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES"
 msgid "ATTRIBUTES"
-msgstr ""
+msgstr "属性"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS"
 msgid "TRAITS"
-msgstr ""
+msgstr "特性"
 
 #. STRINGS.UI.DETAILTABS.STATS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.STATS.NAME"
 msgid "Stats"
-msgstr ""
+msgstr "数值"
 
 #. STRINGS.UI.DETAILTABS.STATS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.STATS.TOOLTIP"
 msgid "View this Duplicant's attributes, traits, and diseases"
-msgstr ""
+msgstr "查看该复制人的属性、特性和疾病。"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY"
 msgid "This game is in the early stages of development which means you're likely to encounter strange, amusing, and occasionally just downright frustrating bugs.\n\nDuring this time Oxygen Not Included will be receiving regular updates to fix bugs, add features and introduce additional content, so if you encounter issues or just have suggestions to share, please let us know on our forums: <u>http://forums.kleientertainment.com</u>\n\nWe value your feedback and thank you for joining us in the development process. We couldn't do this without you.\n\nEnjoy your time in deep space!\n\n- Klei"
-msgstr ""
+msgstr "该游戏处于早期开发阶段，意味着你很有可能遇到奇怪的、偶尔十分让人沮丧的Bug。\n\n这段时间里缺氧会定期更新修复Bug，添加新功能和额外内容，所以如果你遇到问题或是有建议要分享，登录我们的论坛<u>http://forums.kleientertainment.com</u>让我们知道\n\n我们重视你们的反馈，感谢你们加入到我们的开发过程，没有你们我们无法做出这个游戏。\n享受你的深空之旅吧！\n\n—Klei"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON"
 msgid "Okay, thanks for the heads up!"
-msgstr ""
+msgstr "好吧，感谢提醒！"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE"
 msgid "<b>Welcome to Oxygen Not Included!</b>"
-msgstr ""
+msgstr "<b>欢迎来到缺氧！</b>"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY"
 msgid "Stay up to date by joining our mailing list, or head on over to the forums and join the discussion."
-msgstr ""
+msgstr "加入我们的邮件名单获取最新资讯，若登录论坛加入讨论。"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON"
 msgid "FORUMS"
-msgstr ""
+msgstr "论坛"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER"
 msgid "DEVELOPMENT BUILD"
-msgstr ""
+msgstr "开发版本"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST"
 msgid "MAILING LIST"
-msgstr ""
+msgstr "邮件名单"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.BUILDWATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.BUILDWATERMARK"
 msgid "DEVELOPMENT BUILD: CL#{0}"
-msgstr ""
+msgstr "开发版本：CL#{0}"
 
 #. STRINGS.UI.DUPLICANTPRINTING
 msgctxt "STRINGS.UI.DUPLICANTPRINTING"
 msgid "Duplicant Printing"
-msgstr ""
+msgstr "复制人作画中"
 
 #. STRINGS.UI.ELEMENTAL.MASS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.NAME"
 msgid "Mass"
-msgstr ""
+msgstr "质量"
 
 #. STRINGS.UI.ELEMENTAL.MASS.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.TOOLTIP"
 msgid "This object has a mass of {0}"
-msgstr ""
+msgstr "该物体质量为{0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME"
 msgid "Melting Point"
-msgstr ""
+msgstr "熔点"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP"
 msgid "Melting point describes the temperature at which this object will melt into liquid"
-msgstr ""
+msgstr "熔点描述了物体熔化为液体的温度"
 
 #. STRINGS.UI.ELEMENTAL.SHC.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.NAME"
 msgid "Specific Heat Capacity"
-msgstr ""
+msgstr "比热容"
 
 #. STRINGS.UI.ELEMENTAL.SHC.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.TOOLTIP"
 msgid "Specific heat capacity is the amount of energy required to raise this object's temperature"
-msgstr ""
+msgstr "比热容指提高物体单位温度使用的能量"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME"
 msgid "Thermal Conductivity"
-msgstr ""
+msgstr "导热性"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP"
 msgid "Thermal conductivity indicates how well this object conducts <style=\"heat\">Heat</style>"
-msgstr ""
+msgstr "导热性表明该物体能多好地导<style=\"heat\">热</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
 msgid "Added"
-msgstr ""
+msgstr "增加"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
 msgid "Calorie Generation:"
-msgstr ""
+msgstr "产生卡路里："
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "你的殖民地今天消耗了{0} <style=\"food\">食物</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony produced {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "你的殖民地今天生产了{0} <style=\"food\">食物</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE"
 msgid "Cycle {0}"
-msgstr ""
+msgstr "周期{0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY"
 msgid "Cycle {0} - Today"
-msgstr ""
+msgstr "周期{0}—今天"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY"
 msgid "Cycle {0} - Yesterday"
-msgstr ""
+msgstr "周期{0}—昨天"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME"
 msgid "<style=\"disease\">Diseases</style> Contracted:"
-msgstr ""
+msgstr "<style=\"disease\">疾病</style> Contracted："
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
 msgid "{0} Duplicant(s) were cured of a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "{0}个复制人治愈了<style=\"disease\">疾病</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP"
 msgid "{0} Duplicant(s) contracted a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "{0}个复制人感染了<style=\"disease\">疾病</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME"
 msgid "<style=\"power\">Power</style> Usage:"
-msgstr ""
+msgstr "<style=\"power\">电力</style>用量："
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr ""
+msgstr "你的殖民地今天消耗了{0} <style=\"power\">电力</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr ""
+msgstr "你的殖民地今天制造了{0} <style=\"power\">电力</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
 msgid "<style=\"power\">Power</style> Wasted:"
-msgstr ""
+msgstr "<style=\"power\">电力</style>浪费："
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> today that was not used or stored in a battery"
-msgstr ""
+msgstr  "你的殖民地今天制造的{0} <style=\"power\">电力</style>没有被使用或储存在电池里"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
 msgid "Idle Time:"
-msgstr ""
+msgstr "空闲时间："
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} idling over the course of the day"
-msgstr ""
+msgstr "你的复制人今天空闲了{0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
 msgid "Skill Increases:"
-msgstr ""
+msgstr "能力提升："
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
 msgid "Your Duplicants gained a total of {0} skill levels today"
-msgstr ""
+msgstr "你的复制人今天提升了{0}个能力"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
 msgid "Net"
-msgstr ""
+msgstr "网络"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NEXT"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE"
 msgid "Cycle {0} report ready"
-msgstr ""
+msgstr "周期{0}报告已完成"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP"
 msgid "View the end of day report for Cycle {0}"
-msgstr ""
+msgstr "查看周期{0}的报告"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME"
 msgid "<style=\"oxygen\">Oxygen</style> Generation:"
-msgstr ""
+msgstr "<style=\"oxygen\">氧气</style>产生："
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "你的殖民地今天消耗了{0}<style=\"oxygen\">氧气</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony generated {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "你的殖民地今天产生了{0}<style=\"oxygen\">氧气</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
 msgid "Prev"
-msgstr ""
+msgstr "上一个"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
 msgid "Removed"
-msgstr ""
+msgstr "已移除"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
 msgid "DAILY REPORTS"
-msgstr ""
+msgstr "每日报告"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
 msgid "<style=\"stress\">Stress</style> Change:"
-msgstr ""
+msgstr "<style=\"stress\">压力</style>改变："
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has decreased by {0}"
-msgstr ""
+msgstr "你的殖民地今天减少了{0}<style=\"stress\">压力</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has increased by {0}"
-msgstr ""
+msgstr "你的殖民地今天增加了{0}<style=\"stress\">压力</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME"
 msgid "Restroom Accidents:"
-msgstr ""
+msgstr "如厕事故："
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP"
 msgid "{0} Duplicants didn't quite reach the toilet in time today"
-msgstr ""
+msgstr "{0}个复制人今天没有及时到达厕所"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME"
 msgid "Travel Time:"
-msgstr ""
+msgstr "活动时间："
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} traveling over the course of the day"
-msgstr ""
+msgstr "你的复制人今天活动了{0}"
 
 #. STRINGS.UI.EQUIPMENTTAB_HELD
 msgctxt "STRINGS.UI.EQUIPMENTTAB_HELD"
 msgid "Held Items"
-msgstr ""
+msgstr "携带道具"
 
 #. STRINGS.UI.EQUIPMENTTAB_OWNED
 msgctxt "STRINGS.UI.EQUIPMENTTAB_OWNED"
 msgid "Owned Items"
-msgstr ""
+msgstr "拥有道具"
 
 #. STRINGS.UI.EQUIPMENTTAB_ROOM
 msgctxt "STRINGS.UI.EQUIPMENTTAB_ROOM"
 msgid "Assigned Rooms"
-msgstr ""
+msgstr "指定房间"
 
 #. STRINGS.UI.FORMATDAY
 msgctxt "STRINGS.UI.FORMATDAY"
 msgid "{0} cycles"
-msgstr ""
+msgstr "{0}个周期"
 
 #. STRINGS.UI.FORMATSECONDS
 msgctxt "STRINGS.UI.FORMATSECONDS"
 msgid "{0}s"
-msgstr ""
+msgstr "{0}s"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
 msgid "AUDIO OPTIONS"
-msgstr ""
+msgstr "音频选项"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES"
 msgid "Accept Changes?"
-msgstr ""
+msgstr "保存改变？"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON"
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN"
 msgid "Fullscreen:"
-msgstr ""
+msgstr "全屏:"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION"
 msgid "Resolution:"
-msgstr ""
+msgstr "分辨率："
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON"
 msgid "Revert"
-msgstr ""
+msgstr "反转"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE"
 msgid "GRAPHICS OPTIONS"
-msgstr ""
+msgstr "视频选项"
 
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.DUPLICATE
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.DUPLICATE"
 msgid "{0} was already bound to {1} and is now unbound."
-msgstr ""
+msgstr "{0}之前绑定到{1}，现在已解除绑定。"
 
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.MULTIPLE_UNBOUND_ACTIONS
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.MULTIPLE_UNBOUND_ACTIONS"
 msgid "You have multiple unbound actions, this may result in difficulty playing the game. Are you sure you want to continue?"
-msgstr ""
+msgstr "你有多个未绑定的操作，这可能会导致游戏中的不便。你确定要继续吗？"
 
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION"
 msgid "{0} is unbound. Are you sure you want to continue?"
-msgstr ""
+msgstr "{0}未绑定。你确定要继续吗？"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
 msgid " <b><color=#ff0000>(Auto Save: This file will get deleted as new Auto Saves are created)</color></b>"
-msgstr ""
+msgstr "<b><color=#ff0000>(自动保存: 新的自动保存文件被创建时该文件会被删除)</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE"
 msgid "Are you sure you want to delete {0}?\nYou cannot undo this action."
-msgstr ""
+msgstr "你确定要删除{0}吗？\n你不能撤销该操作。"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE"
 msgid "<b><color=#ff0000>Could not load file {0}. Its data may be corrupted.</color></b>"
-msgstr ""
+msgstr "<b><color=#ff0000>无法读取文件{0}。数据可能被损坏。</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON"
 msgid "Delete Slot"
-msgstr ""
+msgstr "删除记忆槽"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW"
 msgid "<b><color=#ff0000>Could not load file {0}. File is using build {1}. This build is {2}.</color></b>"
-msgstr ""
+msgstr "<b><color=#ff0000>无法读取文件{0}。文件使用版本{1}。当前版本为{2}.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS"
 msgid "<b>File:</b> {0}\n\n<b>Save Date:</b>\n{1}\n\n<b>Base Name:</b> {2}\n<b>Duplicants Alive:</b> {3}\n<b>Cycles Survived:</b> {4}"
-msgstr ""
+msgstr "<b>文件：</b> {0}\n\n<b>存档日期：</b>\n{1}\n\n<b>基地名称：</b> {2}\n<b>D存活复制人：</b> {3}\n<b>已存活周期：</b> {4}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "读取游戏"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE_INSPECT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE_INSPECT"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "读取游戏"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "读取游戏"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.NEWGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.NEWGAME"
 msgid "NEW GAME"
-msgstr ""
+msgstr "读取游戏"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.OPTIONS"
 msgid "OPTIONS"
-msgstr ""
+msgstr "选项"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.QUITCONFIRM
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.QUITCONFIRM"
 msgid "Are you sure you want to quit?\nAll unsaved progress will be lost."
-msgstr ""
+msgstr "你确定要退出吗？\n所有未被保存的进度将丢失。"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.QUITTODESKTOP
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.QUITTODESKTOP"
 msgid "QUIT"
-msgstr ""
+msgstr "退出"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESTARTCONFIRM
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESTARTCONFIRM"
 msgid "Are you sure you want to quit?\nAll unsaved progress will be lost."
-msgstr ""
+msgstr "你确定要退出吗？\n所有未被保存的进度将丢失。"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME"
 msgid "{0}: Cycle {1}"
-msgstr ""
+msgstr "{0}：周期{1}"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME"
 msgid "RESUME GAME"
-msgstr ""
+msgstr "恢复游戏"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON"
@@ -12066,92 +12066,92 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON"
 msgid "Enable"
-msgstr ""
+msgstr "启用"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE"
 msgid "METRICS OPTIONS"
-msgstr ""
+msgstr "数据反馈选项"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP"
 msgid "Collect metrics to help us improve the game"
-msgstr ""
+msgstr "帮助我们收集数据改善游戏"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY"
 msgid "We've detected that this computer does not meet the minimum requirements to run Oxygen Not Included. While you may continue with your current specs, the game might not run smoothly for you.\n\nPlease be aware that your experience may suffer as a result."
-msgstr ""
+msgstr "我们检测到该电脑不符合运行缺氧的最低条件。你可以继续尝试游玩，但游戏可能不能流畅运行。\n请明白，你可能会有很糟糕的游玩体验。"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON"
 msgid "Okay, thanks!"
-msgstr ""
+msgstr "好吧，多谢！"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.QUITBUTTON"
 msgid "Quit"
-msgstr ""
+msgstr "退出"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.SIMFAILEDTOLOAD
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.SIMFAILEDTOLOAD"
 msgid "A problem occurred loading Oxygen Not Included. This is usually caused by the Visual Studio C++ 2015 runtime being improperly installed on the system. Please exit the game, run Windows Update and try re-launching Oxygen Not Included."
-msgstr ""
+msgstr "载入缺氧时发生了问题。这通常是因Visual Studio C++ 2015 runtime没有正确安装引起的。请退出游戏，运行Windows更新并尝试重新启动缺氧"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.TITLE"
 msgid "WARNING!"
-msgstr ""
+msgstr "警告！"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO"
 msgid "Audio"
-msgstr ""
+msgstr "音频"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK"
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS"
 msgid "Controls"
-msgstr ""
+msgstr "控制"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS"
 msgid "Credits"
-msgstr ""
+msgstr "开发人员名单"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS"
 msgid "Graphics"
-msgstr ""
+msgstr "视频"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
 msgid "Metrics"
-msgstr ""
+msgstr "数据反馈"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE"
 msgid "OPTIONS"
-msgstr ""
+msgstr "选项"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNITS"
 msgid "Temperature Units"
-msgstr ""
+msgstr "温度单位"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
 msgid "<b>Changes you should know about: </b>\n\n{0}"
-msgstr ""
+msgstr "<b>你应该知道的内容更新：</b>\n\n{0}"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
 msgid "OK"
-msgstr ""
+msgstr "好的"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
@@ -12161,87 +12161,87 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
 msgid "IMPORTANT UPDATE NOTES"
-msgstr ""
+msgstr "重要更新公告"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT"
 msgid "Quit to Desktop"
-msgstr ""
+msgstr "退回桌面"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.LOAD
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.LOAD"
 msgid "Load"
-msgstr ""
+msgstr "读取"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.OPTIONS"
 msgid "Options"
-msgstr ""
+msgstr "选项"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.QUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.QUIT"
 msgid "Main Menu"
-msgstr ""
+msgstr "主菜单"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.RESUME
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.RESUME"
 msgid "Resume"
-msgstr ""
+msgstr "返回游戏"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVE
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVE"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVEAS
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVEAS"
 msgid "Save As"
-msgstr ""
+msgstr "保存到"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE"
 msgid "PAUSED"
-msgstr ""
+msgstr "暂停"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.CANCELNAME
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.CANCELNAME"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.CONFIRMNAME
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.CONFIRMNAME"
 msgid "Confirm"
-msgstr ""
+msgstr "确认"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.NEWSAVEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.NEWSAVEBUTTON"
 msgid "New Save"
-msgstr ""
+msgstr "新存档"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.OVERWRITEMESSAGE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.OVERWRITEMESSAGE"
 msgid "Are you sure you want to overwrite {0}?"
-msgstr ""
+msgstr "你确定要覆盖存档{0}吗？"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.SAVENAMETITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.SAVENAMETITLE"
 msgid "SAVE NAME"
-msgstr ""
+msgstr "保存游戏"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.TITLE"
 msgid "SAVE SLOTS"
-msgstr ""
+msgstr "记忆槽"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS"
 msgid "Celsius"
-msgstr ""
+msgstr "摄氏度"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
 msgid "Change temperature unit to Celsius (�C)"
-msgstr ""
+msgstr "温度单位改为摄氏度（�C）"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
@@ -12251,517 +12251,517 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
 msgid "Change temperature unit to Fahrenheit (�F)"
-msgstr ""
+msgstr "温度单位改为华氏度（�F）"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN"
 msgid "Kelvin"
-msgstr ""
+msgstr "开氏度"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP"
 msgid "Change temperature unit to Kelvin (K)"
-msgstr ""
+msgstr "温度单位改为开氏度（K）"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE"
 msgid "TEMPERATURE UNITS"
-msgstr ""
+msgstr "温度单位"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD"
 msgid "GENERATING WORLD"
-msgstr ""
+msgstr "正在生成世界"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.LOADINGGAME
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.LOADINGGAME"
 msgid "LOADING WORLD..."
-msgstr ""
+msgstr "正在读取世界……"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT"
 msgid "A new world is about to be created. Please select its size."
-msgstr ""
+msgstr "一个新的世界就要被创造了。请选择它的大小。"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE"
 msgid "Colossal"
-msgstr ""
+msgstr "超大"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE"
 msgid "Big"
-msgstr ""
+msgstr "大"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL"
 msgid "Small"
-msgstr ""
+msgstr "小"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD"
 msgid "Standard"
-msgstr ""
+msgstr "标准"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.TINY
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.TINY"
 msgid "Tiny"
-msgstr ""
+msgstr "超小"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.TITLE"
 msgid "NEW GAME"
-msgstr ""
+msgstr "新游戏"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES"
 msgid "<style=\"produced\">+{0}</style>"
-msgstr ""
+msgstr "<style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER"
 msgid "Forgiveness"
-msgstr ""
+msgstr "原谅"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE"
 msgid "Removes <style=\"disease\">Disease</style> chance from <style=\"food\">Mush Bar</style>"
-msgstr ""
+msgstr "去除<style=\"food\">糊糊棒</style>的致<style=\"disease\">病</style>性。"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.BACK"
 msgid "BACK"
-msgstr ""
+msgstr "返回"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
 msgid "Are you sure you want to reject all Duplicants?\n\nIt won't hurt their feelings, but it'll be awhile before the Printing Pod can print again."
-msgstr ""
+msgstr "你确定要拒收所有复制人吗？\n\n这不会伤害他们的感情，但是打印舱再次打印得等上一阵。"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
 msgid "Reject Duplicants?"
-msgstr ""
+msgstr "拒收复制人？"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.EMBARK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.EMBARK"
 msgid "EMBARK"
-msgstr ""
+msgstr "启航"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE"
 msgid "Select a DNA Blueprint"
-msgstr ""
+msgstr "选择一个DNA蓝图"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON"
 msgid "Print"
-msgstr ""
+msgstr "打印"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.REJECTALL
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.REJECTALL"
 msgid "Reject All"
-msgstr ""
+msgstr "全部拒收"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS"
 msgid "Select {0} Duplicants"
-msgstr ""
+msgstr "选择{0}个复制人"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW"
 msgid "ASSEMBLE YOUR CREW TO BEGIN"
-msgstr ""
+msgstr "召集你的人员开始吧"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE"
 msgid "SHUFFLE"
-msgstr ""
+msgstr "更换"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Reshuffle this dupe for a different one"
-msgstr ""
+msgstr "换一个新的复制人"
 
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
 msgid "JOBS"
-msgstr ""
+msgstr "工作"
 
 #. STRINGS.UI.JOBSCREEN_EVERYONE
 msgctxt "STRINGS.UI.JOBSCREEN_EVERYONE"
 msgid "Everyone"
-msgstr ""
+msgstr "所有人"
 
 #. STRINGS.UI.JOBSCREEN_HIGH
 msgctxt "STRINGS.UI.JOBSCREEN_HIGH"
 msgid "High"
-msgstr ""
+msgstr "高"
 
 #. STRINGS.UI.JOBSCREEN_LOW
 msgctxt "STRINGS.UI.JOBSCREEN_LOW"
 msgid "Low"
-msgstr ""
+msgstr "低"
 
 #. STRINGS.UI.JOBSCREEN_PRIORITY
 msgctxt "STRINGS.UI.JOBSCREEN_PRIORITY"
 msgid "Priority"
-msgstr ""
+msgstr "优先级"
 
 #. STRINGS.UI.LISTENTRYSTRING
 msgctxt "STRINGS.UI.LISTENTRYSTRING"
 msgid "     {0}\n"
-msgstr ""
+msgstr "     {0}\n"
 
 #. STRINGS.UI.LISTENTRYSTRINGNOLINEBREAK
 msgctxt "STRINGS.UI.LISTENTRYSTRINGNOLINEBREAK"
 msgid "     {0}"
-msgstr ""
+msgstr "     {0}"
 
 #. STRINGS.UI.LISTENTRYTAB
 msgctxt "STRINGS.UI.LISTENTRYTAB"
 msgid "     "
-msgstr ""
+msgstr "     "
 
 #. STRINGS.UI.MESSAGES
 msgctxt "STRINGS.UI.MESSAGES"
 msgid "MESSAGES"
-msgstr ""
+msgstr "消息"
 
 #. STRINGS.UI.METERS.BREATH.TOOLTIP
 msgctxt "STRINGS.UI.METERS.BREATH.TOOLTIP"
 msgid "Oxygen"
-msgstr ""
+msgstr "氧气"
 
 #. STRINGS.UI.METERS.HEALTH.TOOLTIP
 msgctxt "STRINGS.UI.METERS.HEALTH.TOOLTIP"
 msgid "Health"
-msgstr ""
+msgstr "健康"
 
 #. STRINGS.UI.NEUTRONIUMMASS
 msgctxt "STRINGS.UI.NEUTRONIUMMASS"
 msgid "Immeasurable"
-msgstr ""
+msgstr "无法估量"
 
 #. STRINGS.UI.OVERLAYS.DECOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.BUTTON"
 msgid "Decor Overlay"
-msgstr ""
+msgstr "装饰度视图"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
 msgid "Clutter"
-msgstr ""
+msgstr "凌乱"
 
 #. STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR"
 msgid "High Decor"
-msgstr ""
+msgstr "高装饰度"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LIGHTING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LIGHTING"
 msgid "Lighting"
-msgstr ""
+msgstr "光线"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LOWDECOR"
 msgid "Low Decor"
-msgstr ""
+msgstr "底装饰度"
 
 #. STRINGS.UI.OVERLAYS.DECOR.NAME
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.NAME"
 msgid "DECOR OVERLAY"
-msgstr ""
+msgstr "装饰度视图"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR"
 msgid "Areas with sufficient decor values"
-msgstr ""
+msgstr "装饰度充足区域"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR"
 msgid "Areas with insufficient decor values"
-msgstr ""
+msgstr "装饰度不足区域"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOTAL
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOTAL"
 msgid "Total"
-msgstr ""
+msgstr "总计"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON"
 msgid "Power Grid Overlay"
-msgstr ""
+msgstr "电路视图"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1"
 msgid "<b>BUILDING POWER</b>"
-msgstr ""
+msgstr "<b>设施电力</b>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2"
 msgid "Consumer"
-msgstr ""
+msgstr "消耗设施"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND3"
 msgid "Producer"
-msgstr ""
+msgstr "供应设施"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4"
 msgid "<b>CIRCUIT POWER</b>"
-msgstr ""
+msgstr "<b>电路电力</b>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5"
 msgid "Stable"
-msgstr ""
+msgstr "稳定"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6"
 msgid "Straining"
-msgstr ""
+msgstr "负荷中"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
 msgid "Broken"
-msgstr ""
+msgstr "损坏"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"
 msgid "POWER GRID OVERLAY"
-msgstr ""
+msgstr "电路视图"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
 msgid "Uses <style=\"power\">Power</style> from circuit"
-msgstr ""
+msgstr "从电路中使用<style=\"power\">电力</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3"
 msgid "Generates <style=\"power\">Power</style> for circuit"
-msgstr ""
+msgstr "为电路产生<style=\"power\">电力</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5"
 msgid "Optimal <style=\"power\">Power</style> usage"
-msgstr ""
+msgstr "最优<style=\"power\">电力</style>用量"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6"
 msgid "Requires more <style=\"power\">Power</style>"
-msgstr ""
+msgstr "需要更多<style=\"power\">电力</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7"
 msgid "System overloaded"
-msgstr ""
+msgstr "系统过载"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON"
 msgid "Exosuit Overlay"
-msgstr ""
+msgstr "潜水服视图"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITNOTREQUIRED
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITNOTREQUIRED"
 msgid "Exosuit not required"
-msgstr ""
+msgstr "不需要潜水服"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITREQUIRED
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITREQUIRED"
 msgid "Exosuit required"
-msgstr ""
+msgstr "需要潜水服"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.NAME
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.NAME"
 msgid "EXOSUIT OVERLAY"
-msgstr ""
+msgstr "潜水服视图"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.TOOLTIPS.EXOSUITNOTREQUIRED
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.TOOLTIPS.EXOSUITNOTREQUIRED"
 msgid "Duplicants can safely enter these areas unprotected"
-msgstr ""
+msgstr "复制人可以没有防护安全地进入该区域"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.TOOLTIPS.EXOSUITREQUIRED
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.TOOLTIPS.EXOSUITREQUIRED"
 msgid "Duplicants must wear an <style=\"equipment\">Exosuit</style> to survive in these areas"
-msgstr ""
+msgstr "复制人必须穿<style=\"equipment\">潜水服</style>才能在该区域存活"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON"
 msgid "Gas Plumbing Overlay"
-msgstr ""
+msgstr "气体管道视图"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED"
 msgid "Connected"
-msgstr ""
+msgstr "已连接"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONSUMER"
 msgid "Output"
-msgstr ""
+msgstr "出口"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "Intake via pipes"
-msgstr ""
+msgstr "管道入口"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW"
 msgid "Gas flows from Output"
-msgstr ""
+msgstr "管道出口"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DISCONNECTED"
 msgid "Disconnected"
-msgstr ""
+msgstr "未连接"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.FILTERED"
 msgid "Filtered Output"
-msgstr ""
+msgstr "过滤出口"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NAME"
 msgid "GAS PLUMBING OVERLAY"
-msgstr ""
+msgstr "气体管道视图"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK"
 msgid "Gas Network {0}"
-msgstr ""
+msgstr "气体网络{0}"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER"
 msgid "Intake"
-msgstr ""
+msgstr "入口"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <style=\"GasPiping\">Gas Pipe</style>"
-msgstr ""
+msgstr "连接到<style=\"GasPiping\">气体管道</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER"
 msgid "Point where a building sends gas into pipes\n* Must be connected to a <style=\"GasDestination\">Destination</style>"
-msgstr ""
+msgstr "设施将气体送入管道的地点。\n*必须连接到<style=\"GasDestination\">终点</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED"
 msgid "Not connected to a <style=\"GasPiping\">Gas Pipe</style>"
-msgstr ""
+msgstr "未连接到<style=\"GasPiping\">气体管道</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.NETWORK"
 msgid "Gas network {0}"
-msgstr ""
+msgstr "气体网络{0}"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.PRODUCER"
 msgid "Point where a building receives gas from pipes\n* Must be connected to a <style=\"GasSource\">Source</style>"
-msgstr ""
+msgstr "设施从管道接收气体的地点。\n*必须连接到<style=\"GasSource\">起点</style>"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.BUTTON"
 msgid "Light Overlay"
-msgstr ""
+msgstr "光线视图"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.DARK"
 msgid "Unlit area"
-msgstr ""
+msgstr "无光区域"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.LITAREA
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.LITAREA"
 msgid "Lit area"
-msgstr ""
+msgstr "有光区域"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.NAME"
 msgid "LIGHT OVERLAY"
-msgstr ""
+msgstr "光线视图"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK"
 msgid "Duplicants cannot see in these areas"
-msgstr ""
+msgstr "复制人在此区域不可视"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.LITAREA
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.LITAREA"
 msgid "Duplicants have adequate lighting in these areas"
-msgstr ""
+msgstr "复制人在此区域有足够的光线"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.NAME"
 msgid "LIGHT OVERLAY"
-msgstr ""
+msgstr "光线视图"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON"
 msgid "Liquid Plumbing Overlay"
-msgstr ""
+msgstr "液体管道视图"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED"
 msgid "Connected"
-msgstr ""
+msgstr "已连接"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONSUMER"
 msgid "Output"
-msgstr ""
+msgstr "出口"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "Intake via pipes"
-msgstr ""
+msgstr "管道入口"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW"
 msgid "Liquid flows from Output"
-msgstr ""
+msgstr "管道出口"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DISCONNECTED"
 msgid "Disconnected"
-msgstr ""
+msgstr "未连接"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.FILTERED"
 msgid "Filtered Output"
-msgstr ""
+msgstr "过滤出口"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NAME"
 msgid "LIQUID PLUMBING OVERLAY"
-msgstr ""
+msgstr "液体管道视图"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NETWORK"
 msgid "Liquid Network {0}"
-msgstr ""
+msgstr "液体网络{0}"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.PRODUCER"
 msgid "Intake"
-msgstr ""
+msgstr "入口"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <style=\"LiquidPiping\">Liquid Pipe</style>"
-msgstr ""
+msgstr "连接到<style=\"LiquidPiping\">液体管道</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER"
 msgid "Point where a building sends liquid into pipes\n* Must be connected to a <style=\"LiquidDestination\">Destination</style>"
-msgstr ""
+msgstr "设施从管道接收液体的地点。\n*必须连接到<style=\"LiquidDestination\">终点</style> "
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED"
@@ -12771,1012 +12771,1012 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED"
 msgid "Point where a building sends one filtered liquid into pipes\n* Must be connected to a <style=\"LiquidDestination\">Intake</style>"
-msgstr ""
+msgstr "设施从向管道排放过滤后液体的地点。\n* 必须连接到<style=\"LiquidDestination\">入口</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK"
 msgid "Liquid network {0}"
-msgstr ""
+msgstr "液体网络{0}"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER"
 msgid "Point where a building receives liquid from pipes\n* Must be connected to a <style=\"LiquidSource\">Output</style>"
-msgstr ""
+msgstr "设施从管道接收液体的地点。\n*必须连接到<style=\"LiquidDestination\">出口</style> "
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
 msgid "Oxygen Overlay"
-msgstr ""
+msgstr "氧气视图"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1"
 msgid "Very Breathable"
-msgstr ""
+msgstr "氧气充足"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2"
 msgid "Breathable"
-msgstr ""
+msgstr "可呼吸"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3"
 msgid "Barely Breathable"
-msgstr ""
+msgstr "难以呼吸"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4"
 msgid "Unbreathable"
-msgstr ""
+msgstr "不可呼吸"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5"
 msgid "Slightly Toxic"
-msgstr ""
+msgstr "微毒"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6"
 msgid "Very Toxic"
-msgstr ""
+msgstr "剧毒"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.NAME
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.NAME"
 msgid "OXYGEN OVERLAY"
-msgstr ""
+msgstr "氧气视图"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1"
 msgid "High oxygen concentration"
-msgstr ""
+msgstr "高氧气浓度"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2"
 msgid "Prominent oxygen concentration"
-msgstr ""
+msgstr "显著氧气浓度"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3"
 msgid "Prominent carbon dioxide concentration"
-msgstr ""
+msgstr "显著二氧化碳浓度"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4"
 msgid "High carbon dioxide concentration"
-msgstr ""
+msgstr "高二氧化碳浓度"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5"
 msgid "Harmful gas concentration"
-msgstr ""
+msgstr "有害气体浓度"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND6"
 msgid "Lethal gas concentration"
-msgstr ""
+msgstr "致死气体浓度"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON"
 msgid "Priority Overlay"
-msgstr ""
+msgstr "优先级视图"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT"
 msgid "Priority 8"
-msgstr ""
+msgstr "优先级8"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT_TOOLTIP"
 msgid "Priority 8"
-msgstr ""
+msgstr "优先级8"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FIVE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FIVE"
 msgid "Priority 5"
-msgstr ""
+msgstr "优先级5"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FIVE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FIVE_TOOLTIP"
 msgid "Priority 5"
-msgstr ""
+msgstr "优先级5"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FOUR
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FOUR"
 msgid "Priority 4"
-msgstr ""
+msgstr "优先级4"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FOUR_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FOUR_TOOLTIP"
 msgid "Priority 4"
-msgstr ""
+msgstr "优先级4"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NAME
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NAME"
 msgid "PRIORITY OVERLAY"
-msgstr ""
+msgstr "优先级视图"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE"
 msgid "Priority 9 (Highest)"
-msgstr ""
+msgstr "优先级9（最高）"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP"
 msgid "Priority 9"
-msgstr ""
+msgstr "优先级9"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE"
 msgid "Priority 1 (Lowest)"
-msgstr ""
+msgstr "优先级1（最低）"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP"
 msgid "Priority 1"
-msgstr ""
+msgstr "优先级1"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN"
 msgid "Priority 7"
-msgstr ""
+msgstr "优先级7"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN_TOOLTIP"
 msgid "Priority 7"
-msgstr ""
+msgstr "优先级7"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SIX
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SIX"
 msgid "Priority 6"
-msgstr ""
+msgstr "优先级6"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SIX_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SIX_TOOLTIP"
 msgid "Priority 6"
-msgstr ""
+msgstr "优先级6"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.THREE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.THREE"
 msgid "Priority 3"
-msgstr ""
+msgstr "优先级3"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.THREE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.THREE_TOOLTIP"
 msgid "Priority 3"
-msgstr ""
+msgstr "优先级3"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.TWO
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.TWO"
 msgid "Priority 2"
-msgstr ""
+msgstr "优先级2"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.TWO_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.TWO_TOOLTIP"
 msgid "Priority 2"
-msgstr ""
+msgstr "优先级2"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.BUTTON"
 msgid "Room Overlay"
-msgstr ""
+msgstr "房间视图"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NAME"
 msgid "ROOM OVERLAY"
-msgstr ""
+msgstr "房间视图"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.NOROOMS
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NOROOMS"
 msgid "No rooms created"
-msgstr ""
+msgstr "没有已创建房间"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.ROOM
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.ROOM"
 msgid "Room {0}"
-msgstr ""
+msgstr "房间{0}"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.NOROOMS
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.NOROOMS"
 msgid "Duplicants have nowhere to sleep"
-msgstr ""
+msgstr "复制人没有地方睡觉"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM"
 msgid "Completed Duplicant bedrooms"
-msgstr ""
+msgstr "完成复制人的卧室"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON"
 msgid "Exosuit Overlay"
-msgstr ""
+msgstr "潜水服视图"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.NAME"
 msgid "EXOSUIT OVERLAY"
-msgstr ""
+msgstr "潜水服视图"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.NOREGIONS
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.NOREGIONS"
 msgid "No exosuit regions created"
-msgstr ""
+msgstr "没有已创建潜水服区域"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION"
 msgid "Exosuit Region {0}"
-msgstr ""
+msgstr "潜水服区域{0}"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.NOREGIONS
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.NOREGIONS"
 msgid "No storage areas have been designated to receive materials"
-msgstr ""
+msgstr "没有指定接收材料的库存区域"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.REGION
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.REGION"
 msgid "{0} is accepting materials"
-msgstr ""
+msgstr "{0}正在接收材料"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON"
 msgid "Temperature Overlay"
-msgstr ""
+msgstr "温度视图"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.COLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.COLD"
 msgid "Chilled"
-msgstr ""
+msgstr "冰冷"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD"
 msgid "Absolute Zero"
-msgstr ""
+msgstr "绝对零度"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT"
 msgid "Scorching"
-msgstr ""
+msgstr "炽热"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.HOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.HOT"
 msgid "Warm"
-msgstr ""
+msgstr "温暖"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.MAXHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.MAXHOT"
 msgid "Molten"
-msgstr ""
+msgstr "熔化"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.NAME
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.NAME"
 msgid "TEMPERATURE OVERLAY"
-msgstr ""
+msgstr "温度视图"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.TEMPERATE
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TEMPERATE"
 msgid "Temperate"
-msgstr ""
+msgstr "温度"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE"
 msgid "Temperatures reaching {0}"
-msgstr ""
+msgstr "温度达到{0}"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD"
 msgid "Cold"
-msgstr ""
+msgstr "冷"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT"
 msgid "Hot"
-msgstr ""
+msgstr "热"
 
 #. STRINGS.UI.OVERLAYSTITLE
 msgctxt "STRINGS.UI.OVERLAYSTITLE"
 msgid "OVERLAYS"
-msgstr ""
+msgstr "视图"
 
 #. STRINGS.UI.PICKEDUP
 msgctxt "STRINGS.UI.PICKEDUP"
 msgid "Picked Up: {0} {1}"
-msgstr ""
+msgstr "拾起：{0}{1}"
 
 #. STRINGS.UI.PLACEINRECEPTACLE
 msgctxt "STRINGS.UI.PLACEINRECEPTACLE"
 msgid "Plant"
-msgstr ""
+msgstr "种植"
 
 #. STRINGS.UI.POSITIVE_FORMAT
 msgctxt "STRINGS.UI.POSITIVE_FORMAT"
 msgid "+{0}"
-msgstr ""
+msgstr "+{0}"
 
 #. STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP"
 msgid "Set construction priority level\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr ""
+msgstr "设置建造优先级\n------------------\n优先级1：最低\n优先级9：最高"
 
 #. STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP"
 msgid "Set priority level for the currently selected tool\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr ""
+msgstr "为当前选择的工具设置优先级\n------------------\n优先级1：最低\n优先级9：最高"
 
 #. STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP"
 msgid "Set priority level for the currently selected object\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr ""
+msgstr "为当前选择的物体设置优先级\n------------------\n优先级1：最低\n优先级9：最高"
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
 msgctxt "STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES"
 msgid "Required resources:"
-msgstr ""
+msgstr "需要资源："
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC"
 msgid "{0} has not yet been discovered."
-msgstr ""
+msgstr "{0}还未被发现。"
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER"
 msgid "Missing resource(s)"
-msgstr ""
+msgstr "缺少资源"
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE"
 msgid "Requires {0}: {1}"
-msgstr ""
+msgstr "需要：{0}: {1}"
 
 #. STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC
 msgctxt "STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC"
 msgid "Requires {0} Research"
-msgstr ""
+msgstr "需要{0}研究"
 
 #. STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED
 msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
 msgid "Research required..."
-msgstr ""
+msgstr "需要研究……"
 
 #. STRINGS.UI.PRODUCTINFO_SELECTMATERIAL
 msgctxt "STRINGS.UI.PRODUCTINFO_SELECTMATERIAL"
 msgid "Select {0}:"
-msgstr ""
+msgstr "选择{0}:"
 
 #. STRINGS.UI.QUEUE
 msgctxt "STRINGS.UI.QUEUE"
 msgid "Queue"
-msgstr ""
+msgstr "队列"
 
 #. STRINGS.UI.RED_ALERT
 msgctxt "STRINGS.UI.RED_ALERT"
 msgid "RED ALERT"
-msgstr ""
+msgstr "红色警报"
 
 #. STRINGS.UI.REMOVEFROMRECEPTACLE
 msgctxt "STRINGS.UI.REMOVEFROMRECEPTACLE"
 msgid "Dig Up"
-msgstr ""
+msgstr "挖出"
 
 #. STRINGS.UI.REPORT
 msgctxt "STRINGS.UI.REPORT"
 msgid "REPORTS"
-msgstr ""
+msgstr "报告"
 
 #. STRINGS.UI.RESEARCH
 msgctxt "STRINGS.UI.RESEARCH"
 msgid "RESEARCH"
-msgstr ""
+msgstr "研究"
 
 #. STRINGS.UI.RESEARCHPOINTS
 msgctxt "STRINGS.UI.RESEARCHPOINTS"
 msgid "Research points"
-msgstr ""
+msgstr "研究点"
 
 #. STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP
 msgctxt "STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP"
 msgid "Unlocks: {0}"
-msgstr ""
+msgstr "解锁：{0}"
 
 #. STRINGS.UI.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULE"
 msgid "SCHEDULE"
-msgstr ""
+msgstr "日程"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
 msgid "EAT:\nDuring Mealtime Duplicants will head to their assigned mess halls and eat."
-msgstr ""
+msgstr "进餐：\n在进餐时间复制人会前往指定食堂并进餐。"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME"
 msgid "Mealtime"
-msgstr ""
+msgstr "进餐时间"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION"
 msgid "HYGIENE:\nDuring <style=\"hygiene\">Hygiene</style> hours Duplicants will head to their assigned washrooms to get cleaned up."
-msgstr ""
+msgstr "卫生：\n在如厕时间复制人会前往指定厕所如厕。"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME"
 msgid "Hygiene"
-msgstr ""
+msgstr "卫生"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION"
 msgid "HAMMER TIME:\nDuring Hammer Time, Duplicants will relieve their <style=\"stress\">Stress</style> through dance. Please be aware that no matter how hard your Duplicants try, they will absolutely not be able to touch this."
-msgstr ""
+msgstr "嘻哈时间：\n在嘻哈时间，复制人会跳舞来释放<style=\"stress\">压力</style>。不过要知道，不管你的复制人怎么跳，也绝对跟不上MC Hammer的节奏。"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
 msgid "Recreation"
-msgstr ""
+msgstr "重建"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION"
 msgid "SLEEP:\nWhen it's time to sleep, Duplicants will head to their assigned rooms and rest."
-msgstr ""
+msgstr "睡觉：\n在睡觉时间，复制人会前往指定的房间睡觉。"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME"
 msgid "Sleep"
-msgstr ""
+msgstr "睡觉"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION"
 msgid "WORK:\nDuring Work hours Duplicants will perform any pending job tasks in the colony."
-msgstr ""
+msgstr "工作：\n在工作时间复制人会执行殖民地里所有预定的工作。"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME"
 msgid "Work"
-msgstr ""
+msgstr "工作"
 
 #. STRINGS.UI.SCHEDULESCREEN.ALLOWED
 msgctxt "STRINGS.UI.SCHEDULESCREEN.ALLOWED"
 msgid "Allowed"
-msgstr ""
+msgstr "允许"
 
 #. STRINGS.UI.SCHEDULESCREEN.BLOCKS
 msgctxt "STRINGS.UI.SCHEDULESCREEN.BLOCKS"
 msgid "BLOCKS:"
-msgstr ""
+msgstr "时间段："
 
 #. STRINGS.UI.SCHEDULESCREEN.CLICKTOCHANGE
 msgctxt "STRINGS.UI.SCHEDULESCREEN.CLICKTOCHANGE"
 msgid "Click to change block type."
-msgstr ""
+msgstr "点击改变时间段类型。"
 
 #. STRINGS.UI.SCHEDULESCREEN.CLICKTOSELECT
 msgctxt "STRINGS.UI.SCHEDULESCREEN.CLICKTOSELECT"
 msgid "Click to select."
-msgstr ""
+msgstr "点击选择。"
 
 #. STRINGS.UI.SCHEDULESCREEN.DENIED
 msgctxt "STRINGS.UI.SCHEDULESCREEN.DENIED"
 msgid "Denied"
-msgstr ""
+msgstr "拒绝"
 
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE"
 msgid "SCHEDULE:"
-msgstr ""
+msgstr "日程："
 
 #. STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP"
 msgid "Select a block type to adjust the colony's schedule"
-msgstr ""
+msgstr "选择一个时间段类型来调整殖民地的日程"
 
 #. STRINGS.UI.SCHEDULESCREEN.SELECTHELP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SELECTHELP"
 msgid "Select an option and then click or drag on the timetable to adjust the Duplicant's schedule."
-msgstr ""
+msgstr "选择一个选项并在时间表上点击或拖拽，以调整复制人的日程。"
 
 #. STRINGS.UI.SCHEDULESCREEN.TIMESLOT
 msgctxt "STRINGS.UI.SCHEDULESCREEN.TIMESLOT"
 msgid "Time Slot"
-msgstr ""
+msgstr "时间点"
 
 #. STRINGS.UI.SPEED_FAST
 msgctxt "STRINGS.UI.SPEED_FAST"
 msgid "FAST"
-msgstr ""
+msgstr "快"
 
 #. STRINGS.UI.SPEED_MEDIUM
 msgctxt "STRINGS.UI.SPEED_MEDIUM"
 msgid "MEDIUM"
-msgstr ""
+msgstr "中"
 
 #. STRINGS.UI.SPEED_SLOW
 msgctxt "STRINGS.UI.SPEED_SLOW"
 msgid "SLOW"
-msgstr ""
+msgstr "慢"
 
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "收获"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLACTION"
 msgid "DRAG TO HARVEST"
-msgstr ""
+msgstr "拖拽以收割"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLNAME"
 msgid "Harvest tool"
-msgstr ""
+msgstr "收获工具"
 
 #. STRINGS.UI.TOOLS.BUILD.NAME
 msgctxt "STRINGS.UI.TOOLS.BUILD.NAME"
 msgid "Build {0}"
-msgstr ""
+msgstr "建造{0}"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION"
 msgid "CLICK TO BUILD"
-msgstr ""
+msgstr "点击以建造"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG"
 msgid "DRAG TO BUILD"
-msgstr ""
+msgstr "拖拽以建造"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLNAME"
 msgid "Build tool"
-msgstr ""
+msgstr "建造工具"
 
 #. STRINGS.UI.TOOLS.CANCEL.NAME
 msgctxt "STRINGS.UI.TOOLS.CANCEL.NAME"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. STRINGS.UI.TOOLS.CANCEL.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLACTION"
 msgid "DRAG TO CANCEL ACTION"
-msgstr ""
+msgstr "拖拽以取消动作"
 
 #. STRINGS.UI.TOOLS.CANCEL.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLNAME"
 msgid "Cancel tool"
-msgstr ""
+msgstr "取消工具"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME"
 msgid "Clean"
-msgstr ""
+msgstr "清扫"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME"
 msgid "Clean Up tools"
-msgstr ""
+msgstr "清扫工具"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr ""
+msgstr "拆除"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
 msgid "DRAG TO DECONSTRUCT"
-msgstr ""
+msgstr "拖拽以拆除"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME"
 msgid "Deconstruct tool"
-msgstr ""
+msgstr "拆除工具"
 
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "挖掘"
 
 #. STRINGS.UI.TOOLS.DIG.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLACTION"
 msgid "DRAG TO DIG"
-msgstr ""
+msgstr "拖拽以挖掘"
 
 #. STRINGS.UI.TOOLS.DIG.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLNAME"
 msgid "Dig tool"
-msgstr ""
+msgstr "挖掘工具"
 
 #. STRINGS.UI.TOOLS.ERASEREGION.NAME
 msgctxt "STRINGS.UI.TOOLS.ERASEREGION.NAME"
 msgid "Clear Region"
-msgstr ""
+msgstr "清除区域"
 
 #. STRINGS.UI.TOOLS.ERASEREGION.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.ERASEREGION.TOOLACTION"
 msgid "DRAG TO ERASE"
-msgstr ""
+msgstr "拖拽以清除"
 
 #. STRINGS.UI.TOOLS.ERASEREGION.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.ERASEREGION.TOOLNAME"
 msgid "Clear Region tool"
-msgstr ""
+msgstr "清除区域工具"
 
 #. STRINGS.UI.TOOLS.EXOSUITREGION.NAME
 msgctxt "STRINGS.UI.TOOLS.EXOSUITREGION.NAME"
 msgid "Drag to designate an exosuit region"
-msgstr ""
+msgstr "拖拽以选定潜水服区域"
 
 #. STRINGS.UI.TOOLS.EXOSUITREGION.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.EXOSUITREGION.TOOLNAME"
 msgid "Exosuit Region tool"
-msgstr ""
+msgstr "潜水服区域工具"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.ALL
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ALL"
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS"
 msgid "Buildings"
-msgstr ""
+msgstr "设施"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr ""
+msgstr "打扫和拖地顺序"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
 msgid "Dig Orders"
-msgstr ""
+msgstr "挖掘顺序"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
 msgid "Gas Pipes"
-msgstr ""
+msgstr "气体管道"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES"
 msgid "Liquid Pipes"
-msgstr ""
+msgstr "液体管道"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
 msgid "Tiles"
-msgstr ""
+msgstr "区块"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
 msgid "Wires"
-msgstr ""
+msgstr "电线"
 
 #. STRINGS.UI.TOOLS.GENERIC.BACK
 msgctxt "STRINGS.UI.TOOLS.GENERIC.BACK"
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "打扫"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION"
 msgid "DRAG TO SWEEP"
-msgstr ""
+msgstr "拖拽以打扫"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLNAME"
 msgid "Sweep tool"
-msgstr ""
+msgstr "打扫工具"
 
 #. STRINGS.UI.TOOLS.MOP.NAME
 msgctxt "STRINGS.UI.TOOLS.MOP.NAME"
 msgid "Mop"
-msgstr ""
+msgstr "拖地"
 
 #. STRINGS.UI.TOOLS.MOP.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MOP.TOOLACTION"
 msgid "DRAG TO MOP"
-msgstr ""
+msgstr "拖拽以拖地"
 
 #. STRINGS.UI.TOOLS.MOP.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.MOP.TOOLNAME"
 msgid "Mop tool"
-msgstr ""
+msgstr "拖地工具"
 
 #. STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME"
 msgid "Prioritize"
-msgstr ""
+msgstr "优先化"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.NAME"
 msgid "Prioritize"
-msgstr ""
+msgstr "优先化"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY"
 msgid "Set Priority: {0}"
-msgstr ""
+msgstr "设置优先级：{0}"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.TOOLACTION"
 msgid "DRAG TO PRIORITIZE"
-msgstr ""
+msgstr "拖拽以优先化"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.TOOLNAME"
 msgid "Prioritize tool"
-msgstr ""
+msgstr "优先化工具"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.CREATETOOLTIP
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.CREATETOOLTIP"
 msgid "DRAG TO CREATE"
-msgstr ""
+msgstr "拖拽以创建"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.ERASETOOLTIP
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.ERASETOOLTIP"
 msgid "DRAG TO ERASE"
-msgstr ""
+msgstr "拖拽以清除"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.MERGETOOLTIP
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.MERGETOOLTIP"
 msgid "DRAG TO MERGE"
-msgstr ""
+msgstr "拖拽以合并"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.NAME"
 msgid "Regions"
-msgstr ""
+msgstr "区域"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.TOOLNAME"
 msgid "Region tool"
-msgstr ""
+msgstr "区域工具"
 
 #. STRINGS.UI.TOOLTIPS.ALERTSTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.ALERTSTOOLTIP"
 msgid "Alerts provide important information about what's happening to your colony right now"
-msgstr ""
+msgstr "警告提供当前关于你的殖民地的重要信息"
 
 #. STRINGS.UI.TOOLTIPS.ATTACKBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.ATTACKBUTTON"
 msgid "Drag to batch harvest mature plants"
-msgstr ""
+msgstr "拖拽以批量收获成熟的植物"
 
 #. STRINGS.UI.TOOLTIPS.BASE_VALUE
 msgctxt "STRINGS.UI.TOOLTIPS.BASE_VALUE"
 msgid "Base Value"
-msgstr ""
+msgstr "基础值"
 
 #. STRINGS.UI.TOOLTIPS.CANCELBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELBUTTON"
 msgid "Drag to cancel pending job tasks"
-msgstr ""
+msgstr "拖拽以取消预定工作"
 
 #. STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON"
 msgid "Cancel queued orders or deconstruct existing buildings"
-msgstr ""
+msgstr "取消队列中的命令或拆除设施"
 
 #. STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON"
 msgid "Mop and declutter messy floors"
-msgstr ""
+msgstr "拖地并将脏乱的地板打扫干净"
 
 #. STRINGS.UI.TOOLTIPS.CLEARBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEARBUTTON"
 msgid "Drag to declutter floors and move resources into storage"
-msgstr ""
+msgstr "拖拽以打扫地板并将资源运送到库存"
 
 #. STRINGS.UI.TOOLTIPS.CLOSETOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.CLOSETOOLTIP"
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #. STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON"
 msgid "Drag to demolish buildings and refund their resources"
-msgstr ""
+msgstr "拖拽以拆除设施并返还资源"
 
 #. STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING"
 msgid "Displays decor values"
-msgstr ""
+msgstr "显示装饰度"
 
 #. STRINGS.UI.TOOLTIPS.DEPRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DEPRIORITIZEBUTTON"
 msgid "Drag to deprioritize dig and build tasks"
-msgstr ""
+msgstr "拖拽以推迟挖掘和建造任务"
 
 #. STRINGS.UI.TOOLTIPS.DIGBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DIGBUTTON"
 msgid "Drag to set dig tasks and excavate resources"
-msgstr ""
+msgstr "拖拽以设置挖掘任务和挖掘资源"
 
 #. STRINGS.UI.TOOLTIPS.DISMISSMESSAGE
 msgctxt "STRINGS.UI.TOOLTIPS.DISMISSMESSAGE"
 msgid "Dismiss message"
-msgstr ""
+msgstr "无视消息"
 
 #. STRINGS.UI.TOOLTIPS.EDITNAME
 msgctxt "STRINGS.UI.TOOLTIPS.EDITNAME"
 msgid "Give this Duplicant a name"
-msgstr ""
+msgstr "给复制人起名"
 
 #. STRINGS.UI.TOOLTIPS.ENERGYGENERATED
 msgctxt "STRINGS.UI.TOOLTIPS.ENERGYGENERATED"
 msgid "<style=\"power\">Power</style> Produced"
-msgstr ""
+msgstr "产生<style=\"power\">电力</style>"
 
 #. STRINGS.UI.TOOLTIPS.ENERGYREQUIRED
 msgctxt "STRINGS.UI.TOOLTIPS.ENERGYREQUIRED"
 msgid "<style=\"power\">Power</style> Required"
-msgstr ""
+msgstr "需要<style=\"power\">电力</style>"
 
 #. STRINGS.UI.TOOLTIPS.ERASEREGIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.ERASEREGIONBUTTON"
 msgid "Drag to erase existing exosuit regions"
-msgstr ""
+msgstr "拖拽以清除存在的潜水服区域"
 
 #. STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING"
 msgid "Displays and edits gas pipe systems"
-msgstr ""
+msgstr "显示和编辑气体管道系统"
 
 #. STRINGS.UI.TOOLTIPS.HARVESTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.HARVESTBUTTON"
 msgid "Drag to batch harvest mature plants"
-msgstr ""
+msgstr "拖拽以批量收割成熟的植物"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING"
 msgid "Must be built on the ceiling"
-msgstr ""
+msgstr "必须在天花板建造"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR"
 msgid "Must be built on the ground"
-msgstr ""
+msgstr "必须在地面建造"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND"
 msgid "Must be built in the ground"
-msgstr ""
+msgstr "必须在地底建造"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED"
 msgid "Must be built in unoccupied space"
-msgstr ""
+msgstr "必须在空地建造"
 
 #. STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY"
 msgid "Press <color=#833A5FFF>[O]</color> to Rotate."
-msgstr ""
+msgstr "按<color=#833A5FFF>[O]</color>键旋转。"
 
 #. STRINGS.UI.TOOLTIPS.INFOPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.INFOPANEL"
 msgid "The Info Panel contains an overview of the basic information about your Duplicant"
-msgstr ""
+msgstr "信息栏包含了你的复制人的基本信息"
 
 #. STRINGS.UI.TOOLTIPS.ITEMSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.ITEMSPANEL"
 msgid "The Items Panel displays everything your Duplicant is in possession of"
-msgstr ""
+msgstr "道具栏显示了你的复制人拥有的所有东西"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES"
 msgid "The following attributes affect a Duplicant's efficiency at this job:"
-msgstr ""
+msgstr "以下属性影响复制人进行这项工作时的效率："
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK"
 msgid "{0} cannot perform this task."
-msgstr ""
+msgstr "{0}不能进行这项工作"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY"
 msgid "High priority jobs are performed before low priority jobs. A Duplicant will always continue work on their current job until it is complete, even if a higher priority job becomes available."
-msgstr ""
+msgstr "高优先级工作会被优先处理。复制人总是会持续当前的工作直到完成，即使有了新的高优先级工作"
 
 #. STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING"
 msgid "Displays the visibility radius of light sources"
-msgstr ""
+msgstr "显示光源的可视半径"
 
 #. STRINGS.UI.TOOLTIPS.LIQUIDVENTOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.LIQUIDVENTOVERLAYSTRING"
 msgid "Displays and edits liquid pipe systems"
-msgstr ""
+msgstr "显示和编辑液体管道系统"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT"
 msgid "View Daily Reports"
-msgstr ""
+msgstr "查看每日报告"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS"
 msgid "Manage Duplicants' job prioritizations"
-msgstr ""
+msgstr "管理复制人的工作优先级"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH"
 msgid "Build a <style=\"light\">Research Station</style> to unlock"
-msgstr ""
+msgstr "建造 <style=\"light\">研究站</style>以解锁"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH"
 msgid "View Research Tree"
-msgstr ""
+msgstr "查看科技树"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE"
 msgid "Adjust the colony's timetable"
-msgstr ""
+msgstr "调整殖民地的时间表"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS"
 msgid "View Duplicants' vitals"
-msgstr ""
+msgstr "查看复制人的生命力"
 
 #. STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP"
 msgid "Messages are events that have happened and tips to help you manage your colony"
-msgstr ""
+msgstr "信息是发生的事件和帮助你管理殖民地的提示"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS"
 msgid "Highest Stress: {0}"
-msgstr ""
+msgstr "最高压力：{0}"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY"
 msgid "Calories Available: {0}"
-msgstr ""
+msgstr "可用卡路里：{0}"
 
 #. STRINGS.UI.TOOLTIPS.MOPBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.MOPBUTTON"
 msgid "Drag to wipe up liquid messes"
-msgstr ""
+msgstr "拖拽以擦掉脏乱的液体"
 
 #. STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP"
 msgid "Next message"
-msgstr ""
+msgstr "下个信息"
 
 #. STRINGS.UI.TOOLTIPS.NOMATERIAL
 msgctxt "STRINGS.UI.TOOLTIPS.NOMATERIAL"
 msgid "Not enough materials"
-msgstr ""
+msgstr "材料不足"
 
 #. STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING"
 msgid "Displays ambient oxygen density"
-msgstr ""
+msgstr "显示周围的氧气浓度"
 
 #. STRINGS.UI.TOOLTIPS.PAUSE
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSE"
 msgid "Pause simulation"
-msgstr ""
+msgstr "暂停模拟"
 
 #. STRINGS.UI.TOOLTIPS.PAUSEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSEBUTTON"
 msgid "Pause"
-msgstr ""
+msgstr "暂停"
 
 #. STRINGS.UI.TOOLTIPS.PLAYBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PLAYBUTTON"
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #. STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING"
 msgid "Displays and edits power grids"
-msgstr ""
+msgstr "显示和编辑电力网路"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING"
 msgid "Displays task priority values"
-msgstr ""
+msgstr "显示任务优先级"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Drag to bump job tasks up or down in importance"
-msgstr ""
+msgstr "拖拽以提高或降低任务优先级"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
