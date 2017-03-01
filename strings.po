@@ -29,7 +29,7 @@ msgstr "需要翻动"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
-msgstr "堆肥需要被不时翻动来制造 <style=\"solid\">肥料</style>"
+msgstr "堆肥需要周期性地被翻动来制造 <style=\"solid\">肥料</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
@@ -4424,7 +4424,7 @@ msgstr "恢复速度（<style=\"disease\">{0}</style>）：<style=\"consumed\">{
 #. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION"
 msgid "This Duplicant saw the corpse of a friend"
-msgstr "这个复制人看到了一位朋友的尸体"
+msgstr "该复制人看到了一个朋友的尸体"
 
 #. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME"
@@ -4444,7 +4444,7 @@ msgstr "真菌感染"
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP"
 msgid "{Symptoms}\n\nInfected by {InfectionSource}\nDuration remaining: {Duration}\nRemedies: <style=\"medicine\">{Cures}</style>"
-msgstr "{Symptoms}\n\n被{InfectionSource}传染了\n剩余持续时间：{Duration}\n治疗措施：<style=\"medicine\">{Cures}</style>"
+msgstr "{Symptoms}\n\n被{InfectionSource}感染了\n还将持续：{Duration}\n治疗措施：Remedies：<style=\"medicine\">{Cures}</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
