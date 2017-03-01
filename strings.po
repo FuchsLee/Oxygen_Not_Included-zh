@@ -7894,7 +7894,7 @@ msgstr "煤炭"
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic, atomically heavy chemical compound in a <style=\"gas\">Gaseous</style> state.\n\nCarbon Dioxide tends to sink below other gases."
-msgstr "(CO2)一种有毒的高密度分子化合物的<style=\"gas\">气体</style>状态。\n\n二氧化碳一般情况下会沉在其他气体下方。"
+msgstr "(CO2)一种有毒的高密度化合物<style=\"gas\">气体</style>。\n\n二氧化碳一般情况下会沉在其他气体下方。"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
@@ -7919,7 +7919,7 @@ msgstr "(C)一种含量丰富且功能众多的元素的<style=\"gas\">气体</s
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
 msgid "Carbon"
-msgstr "碳化气"
+msgstr "碳气"
 
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
@@ -7934,7 +7934,7 @@ msgstr "氯"
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
 msgid "(Cl) An extremely toxic chemical in a <style=\"gas\">Gaseous</style> state."
-msgstr "(Cl)一种剧毒化学品的<style=\"gas\">气体</style>状态。"
+msgstr "(Cl)一种剧毒化学物质的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
@@ -8099,7 +8099,7 @@ msgstr "属性：{0}"
 #. STRINGS.ELEMENTS.FERTILIZER.DESC
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.DESC"
 msgid "A processed mixture of biological nutrients.\n\nFertilizer aids in the growth of some <style=\"plant\">Plants</style>."
-msgstr "一种经过加工的生物营养物质混合物。\n\n化肥能够帮助<style=\"plant\">植物</style>进行生长。"
+msgstr "一种经过加工的生物营养物质混合物。\n\n化肥能够帮助<style=\"plant\">植物</style>生长。"
 
 #. STRINGS.ELEMENTS.FERTILIZER.NAME
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
@@ -8194,7 +8194,7 @@ msgstr "{0}（非常柔软）"
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
 msgid "(He) An atomically lightweight, chemical <style=\"gas\">Gas</style>."
-msgstr "(He)一种很轻的单原子化学元素的<style=\"gas\">气体</style>状态。"
+msgstr "(He)一种很轻的化学元素的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.HELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.HELIUM.NAME"
@@ -8204,7 +8204,7 @@ msgstr "氦气"
 #. STRINGS.ELEMENTS.HYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.DESC"
 msgid "(H) The universe's most common and atomically light element in a <style=\"gas\">Gaseous</style> state."
-msgstr "(H)这个宇宙中最常见，最轻的双原子化学元素的<style=\"gas\">气体</style>状态。"
+msgstr "(H)这个宇宙中最常见，最轻的化学元素的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
@@ -8284,7 +8284,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic chemical compound in a <style=\"liquid\">Liquid</style> state."
-msgstr "(CO2)一种有毒的高密度分子化合物的<style=\"liquid\">液体</style>状态。"
+msgstr "(CO2)一种有毒的高密度化合物的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
@@ -8294,7 +8294,7 @@ msgstr "液态二氧化碳"
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
 msgid "(He) An atomically lightweight chemical element cooled into a <style=\"liquid\">Liquid</style> state."
-msgstr "(He)一种很轻的单原子化学元素的<style=\"liquid\">液体</style>状态。"
+msgstr "(He)一种很轻的化学元素的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.NAME"
@@ -8304,7 +8304,7 @@ msgstr "液态氦"
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC"
 msgid "(H) A chemical <style=\"liquid\">Liquid</style>.\n\nFreezes most substances that come into contact with it."
-msgstr "(H)一种<style=\"liquid\">液体</style>状态化学品。\n\n几乎能够冻结所有与之接触的物质。"
+msgstr "(H)一种化学物质的<style=\"liquid\">液体</style>状态。\n\n几乎能够冻结所有与之接触的物质。"
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME"
@@ -8314,7 +8314,7 @@ msgstr "液态氢"
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC"
 msgid "(O2) A breathable chemical in a <style=\"liquid\">Liquid</style> state."
-msgstr "(O2)一种可呼吸化学品的<style=\"liquid\">液体</style>状态。"
+msgstr "(O2)一种可呼吸化学物质的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
@@ -8364,142 +8364,142 @@ msgstr "汞"
 #. STRINGS.ELEMENTS.MERCURYGAS.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.DESC"
 msgid "(Hg) A toxic <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(Hg)一种有毒<style=\"RawMetal\">金属</style>的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.MERCURYGAS.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.NAME"
 msgid "Mercury"
-msgstr ""
+msgstr "汞气"
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.DESC"
 msgid "(C) An abundant, versatile element heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(C)一种含量丰富且功能众多的元素的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.NAME"
 msgid "Carbon"
-msgstr ""
+msgstr "液态碳"
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(Cu)一种导电<style=\"RawMetal\">金属</style>的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.NAME"
 msgid "Copper"
-msgstr ""
+msgstr "液态铜"
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.DESC"
 msgid "(Au) A conductive precious <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(Au)一种珍贵的导电<style=\"RawMetal\">金属</style>的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.NAME"
 msgid "Gold"
-msgstr ""
+msgstr "液态金"
 
 #. STRINGS.ELEMENTS.MOLTENIRON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.DESC"
 msgid "(Fe) A common industrial <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(Fe)一种常见的工业<style=\"RawMetal\">金属</style>的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENIRON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.NAME"
 msgid "Iron"
-msgstr ""
+msgstr "液态铁"
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.DESC"
 msgid "A <style=\"RawMetal\">Metal</style> alloy of iron and carbon, heated into a hazardous <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "一种由铁和碳组成的<style=\"RawMetal\">金属</style>的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.NAME"
 msgid "Steel"
-msgstr ""
+msgstr "液态钢"
 
 #. STRINGS.ELEMENTS.OBSIDIAN.DESC
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.DESC"
 msgid "A brittle composite of volcanic <style=\"solid\">Glass</style>."
-msgstr ""
+msgstr "一种易碎的火山<style=\"solid\">晶体</style>。"
 
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
 msgid "Obsidian"
-msgstr ""
+msgstr "黑曜石"
 
 #. STRINGS.ELEMENTS.OXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.OXYGEN.DESC"
 msgid "(O2) An atomically lightweight and breathable <style=\"gas\">Gas</style>, necessary for sustaining life.\n\n<style=\"oxygen\">Oxygen</style> tends to rise above other gases."
-msgstr ""
+msgstr "(O2)一种可呼吸的化学<style=\"gas\">气体</style>，维持生存的必需品。\n\n<style=\"oxygen\">氧气</style>一般情况下会浮在其他气体上方。"
 
 #. STRINGS.ELEMENTS.OXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "氧气"
 
 #. STRINGS.ELEMENTS.OXYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.OXYROCK.DESC"
 msgid "(Ir3O2) A chemical compound that slowly emits breathable <style=\"oxygen\">Oxygen</style>.\n\nIncreases oxygen emissions when excavated, but loses mass and depletes more rapidly."
-msgstr ""
+msgstr "(Ir3O2)一种会缓慢释放出<style=\"oxygen\">氧气</style>的化合物。\n\n与空气的接触面积越大，释放氧气、质量损失越快。"
 
 #. STRINGS.ELEMENTS.OXYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.OXYROCK.NAME"
 msgid "Oxylite"
-msgstr ""
+msgstr "氧石"
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.DESC"
 msgid "(PO3-4) Nodules of sedimentary rock containing high concentrations of phosphate."
-msgstr ""
+msgstr "(PO3-4)一种包含着高浓度磷酸盐的沉积岩结节。"
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.NAME"
 msgid "Phosphate Nodules"
-msgstr ""
+msgstr "磷酸盐结节"
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.DESC"
 msgid "A composite of sedimentary rock, saturated with phosphate."
-msgstr ""
+msgstr "一种充满了磷酸盐的沉积岩复合体。"
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.NAME"
 msgid "Phosphorite"
-msgstr ""
+msgstr "磷矿"
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.DESC"
 msgid "(P) A chemical element in its <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(P)一种<style=\"solid\">固体</style>状态化学元素。"
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.NAME"
 msgid "Phosphorus"
-msgstr ""
+msgstr "磷"
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC"
 msgid "(P) A chemical element in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(P)一种<style=\"gas\">液体</style>状态化学元素。"
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME"
 msgid "Phosphorus"
-msgstr ""
+msgstr "磷气"
 
 #. STRINGS.ELEMENTS.PONDSCUM.DESC
 msgctxt "STRINGS.ELEMENTS.PONDSCUM.DESC"
 msgid "A soft, naturally occurring composite of biological nutrients.\n\nPondscum may be processed into <style=\"solid\">Fertilizer</style> and aids in the growth of some <style=\"plant\">Plants</style>."
-msgstr ""
+msgstr "一种天然生成的柔软生物养料。\n\n绿藻或许可以加工成<style=\"solid\">化肥</style>来帮助<style=\"plant\">植物</style>生长。"
 
 #. STRINGS.ELEMENTS.PONDSCUM.NAME
 msgctxt "STRINGS.ELEMENTS.PONDSCUM.NAME"
 msgid "Pondscum"
-msgstr ""
+msgstr "绿藻"
 
 #. STRINGS.ELEMENTS.PROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.PROPANE.DESC"
