@@ -3779,12 +3779,12 @@ msgstr "将要去就餐"
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME"
 msgid "EmoteHighPriority"
-msgstr "参与高优先级工作？"
+msgstr "参与高优先级工作？？"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS"
 msgid "High Priority Emote"
-msgstr "参与高优先级工作？"
+msgstr "参与高优先级工作？？"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
@@ -3939,7 +3939,7 @@ msgstr "将要去使用风扇"
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.NAME"
 msgid "ManualControlGoTo"
-msgstr "手动控制？"
+msgstr "手动控制？？"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.STATUS"
@@ -3959,7 +3959,7 @@ msgstr "空闲"
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.NAME"
 msgid "ManualControlGoTo"
-msgstr "手动控制？"
+msgstr "手动控制？？"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.STATUS"
@@ -4019,12 +4019,12 @@ msgstr "进行隔离"
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME"
 msgid "MoveToSafety"
-msgstr "移动到安全室？"
+msgstr "移动到安全室？？"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS"
 msgid "Moving to safety"
-msgstr "移动到安全室？"
+msgstr "移动到安全室？？"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.NAME"
@@ -4059,12 +4059,12 @@ msgstr "小便中"
 #. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME"
 msgid "Prioritize Chore"
-msgstr "完成高优先级任务？"
+msgstr "完成高优先级任务？？"
 
 #. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS"
 msgid "Prioritize chore"
-msgstr "完成高优先级任务？"
+msgstr "完成高优先级任务？？"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME"
@@ -4079,12 +4079,12 @@ msgstr "充电中"
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME"
 msgid "RecoverBreath"
-msgstr "缓口气"
+msgstr "喘口气"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS"
 msgid "Recovering breath"
-msgstr "缓口气"
+msgstr "喘气中"
 
 #. STRINGS.DUPLICANTS.CHORES.RELAX.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.NAME"
@@ -4364,7 +4364,7 @@ msgstr "食物中毒"
 #. STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP"
 msgid "Became infected by <style=\"disease\">{0}</style>"
-msgstr "被<style=\"disease\">{0}</style>传染了"
+msgstr "染上了<style=\"disease\">{0}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD"
@@ -4394,7 +4394,7 @@ msgstr "未服药/健康"
 #. STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP"
 msgid "{0} was infected with <style=\"disease\">{1}</style> by {2}"
-msgstr "{0}因{2}感染了{1}"
+msgstr "{0}因{2}感染了<style=\"disease\">{1}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT"
@@ -4449,112 +4449,112 @@ msgstr "{Symptoms}\n\n因{InfectionSource}感染了\n还将持续：{Duration}\n
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
 msgid "New Hope"
-msgstr ""
+msgstr "新希望"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP"
 msgid "This Duplicant feels pretty optimistic about their new home"
-msgstr ""
+msgstr "这个复制人对他们的新家充满希望"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME"
 msgid "Duplicant"
-msgstr ""
+msgstr "复制人"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME"
 msgid "Breathing"
-msgstr ""
+msgstr "呼吸中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME"
 msgid "Burning calories"
-msgstr ""
+msgstr "消耗能量中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME"
 msgid "Cold"
-msgstr ""
+msgstr "寒冷"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP"
 msgid "This Duplicant is uncomfortably cold"
-msgstr ""
+msgstr "这个复制人冷得难受"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME"
 msgid "Darkness"
-msgstr ""
+msgstr "黑暗"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
 msgid "This Duplicant doesn't like being in the dark!"
-msgstr ""
+msgstr "这个复制人不喜欢处于黑暗中！"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME"
 msgid "Dead"
-msgstr ""
+msgstr "死了"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE"
 msgid "Obtained through prolonged digging or construction"
-msgstr ""
+msgstr "因为长时间挖掘或者建造"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME"
 msgid "Dirty Hands"
-msgstr ""
+msgstr "脏手"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP"
 msgid "This Duplicant needs to <style=\"hygiene\">Wash</style> their hands"
-msgstr ""
+msgstr "这个复制人需要<style=\"hygiene\">洗</style>手"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME"
 msgid "Disturbed Sleep"
-msgstr ""
+msgstr "没睡好"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP"
 msgid "This Duplicant's sleep was disturbed"
-msgstr ""
+msgstr "这个复制人睡觉时被打扰了"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME"
 msgid "Eating"
-msgstr ""
+msgstr "吃东西中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME"
 msgid "Entitlement"
-msgstr ""
+msgstr "应得权益"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP"
 msgid "Duplicants will demand better <style=\"decor\">Decor</style> and accommodations with each skill level they gain"
-msgstr ""
+msgstr "复制人的能力提升也会使得他们对<style=\"decor\">装饰度</style>和居住环境的要求变高"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME"
 msgid "Full Bladder"
-msgstr ""
+msgstr "需要小便"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP"
 msgid "This Duplicant's bladder is full"
-msgstr ""
+msgstr "这个复制人需要去小便"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME"
 msgid "Fussy"
-msgstr ""
+msgstr "挑剔的"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP"
 msgid "This Duplicant is hard to please"
-msgstr ""
+msgstr "这个复制人不容易感到满意"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME"
@@ -4564,17 +4564,17 @@ msgstr "屏住呼吸"
 #. STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME"
 msgid "Homeostasis"
-msgstr ""
+msgstr "稳定"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME"
 msgid "Hot"
-msgstr ""
+msgstr "热"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP"
 msgid "This Duplicant is uncomfortably warm"
-msgstr ""
+msgstr "这个复制人热得难受"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME"
@@ -4584,352 +4584,352 @@ msgstr "饥饿"
 #. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP"
 msgid "This Duplicant is ready for lunch"
-msgstr ""
+msgstr "这个复制人准备好吃饭了"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME"
 msgid "Inspired"
-msgstr ""
+msgstr "受到启发"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP"
 msgid "This Duplicant has had a creative vision!"
-msgstr ""
+msgstr "这个复制人有了个奇妙的想法！"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME"
 msgid "Interrupted Sleep"
-msgstr ""
+msgstr "睡了一半"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP"
 msgid "This Duplicant was rudely awoken"
-msgstr ""
+msgstr "这个复制人被强行叫醒"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME"
 msgid "Light wounds"
-msgstr ""
+msgstr "轻伤"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP"
 msgid "This Duplicant's injuries are a bit uncomfortable"
-msgstr ""
+msgstr "这个复制人受了轻伤"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.NAME"
 msgid "Nervous Breakdown"
-msgstr ""
+msgstr "精神崩溃"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.TOOLTIP"
 msgid "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to function"
-msgstr ""
+msgstr "<style=\"stress\">压力</style>使得这个复制人无法工作"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME"
 msgid "Moderate wounds"
-msgstr ""
+msgstr "伤得不轻"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP"
 msgid "This Duplicants' injuries are affecting their ability to work"
-msgstr ""
+msgstr "这个复制人的伤影响了他们的工作"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME"
 msgid "Mourning"
-msgstr ""
+msgstr "悲痛"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP"
 msgid "This Duplicant is grieving the loss of a friend"
-msgstr ""
+msgstr "失去一位朋友让这个复制人感到悲痛"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME"
 msgid "Narcoleptic Sleep"
-msgstr ""
+msgstr "发作性睡眠"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP"
 msgid "This Duplicant just needs to rest their eyes for a second"
-msgstr ""
+msgstr "这个复制人只需要休息一会儿眼睛"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME"
 msgid "New Friend"
-msgstr ""
+msgstr "新朋友"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP"
 msgid "This Duplicant is happy to see a new face in the colony!"
-msgstr ""
+msgstr "这个复制人很高兴见到殖民地的新面孔！"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME"
 msgid "Nightmares"
-msgstr ""
+msgstr "噩梦"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP"
 msgid "This Duplicant was visited by something in the night"
-msgstr ""
+msgstr "这个复制人做了个可怕的噩梦"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME"
 msgid "None"
-msgstr ""
+msgstr "正常"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME"
 msgid "Recovering Breath"
-msgstr ""
+msgstr "喘气中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr ""
+msgstr "警报"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP"
 msgid "This Duplicant is <style=\"stress\">Stressed</style> out by the current Red Alert"
-msgstr ""
+msgstr "这个复制人因为当前的警报而感到巨大的<style=\"stress\">压力</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME"
 msgid "Restful Sleep"
-msgstr ""
+msgstr "安稳觉"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP"
 msgid "This Duplicant is sleeping peacefully"
-msgstr ""
+msgstr "这个复制人正睡得安稳"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME"
 msgid "Resting"
-msgstr ""
+msgstr "休息中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME"
 msgid "Rotting"
-msgstr ""
+msgstr "腐烂中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME"
 msgid "Severe wounds"
-msgstr ""
+msgstr "重伤"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP"
 msgid "This Duplicant's injuries are severely affecting their work and well-being"
-msgstr ""
+msgstr "这个复制人的伤严重影响了他们的工作和幸福感"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME"
 msgid "Skill Level"
-msgstr ""
+msgstr "能力提升"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME"
 msgid "Sleeping"
-msgstr ""
+msgstr "睡觉中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP"
 msgid "This Duplicant is recovering stamina"
-msgstr ""
+msgstr "这个复制人正在恢复体力"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME"
 msgid "Sleepy"
-msgstr ""
+msgstr "瞌睡的"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP"
 msgid "This Duplicant is getting tired"
-msgstr ""
+msgstr "这个复制人累了"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME"
 msgid "Smelled Putrid Odor"
-msgstr ""
+msgstr "闻到恶臭味"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP"
 msgid "This Duplicant smelled something unspeakably foul"
-msgstr ""
+msgstr "这个复制人闻到了无法形容的恶臭"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE"
 msgid "Obtained by sleeping on the ground"
-msgstr ""
+msgstr "因为睡在地上"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME"
 msgid "Sore Back"
-msgstr ""
+msgstr "背疼"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP"
 msgid "This Duplicant was forced to sleep on the floor and would appreciate their own bed"
-msgstr ""
+msgstr "这个复制人被迫睡在地上，渴望有自己的床"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME"
 msgid "Stale Food"
-msgstr ""
+msgstr "陈旧的食物"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP"
 msgid "This Duplicant is in a bad mood from having to eat stale <style=\"food\">Food</style>"
-msgstr ""
+msgstr "这个复制人因为不得不吃陈旧的<style=\"food\">食物</style>而不开心"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME"
 msgid "Starving"
-msgstr ""
+msgstr "挨饿中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP"
 msgid "This Duplicant needs to eat something, soon"
-msgstr ""
+msgstr "这个复制人需要马上吃些东西"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME"
 msgid "Stepped In Contaminated Water"
-msgstr ""
+msgstr "走在污水中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP"
 msgid "This Duplicant stepped in dirty water and was super grossed out"
-msgstr ""
+msgstr "这个复制人走在污水中，并且十分想吐"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME"
 msgid "Making a Mess"
-msgstr ""
+msgstr "一团糟"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP"
 msgid "This Duplicant had no choice but to to empty their bladder"
-msgstr ""
+msgstr "这个复制人忍不住尿裤子了"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP"
 msgid "This Duplicant's <style=\"stress\">Stress</style> is just melting away"
-msgstr ""
+msgstr "这个复制人的<style=\"stress\">压力</style>正在消退"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME"
 msgid "Environmental exchange"
-msgstr ""
+msgstr "环境交换"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME"
 msgid "Toxic Environment"
-msgstr ""
+msgstr "有毒环境"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE"
 msgid "Obtained by coming into contact with contaminated material"
-msgstr ""
+msgstr "因为和污染物接触"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME"
 msgid "Grimy"
-msgstr ""
+msgstr "脏的"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP"
 msgid "This Duplicant would appreciate a <style=\"hygiene\">Shower</style>"
-msgstr ""
+msgstr "这个复制人渴望一次<style=\"hygiene\">淋浴</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME"
 msgid "Uncomfortable Sleep"
-msgstr ""
+msgstr "睡不安稳"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP"
 msgid "This Duplicant collapsed from sheer exhaustion"
-msgstr ""
+msgstr "这个复制人精疲力尽到崩溃"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME"
 msgid "Underwater"
-msgstr ""
+msgstr "潜水中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP"
 msgid "This Duplicant's movement is slowed"
-msgstr ""
+msgstr "这个复制人移动缓慢"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME"
 msgid "Vomiting"
-msgstr ""
+msgstr "呕吐中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP"
 msgid "Better out than in, as they say"
-msgstr ""
+msgstr "吐一吐就好受了，都这么说"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME"
 msgid "Warming Up"
-msgstr ""
+msgstr "运动发热"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP"
 msgid "This Duplicant is trying to warm back up"
-msgstr ""
+msgstr "这个复制人正尝试让自己暖和"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME"
 msgid "Was attacked"
-msgstr ""
+msgstr "被攻击了"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP"
 msgid "This Duplicant was recently attacked by something and it <style=\"stress\">Stressed</style> them out"
-msgstr ""
+msgstr "这个复制人最近受到了攻击，并且使得他们感到巨大的压力"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME"
 msgid "Well Fed"
-msgstr ""
+msgstr "吃饱了"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP"
 msgid "This Duplicant feels satisfied after having a big meal"
-msgstr ""
+msgstr "这个复制人在饱餐一顿后感到满意"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME"
 msgid "Working"
-msgstr ""
+msgstr "工作中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP"
 msgid "This Duplicant is working up a sweat"
-msgstr ""
+msgstr "这个复制人正在努力工作"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
 msgid "Areas with <style=\"decor\">Decor</style> values lower than a Duplicant's <style=\"decor\">Decor Expectations</style> will cause their <style=\"stress\">Stress</style>\nto rise, while high decor values will cause their stress to fall.\n\nA Duplicant's expectations will increase as they level up and become better at their jobs."
-msgstr ""
+msgstr "低于复制人<style=\"decor\">装饰度期望</style>的区域会使他们的<style=\"stress\">压力</style>上升，高于期望则会下降。\n\n一个复制人的期望会随着能力的提升而变高。"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
 msgid "Decor Expectation"
-msgstr ""
+msgstr "装饰度期望"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
 msgid "Surroundings"
-msgstr ""
+msgstr "周围环境"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME"
@@ -4939,57 +4939,57 @@ msgstr ""
 #. STRINGS.DUPLICANTS.OPINIONS.DARKNESS
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.DARKNESS"
 msgid "There's too little <style=\"light\">Light</style> for this Duplicant to see."
-msgstr ""
+msgstr "<style=\"light\">光</style>弱得让复制人看不清楚。"
 
 #. STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS"
 msgid "There is enough <style=\"light\">Light</style> for this Duplicant to see."
-msgstr ""
+msgstr "<style=\"light\">光</style>亮到复制人能看清楚了。"
 
 #. STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION"
 msgid "Duplicants are drawn to lit places, and dislike being in the dark.\nMake sure your Duplicants have plenty of <style=\"light\">Light</style> to keep their eyes unstrained and their <style=\"stress\">Stress</style> low."
-msgstr ""
+msgstr "复制人喜欢亮的地方，讨厌黑暗的地方。\n确保复制人有足够的<style=\"light\">光</style>来保护他们的眼睛并避免<style=\"stress\">压力</style>上升。"
 
 #. STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION"
 msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Mess Halls for them."
-msgstr ""
+msgstr "复制人没有找到吸引人的光滑的岩面。\n用瓷砖和门来为他们建造更舒适的食堂。"
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING"
 msgid "Room is missing walls or doors."
-msgstr ""
+msgstr "房间没有墙或门。"
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION"
 msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Rooms for them."
-msgstr ""
+msgstr "复制人没有找到吸引人的光滑的岩面。\n用瓷砖和门来为他们建造更舒适的房间。"
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD"
 msgid "Room is enclosed by walls and doors."
-msgstr ""
+msgstr "房间被墙和门堵死了。"
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING"
 msgid "Restroom is missing walls or doors."
-msgstr ""
+msgstr "卫生间没有墙或门。"
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION"
 msgid "Duplicants like a little privacy when they do their biz.\nUse wall tiles and doors to build more comfortable Washrooms for them."
-msgstr ""
+msgstr "复制人希望如厕的时候更隐秘一些。\n用瓷砖和门来为他们建造更舒适的卫生间。"
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD"
 msgid "Restroom is enclosed by walls and doors."
-msgstr ""
+msgstr "卫生间被墙和门堵死了。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC"
 msgid "{0}s are sweet, delicate flowers. They need to be treated gingerly, and with great consideration for their feelings."
-msgstr ""
+msgstr "{0}是芳香但脆弱的花，她需要考虑到她的感受的、温柔的呵护。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME"
@@ -4999,7 +4999,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC"
 msgid "{0}s enjoy writing poetry in their downtime. Dark poetry."
-msgstr ""
+msgstr "{0}喜欢在闲暇时写诗歌，黑暗的诗歌。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME"
@@ -5009,7 +5009,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.DESC"
 msgid "The colony is convinced that this {0} was some sort of fancy monarch in a past life."
-msgstr ""
+msgstr "殖民地确信{0}在前世是一个花哨的君主。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.NAME"
@@ -5019,7 +5019,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BEA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BEA.DESC"
 msgid "A little ray of sunshine in a bleak world, {0}s loves people and they love her right back."
-msgstr ""
+msgstr "黑暗世界里的一束光芒，{0}和人民，深爱和爱戴。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BEA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BEA.NAME"
@@ -5029,7 +5029,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC"
 msgid "This {0} is convinced she can remember bits of her past prints. Everyone else is convinced she's making it up."
-msgstr ""
+msgstr "{0}确信她记得以前被打印出来后经历的事情，但其他人都确信她在撒谎。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.NAME"
@@ -5039,7 +5039,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.DESC"
 msgid "This {0} always feels great after a bubble bath and a good long cry."
-msgstr ""
+msgstr "{0}总会在泡泡浴和大哭一场后感到很棒。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.NAME"
@@ -5049,7 +5049,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.DESC"
 msgid "{0}s have zero redeeming qualities. People only ever keep them around because they make genius puns."
-msgstr ""
+msgstr "{0}从不会挽回什么。人们总是和她在一起，因为她太会一语双关了。？？"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.NAME"
@@ -5059,7 +5059,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BRADY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRADY.DESC"
 msgid "{0}s are pretty cool when they can manage to suppress their natural narcissism."
-msgstr ""
+msgstr "{0}如果不那么自我陶醉的话会很酷的。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BRADY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRADY.NAME"
@@ -5069,7 +5069,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.DESC"
 msgid "This {0} is severely disappointed by the colony's lack of cute, pudgy birds."
-msgstr ""
+msgstr "{0}对于殖民地没有胖胖可爱的小鸟感到十分失望。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.NAME"
@@ -5079,7 +5079,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC"
 msgid "This {0} is constantly challenging others to fight her, regardless of whether or not she can actually take them."
-msgstr ""
+msgstr "{0}不停地找人和她打架，而不管她到底能不能打赢别人。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME"
@@ -5089,7 +5089,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC"
 msgid "Only the bleak void of space could understand the depths of a {0}'s tortured soul."
-msgstr ""
+msgstr "只有那暗淡的虚空能理解{0}那饱受煎熬的灵魂的深度。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME"
@@ -5099,7 +5099,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.DESC"
 msgid "This {0} has a dark, terrible secret... She LOVES scrapbooking."
-msgstr ""
+msgstr "{0}有一个黑暗的、可怕的秘密——她超爱剪贴簿。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.NAME"
@@ -5109,7 +5109,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.CASPER.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASPER.DESC"
 msgid "This {0} can't wait to die so their poetry can be appreciated posthumously."
-msgstr ""
+msgstr "{0}迫不及待地想死去以便他的诗歌可以在他死后被赞颂。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CASPER.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASPER.NAME"
@@ -5119,7 +5119,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.CASS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASS.DESC"
 msgid "This {0} is painfully aware that she spits when she talks. She avoids joining in on most conversations because of it."
-msgstr ""
+msgstr "{0}痛苦地意识到她说话的时候会吐飞沫，于是她避免参与绝大多数谈话。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CASS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASS.NAME"
@@ -5129,7 +5129,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.CECIL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CECIL.DESC"
 msgid "There's a technical term for a {0}'s personality... \"Dweeb\"."
-msgstr ""
+msgstr "有一个描述{0}特点的术语——“不善言辞”。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CECIL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CECIL.NAME"
@@ -5139,7 +5139,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.DESC"
 msgid "This {0} is paralyzed by the knowledge that others have memories and perceptions of her she can't control."
-msgstr ""
+msgstr "{0}由于认识到“她无法控制别人对她的记忆和认知”而动弹不得。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.NAME"
@@ -5149,7 +5149,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.DESC"
 msgid "A {0}'s one dream is to shed their mortal coil and converge with all of time and space. It shouldn't be too much to ask."
-msgstr ""
+msgstr "{0}的一个梦想是取下他们的致命的线圈并和所有的时空汇聚一起。？？"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.NAME"
@@ -5159,7 +5159,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.DAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DAN.DESC"
 msgid "Every {0} has this unshakable feeling that his life has already happened and he's just watching it as if in a movie."
-msgstr ""
+msgstr "{0}有一个成型的观点：他的生活已经发生过了，他现在只是像在看电影一样看着。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.DAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DAN.NAME"
@@ -5169,7 +5169,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.DESC"
 msgid "This {0} wakes up every day of her life with an urge to clip coupons for stores that don't exist."
-msgstr ""
+msgstr "{0}每天都会伴着“剪下并不存在的商店优惠券”的急切感醒来。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.NAME"
@@ -5179,7 +5179,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELEANOR.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELEANOR.DESC"
 msgid "A severe climate requires a severe woman. This {0} is that woman."
-msgstr ""
+msgstr "恶劣的气候需要苛刻的女人，{0}就是这样的女人。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELEANOR.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELEANOR.NAME"
@@ -5189,7 +5189,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC"
 msgid "Nothing makes an {0} happier than a big tin of glitter and a pack of unicorn stickers."
-msgstr ""
+msgstr "没有什么比一罐彩色碎纸和一包独角兽贴纸更能让{0}开心的了。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME"
@@ -5199,7 +5199,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELVIRA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELVIRA.DESC"
 msgid "This {0} can't remember a time when she wasn't blanketed in the cold embrace of darkness."
-msgstr ""
+msgstr "{0}只记得她被黑暗那寒冷的拥抱裹挟着。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELVIRA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELVIRA.NAME"
@@ -5209,7 +5209,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELVIS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELVIS.DESC"
 msgid "Every {0} is convinced he was printed in the wrong generation... And on the wrong celestial body."
-msgstr ""
+msgstr "{0}确信他本不该在此时被打印出来——还被打印到错误的星球上。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELVIS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELVIS.NAME"
@@ -5219,7 +5219,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ERNESTINE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ERNESTINE.DESC"
 msgid "This {0} has one stubborn hair on her chin that plucking never seems to deter. It's okay though, she's growing attached to it."
-msgstr ""
+msgstr "{0}下巴上的一撮毛发总是拔不下来。但也还好，她现在习惯了。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ERNESTINE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ERNESTINE.NAME"
@@ -5229,7 +5229,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.EUGENE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.EUGENE.DESC"
 msgid "Once you get a {0} talking it's impossible to get them to stop. Chitchat at your own risk."
-msgstr ""
+msgstr "一旦你和{0}开始谈话那么他就不可能停下来了。要聊天就要担风险。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.EUGENE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.EUGENE.NAME"
@@ -5239,7 +5239,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.FERGUS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FERGUS.DESC"
 msgid "{0}es are well known for being wholly incorrigible pranksters."
-msgstr ""
+msgstr "{0}是出了名的爱恶搞，而且完全屡教不改。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.FERGUS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FERGUS.NAME"
@@ -5249,7 +5249,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.FLOYD.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FLOYD.DESC"
 msgid "{0}s have a theory that no matter what time it is, it's always actually 3AM."
-msgstr ""
+msgstr "{0}有一个理论，那就是无论现在是几点，都是早上三点。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.FLOYD.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FLOYD.NAME"
@@ -5259,7 +5259,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.FRAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRAN.DESC"
 msgid "This {0} dreams of owning their own personal computer so they can start a blog full of pictures of toast."
-msgstr ""
+msgstr "{0}梦想着能有一台自己的电脑，这样就可以尽情地写一个满是烤面包图片的博客。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.FRAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRAN.NAME"
@@ -5269,7 +5269,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.GABRIEL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GABRIEL.DESC"
 msgid "{0}s are spoiled rotten, but at least they have great hair."
-msgstr ""
+msgstr "{0}变质腐烂了，但至少还有一头秀发。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.GABRIEL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GABRIEL.NAME"
@@ -5279,7 +5279,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.DESC"
 msgid "{0}s love baseball and dogs, neither of which exist in space. It's been a bit of an ordeal for her."
-msgstr ""
+msgstr "{0}喜爱棒球和狗狗，但在太空里这些都没有。这对她来说是点折磨。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.NAME"
@@ -5289,7 +5289,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.GRUB.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUB.DESC"
 msgid "{0}s think plants are neat."
-msgstr ""
+msgstr "{0}觉得植物是匀整的。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.GRUB.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUB.NAME"
@@ -5299,7 +5299,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.DESC"
 msgid "A {0} deeply relishes the feeling of dirt beneath her nails."
-msgstr ""
+msgstr "{0}非常享受泥土塞在指甲缝里的感觉。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.NAME"
@@ -5309,7 +5309,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.GUS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GUS.DESC"
 msgid "This {0} just wants everyone to be happy."
-msgstr ""
+msgstr "{0}只是希望每个人都快乐。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.GUS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GUS.NAME"
@@ -5319,7 +5319,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC"
 msgid "This {0} is cripplingly self-conscious of his long middle toes."
-msgstr ""
+msgstr "{0}因为他长长的中指而非常羞愧。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME"
@@ -5329,7 +5329,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC"
 msgid "If someone says something nice to a {0} he'll think about it nonstop for no less than three weeks."
-msgstr ""
+msgstr "如果一个人夸赞了{0}，那么他会不停地回想至少三个星期。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME"
@@ -5339,7 +5339,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.DESC"
 msgid "This {0} is consumed by a deep, soulful weariness that no amount of sleep could possibly vanquish."
-msgstr ""
+msgstr "{0}被无论多少睡眠都消除不了的、情感上深深的疲倦透支着。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.NAME"
@@ -5349,7 +5349,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.DESC"
 msgid "{0}s always feel as if someone is staring at them, although people rarely are."
-msgstr ""
+msgstr "{0}总觉得有人在盯着他，但其实人们很少这么做。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.NAME"
@@ -5359,7 +5359,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.DESC"
 msgid "This {0} can control a room with his exceptionally loud sneezes."
-msgstr ""
+msgstr "{0}异常响亮的喷嚏声总会惊动整个房间。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.NAME"
@@ -5369,7 +5369,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.HUGH.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HUGH.DESC"
 msgid "A {0} is truly a man stuck in the past. And in a space colony."
-msgstr ""
+msgstr "{0}是个沉迷在过去的人。还是在太空殖民地里。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HUGH.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HUGH.NAME"
@@ -5379,7 +5379,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.DESC"
 msgid "This {0} traps people in long conversations about her \"novel\", but she's never once sat down to actually write it."
-msgstr ""
+msgstr "{0}总是长篇大论地和别人谈她的“小说”，但她却从来不坐下来写。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.NAME"
@@ -5389,7 +5389,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.JACK.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JACK.DESC"
 msgid "A lifetime of running from his responsibilities has made this {0} emotionally impenetrable."
-msgstr ""
+msgstr "他人从情感上无法理解{0}跑一辈子的使命感。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JACK.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JACK.NAME"
@@ -5399,7 +5399,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.JASPER.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JASPER.DESC"
 msgid "{0}s just want to dance!"
-msgstr ""
+msgstr "{0}只想跳舞！"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JASPER.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JASPER.NAME"
@@ -5409,7 +5409,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC"
 msgid "{0}s are precious goobers. Other Duplicants are strangely incapable of cursing in a {0}'s presence."
-msgstr ""
+msgstr "{0}是珍贵的花生，其他人怪异地没法诅咒他的存在。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME"
@@ -5419,7 +5419,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.DESC"
 msgid "A {0} is admired by all for her seemingly tireless work ethic. Little do people know, she's dying on the inside."
-msgstr ""
+msgstr "人们都很羡慕{0}看似孜孜不倦的工作准则，但很少人知道，她内心里快崩溃了。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.NAME"
@@ -5429,7 +5429,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.KARL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KARL.DESC"
 msgid "Every single {0} has perpetually damp hands. It must be genetic."
-msgstr ""
+msgstr "{0}的手看起来总是潮湿的。这肯定是遗传的。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.KARL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KARL.NAME"
@@ -5439,7 +5439,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.DESC"
 msgid "{0}s have trouble making eye contact in conversation, but no one really minds. They know she's listening."
-msgstr ""
+msgstr "{0}在谈话中无法用眼神交流，但没人介意，因为他们知道她在听着。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.NAME"
@@ -5449,7 +5449,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.LEAH.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEAH.DESC"
 msgid "There's nothing {0}s are more proud of than their thick, dignified eyebrows."
-msgstr ""
+msgstr "{0}最自豪于自己高贵的浓眉。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LEAH.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEAH.NAME"
@@ -5459,7 +5459,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.LENNY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LENNY.DESC"
 msgid "Dirt's great. Space's great. Everything's great, according to {0}s."
-msgstr ""
+msgstr "在{0}看来，泥土是棒的，太空是棒的，一切都是棒的。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LENNY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LENNY.NAME"
@@ -5469,7 +5469,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.DESC"
 msgid "This {0} picks his nose when he thinks no one's watching. Thankfully, he never eats it."
-msgstr ""
+msgstr "{0}会在觉得没人看到他的时候挖鼻子。还好，他从来不吃。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.NAME"
@@ -5479,7 +5479,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC"
 msgid "There's nothing a {0} can't do if she sets her mind to it."
-msgstr ""
+msgstr "如果下定了决心，没有什么是{0}做不到的。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME"
@@ -5489,7 +5489,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAHA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAHA.DESC"
 msgid "{0}s always snort when they laugh. It's the worst."
-msgstr ""
+msgstr "{0}笑的时候总是伴着响亮的鼻息声，这是最糟的。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAHA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAHA.NAME"
@@ -5499,7 +5499,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.DESC"
 msgid "The \"cool loner\" vibes that radiate off a {0} never fail to make the colony swoon."
-msgstr ""
+msgstr "从{0}身上散发出的“酷酷的孤僻者”的气氛{0}总会让殖民地着迷。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.NAME"
@@ -5509,7 +5509,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC"
 msgid "This {0} is positively glowing! What's her secret? Radioactive isotopes, of course."
-msgstr ""
+msgstr "{0}绝对在发光！她有什么秘密？当然是放射性同位素。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME"
@@ -5519,7 +5519,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC"
 msgid "{0}es are painfully gullible, and other Duplicants like to take advantage of it every chance they get."
-msgstr ""
+msgstr "{0}容易被骗，而其他复制人一有机会便会利用这一点。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME"
@@ -5529,7 +5529,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.DESC"
 msgid "All of space is brightened by a {0}'s dazzling smile."
-msgstr ""
+msgstr "{0}灿烂的笑容让整个太空都明亮起来。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.NAME"
@@ -5539,7 +5539,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
 msgid "{0}s have a face only a twelve tonne DNA Replicator could love."
-msgstr ""
+msgstr "{0}有着一张只有12吨的DNA复制器才喜欢的脸。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
@@ -5549,7 +5549,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MELODY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MELODY.DESC"
 msgid "Who wants to hear the song this {0} wrote about her last breakup? ...Anyone?"
-msgstr ""
+msgstr "谁想听{0}写的关于她上次失恋的歌？有人吗？"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MELODY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MELODY.NAME"
@@ -5559,7 +5559,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.DESC"
 msgid "{0}s love watching old black and white films, especially if they have robots in them."
-msgstr ""
+msgstr "{0}喜欢看黑白老电影，尤其是有机器人的。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.NAME"
@@ -5569,7 +5569,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.DESC"
 msgid "The world's a tad too complex for this here {0}, but good golly gosh if she doesn't try her darnedest."
-msgstr ""
+msgstr "这个世界对{0}来说有点太复杂了，但如果她不尽力，那就还很好。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.NAME"
@@ -5579,7 +5579,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC"
 msgid "Ol' {0} here can't stand lookin' at people's knees."
-msgstr ""
+msgstr "白领女性{0}在这里无法忍受看人们的膝盖。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME"
@@ -5589,7 +5589,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.DESC"
 msgid "One time a {0} declared herself mayor of the colony for a whole week and no one even questioned it."
-msgstr ""
+msgstr "有一次{0}宣布自己成为这个殖民地的市长并长达一周，但竟然没有人质疑。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.NAME"
@@ -5599,7 +5599,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MOON.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOON.DESC"
 msgid "A {0}'s monotonous voice and lack of facial expression make it impossible for others to tell when she's messing with them."
-msgstr ""
+msgstr "{0}单调的语气和僵硬的表情让别人无法辨别她什么时候在打扰他们。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MOON.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOON.NAME"
@@ -5609,7 +5609,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.DESC"
 msgid "World... too... bright...."
-msgstr ""
+msgstr "这个世界…太…亮了…"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.NAME"
@@ -5619,7 +5619,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.DESC"
 msgid "{0}s defy all labels."
-msgstr ""
+msgstr "{0}蔑视一切标签。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.NAME"
@@ -5629,7 +5629,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.NADIA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NADIA.DESC"
 msgid "The burden of living is just too much for some people. Like this {0}, for instance."
-msgstr ""
+msgstr "生活的重担对有些人来说太重了，比如{0}。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NADIA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NADIA.NAME"
@@ -5639,7 +5639,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC"
 msgid "People usually expect a Duplicant named \"{0}\" to be tough, but they're all pretty huge wimps."
-msgstr ""
+msgstr "人们总是期望每一个叫“{0}”的都是坚韧的，但他们都是十分懦弱的。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME"
@@ -5649,7 +5649,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.NEIL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NEIL.DESC"
 msgid "{0}s generally like to wear strange and unusual hats to compensate for their total lack of personality."
-msgstr ""
+msgstr "{0}通常喜欢通过戴怪异的帽子来弥补没有特点的缺点。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NEIL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NEIL.NAME"
@@ -5659,7 +5659,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC"
 msgid "This {0} once claimed he could build a laser so powerful it would rip the colony in half. No one dared him to prove it."
-msgstr ""
+msgstr "{0}曾经声称他可以制造一种将殖民地劈成两半的超强激光。但没人担心他去证明。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME"
@@ -5669,7 +5669,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC"
 msgid "{0}s like to punch people to show their affection. Everyone's too afraid to tell them it sort of hurts."
-msgstr ""
+msgstr "{0}喜欢通过拍打别人来体现对他们的喜爱。每个人都害怕得不敢告诉他那其实有点疼。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME"
@@ -5679,7 +5679,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.NORI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NORI.DESC"
 msgid "Get a bunch of {0}s together in a room and you'll have... a bunch of {0}s together in a room."
-msgstr ""
+msgstr "如果一群叫做{0}的人聚在一个房间里那么你会得到……聚集在一个房间里的一群{0}。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NORI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NORI.NAME"
@@ -5689,7 +5689,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.OLIVE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OLIVE.DESC"
 msgid "This {0} feels like there's an emotional wall between themself and the world that their multitool just can't penetrate."
-msgstr ""
+msgstr "{0}觉得有一堵情感上的墙将她和世界隔开，而且她的多功能刀无法穿透。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.OLIVE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OLIVE.NAME"
@@ -5699,7 +5699,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC"
 msgid "{0}s always insult people by accident and exist in a perpetual state of deep regret."
-msgstr ""
+msgstr "{0}总是不小心辱骂别人并总是处于一种深深的自责中。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME"
@@ -5709,7 +5709,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.PAM.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PAM.DESC"
 msgid "No one ever asks for a {0}'s bad opinions, but she's always happy to offer them anyway."
-msgstr ""
+msgstr "没人愿意寻求{0}的坏意见，但她总是乐于向别人提供。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.PAM.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PAM.NAME"
@@ -5719,7 +5719,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.PEIJING.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PEIJING.DESC"
 msgid "Everyone who meets a {0} has to admit that they are, in fact, extremely cool."
-msgstr ""
+msgstr "每个见到{0}的人都不得不承认他，其实很酷。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.PEIJING.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PEIJING.NAME"
@@ -5729,7 +5729,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.PIERRE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PIERRE.DESC"
 msgid "Big softies with a tendency to nag, {0}s sometimes feel like the mothers the other Duplicants never had."
-msgstr ""
+msgstr "多愁善感的人总是倾向于唠叨，{0}有时觉得自己是其他复制人从未有过的妈妈。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.PIERRE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PIERRE.NAME"
@@ -5739,7 +5739,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.PRICE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PRICE.DESC"
 msgid "This {0} once had dreams of becoming a doctor, but sadly he's averse to the sight of blood."
-msgstr ""
+msgstr "{0}曾经梦想成为一名医生，但遗憾的是他怕见血。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.PRICE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PRICE.NAME"
@@ -5749,7 +5749,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.QUINCY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.QUINCY.DESC"
 msgid "At any given moment a {0} is viscerally reliving ten different humiliating memories."
-msgstr ""
+msgstr "在任何时候，{0}内心里都在重复经历着十种不同的羞耻的记忆。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.QUINCY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.QUINCY.NAME"
@@ -5759,7 +5759,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.RALPH.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RALPH.DESC"
 msgid "Everyone feels slightly more irritable after having spent time with a {0}."
-msgstr ""
+msgstr "每个人在和{0}相处一段时间后都会感到变得更烦躁了些。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.RALPH.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RALPH.NAME"
@@ -5769,7 +5769,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.RED.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RED.DESC"
 msgid "{0}s are completely incapable of distinguishing between positive and negative attention, much to the colony's dismay."
-msgstr ""
+msgstr "{0}完全分不清楚积极和消极的关注，这让殖民地很惊愕。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.RED.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RED.NAME"
@@ -5779,7 +5779,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ROSALIND.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROSALIND.DESC"
 msgid "Sometimes this {0} feels like she'd have to keel over to get people to notice her."
-msgstr ""
+msgstr "有时{0}觉得她只有通过跌倒才能引起人们的注意。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ROSALIND.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROSALIND.NAME"
@@ -5789,7 +5789,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC"
 msgid "{0}s have good hearts and express their emotions most efficiently by yelling."
-msgstr ""
+msgstr "{0}有颗好心脏，并且喊叫是他们表达情绪最有效的方法。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME"
@@ -5799,7 +5799,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC"
 msgid "This {0} asks the pressing questions, like \"Where can I get a leather jacket in space?\""
-msgstr ""
+msgstr "{0}急切地问道：“在太空里我去哪儿才能弄到一件皮夹克？”"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME"
@@ -5809,7 +5809,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.SADIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SADIE.DESC"
 msgid "This {0} never clips her fingernails. The unchecked growth is starting to get a little unsettling."
-msgstr ""
+msgstr "{0}从来不剪指甲，现在指甲长度开始让人不安了。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.SADIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SADIE.NAME"
@@ -5819,7 +5819,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.SAUL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SAUL.DESC"
 msgid "This {0}'s the kind of guy who'd pull the legs off a Hatch for fun."
-msgstr ""
+msgstr "{0}是那种以拉下舱门腿柱为乐的人。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.SAUL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SAUL.NAME"
@@ -5829,7 +5829,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.SETH.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SETH.DESC"
 msgid "Sometimes the colony sends {0}s on fake \"spelunking missions\" to get some peace and quiet."
-msgstr ""
+msgstr "有时殖民地派遣{0}去执行假的“探险任务”来获得一些安宁和平静。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.SETH.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SETH.NAME"
@@ -5839,7 +5839,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.SHANNON.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SHANNON.DESC"
 msgid "Some have described {0}s as \"paranoid\". They prefer the term \"prepared\"."
-msgstr ""
+msgstr "有些人形容{0}“偏执”，他更喜欢称作“有准备”。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.SHANNON.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SHANNON.NAME"
@@ -5849,7 +5849,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.DESC"
 msgid "{0}s detest small spaces. You can imagine how they feel about the colony."
-msgstr ""
+msgstr "{0}厌恶狭小的空间，你可以想象他在这个殖民地里的感受。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.NAME"
@@ -5859,7 +5859,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.STACY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STACY.DESC"
 msgid "A {0} can somehow talk for hours and say absolutely nothing. It's a feat to behold!"
-msgstr ""
+msgstr "{0}会无故地说上几个小时废话。这真是壮举！"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.STACY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STACY.NAME"
@@ -5869,7 +5869,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC"
 msgid "This {0} has never been invited to a party, which is a shame... his dance moves are incredible."
-msgstr ""
+msgstr "{0}从来没被邀请参加聚会，太可惜了，他的舞跳得非常棒。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME"
@@ -5879,7 +5879,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.SUKI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SUKI.DESC"
 msgid "{0}s have grins like sharks and stares to pierce through your soul."
-msgstr ""
+msgstr "{0}笑起来就像鲨鱼，她的凝视会穿透你的灵魂。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.SUKI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SUKI.NAME"
@@ -5889,7 +5889,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.SYBIL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SYBIL.DESC"
 msgid "{0}s always get what they want... Even when they shouldn't."
-msgstr ""
+msgstr "{0}总会得到自己想要的，即使是不应得的。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.SYBIL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SYBIL.NAME"
@@ -5899,7 +5899,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.TILLY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TILLY.DESC"
 msgid "{0}s like to frequently and loudly remind everyone of the pointlessness of existence."
-msgstr ""
+msgstr "{0}经常大声地提醒每个人无意义的存在。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.TILLY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TILLY.NAME"
@@ -5909,7 +5909,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.TURNER.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TURNER.DESC"
 msgid "{0}s alway packs a juice box on their way to political protests."
-msgstr ""
+msgstr "{0}总会在去政治抗议的路上打包一盒果汁。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.TURNER.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TURNER.NAME"
@@ -5919,7 +5919,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.VERNON.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VERNON.DESC"
 msgid "The colony's managed to convince this {0} he's totally and completely unique. It's hilarious!"
-msgstr ""
+msgstr "殖民地设法让{0}相信他是完完全全与众不同的。这太滑稽了！"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.VERNON.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VERNON.NAME"
@@ -5929,7 +5929,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.VIOLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VIOLA.DESC"
 msgid "Small, gentle, quiet. {0}s always look as if the slightest breeze might shatter them."
-msgstr ""
+msgstr "小巧，优雅，文静。{0}看起来总是要被最柔弱的风吹散了一样。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.VIOLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VIOLA.NAME"
@@ -5939,7 +5939,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.VIRGIL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VIRGIL.DESC"
 msgid "{0}s are overcome with childlike wonder at the infinite nature of the universe."
-msgstr ""
+msgstr "{0}被孩子般对于无尽宇宙的好奇征服了。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.VIRGIL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VIRGIL.NAME"
@@ -5949,7 +5949,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.WILL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.WILL.DESC"
 msgid "{0}s have great hair and are always about ten seconds away from starving to death."
-msgstr ""
+msgstr "{0}有一头秀发，但总是差几十秒就要饿死。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.WILL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.WILL.NAME"
@@ -5959,7 +5959,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.WOODROW.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.WOODROW.DESC"
 msgid "{0}s are exceptionally bad at reading social cues and never know when to stop talking."
-msgstr ""
+msgstr "{0}异常地不擅长于阅读社交暗示，并总是不知道何时该停止谈话。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.WOODROW.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.WOODROW.NAME"
@@ -5969,7 +5969,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.YVETTE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.YVETTE.DESC"
 msgid "A {0}'s every waking moment is plagued by her terrible genetic curse... a horrifyingly acute sense of smell."
-msgstr ""
+msgstr "{0}醒着的每时每刻都被她可怕的基因问题所困扰——她的嗅觉灵敏到可怕。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.YVETTE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.YVETTE.NAME"
@@ -5979,7 +5979,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ZEKE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ZEKE.DESC"
 msgid "A {0}'s snobby exterior is a defense to protect the kind, mushy heart that lurks within."
-msgstr ""
+msgstr "{0}外表上的势利是对他潜伏着的善良、脆弱的内心的保护。"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ZEKE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ZEKE.NAME"
