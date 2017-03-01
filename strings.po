@@ -30,7 +30,6 @@ msgstr "需要翻动"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
 msgstr "堆肥需要被不时翻动来制造 <style=\"solid\">肥料</style>"
-"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
