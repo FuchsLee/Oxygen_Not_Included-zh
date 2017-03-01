@@ -4,7 +4,7 @@
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
 msgid "Assigned to: {Assignee}"
-msgstr "分配给{Assignee}"
+msgstr "分配给：{Assignee}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP"
@@ -39,7 +39,7 @@ msgstr "等待送达"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"seed\">Seed</style>"
-msgstr "等待送达选定的 <style=\"seed\">种子</style>"
+msgstr "等待选定的 <style=\"seed\">种子</style>送达"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME"
@@ -1189,7 +1189,7 @@ msgstr "哦！柑橘的芳香！"
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
 msgid "Reduces the threat of <style=\"disease\">Disease</style> by filtering <style=\"gas\">Contaminated Oxygen</style> out of the air."
-msgstr 通过过滤<style=\"gas\">被污染的氧气</style>"减少<style=\"disease\">疾病</style>的威胁。 "
+msgstr "通过过滤<style=\"gas\">被污染的氧气</style>"减少<style=\"disease\">疾病</style>的威胁。"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
@@ -2049,7 +2049,7 @@ msgstr "用常见材料为复制人们生产低质量的<style=\"food\">食物</
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME"
 msgid "Microbe Musher"
-msgstr "微生物糊糊机"
+msgstr "微生物制糊机"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
@@ -2529,12 +2529,12 @@ msgstr "神秘的蛋"
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILSPOUT.DESC"
 msgid "A rocky vent that spouts crude oil."
-msgstr "一种喷油的石头开口。"
+msgstr "一种喷油的石头裂口。"
 
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILSPOUT.NAME"
 msgid "Oil Spout"
-msgstr "喷油嘴"
+msgstr "喷油口"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
@@ -2549,7 +2549,7 @@ msgstr "一种带刺的水果 <style=\"plant\">植物</style>，产生可食用�
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.NAME"
 msgid "Bristle Blossom"
-msgstr "猪鬃花"
+msgstr "刚鬃花"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC"
@@ -2564,17 +2564,17 @@ msgstr "一种多次的、侵略性的野草，有着古怪的艺术魅力。"
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME"
 msgid "Bristle Briar"
-msgstr "猪鬃草"
+msgstr "刚鬃草"
 
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC"
 msgid "A rocky vent that spouts propane."
-msgstr "喷出丙烷的石头开口。"
+msgstr "一种喷出丙烷的石头裂口。"
 
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME"
 msgid "Propane Spout"
-msgstr "丙烷喷嘴"
+msgstr "丙烷喷口"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.DESC"
@@ -2584,7 +2584,7 @@ msgstr "一种漂浮的、无攻击性的生物。\n\n噗浮特每次呼吸会�
 #. STRINGS.CREATURES.SPECIES.PUFT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.NAME"
 msgid "Puft"
-msgstr "噗浮特"
+msgstr "浮特"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC"
@@ -2609,22 +2609,22 @@ msgstr "棕榈树种子"
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Bristle Blossom</style>."
-msgstr "<style=\"plant\">猪鬃花</style>的<style=\"seed\">种子</style>。"
+msgstr "<style=\"plant\">刚鬃花</style>的<style=\"seed\">种子</style>。"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME"
 msgid "Blossom Seed"
-msgstr "猪鬃花种子"
+msgstr "刚鬃花种子"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Bristle Briar</style>."
-msgstr "<style=\"plant\">猪鬃草</style>的 <style=\"seed>\"种子</style>。"
+msgstr "<style=\"plant\">刚鬃草</style>的 <style=\"seed>\"种子</style>。"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME"
 msgid "Briar Seed"
-msgstr "猪鬃草种子"
+msgstr "刚鬃草种子"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC"
@@ -2649,12 +2649,12 @@ msgstr "电击虫"
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC"
 msgid "A rocky vent that spouts steam."
-msgstr "喷出蒸汽的石头开口。·"
+msgstr "一种喷出蒸汽的石头裂口。"
 
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME"
 msgid "Steam Spout"
-msgstr "蒸汽喷嘴"
+msgstr "蒸汽喷口"
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC"
@@ -3189,7 +3189,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME"
 msgid "Calories Burn Rate"
-msgstr "能量消耗速率"
+msgstr "卡路里消耗速率"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
@@ -4034,7 +4034,7 @@ msgstr "制糊中"
 #. STRINGS.DUPLICANTS.CHORES.MUSH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.STATUS"
 msgid "Going to mush"
-msgstr "将要去做糊状物"
+msgstr "将要去制糊"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME"
@@ -4454,7 +4454,7 @@ msgstr "新希望"
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP"
 msgid "This Duplicant feels pretty optimistic about their new home"
-msgstr "这个复制人对他们的新家充满希望"
+msgstr "该复制人对他们的新家充满希望"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME"
@@ -4469,7 +4469,7 @@ msgstr "呼吸中"
 #. STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME"
 msgid "Burning calories"
-msgstr "消耗能量中"
+msgstr "消耗卡路里中"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME"
@@ -4604,7 +4604,7 @@ msgstr "睡了一半"
 #. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP"
 msgid "This Duplicant was rudely awoken"
-msgstr "这个复制人被强行叫醒"
+msgstr "这个复制人被强行弄醒"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME"
@@ -4904,7 +4904,7 @@ msgstr "吃饱了"
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP"
 msgid "This Duplicant feels satisfied after having a big meal"
-msgstr "这个复制人在饱餐一顿后感到满意"
+msgstr "该复制人在饱餐一顿后感到满意"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME"
@@ -4914,7 +4914,7 @@ msgstr "工作中"
 #. STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP"
 msgid "This Duplicant is working up a sweat"
-msgstr "这个复制人正在努力工作"
+msgstr "该复制人正在努力工作"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
@@ -6865,7 +6865,7 @@ msgstr "夜来疯"
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP"
 msgid "This Duplicant is a Night Owl and gets a burst of energy at night"
-msgstr "该复制人是一个夜猫子，在夜晚会获得能量爆发"
+msgstr "该复制人是一个夜猫子，在夜晚会爆发能量"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME"
@@ -8945,7 +8945,7 @@ msgstr "令人愉快的食物，除非你吃的时候忘了避开那些刺。"
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME"
 msgid "Bristle Berry"
-msgstr "猪鬃果"
+msgstr "刚鬃果"
 
 #. STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.NAME
 msgctxt "STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.NAME"
@@ -8960,7 +8960,7 @@ msgstr ""
 #. STRINGS.ITEMS.PILLS.GINKONUT.NAME
 msgctxt "STRINGS.ITEMS.PILLS.GINKONUT.NAME"
 msgid "Antifungal Cream"
-msgstr "杀菌膏"
+msgstr "杀菌软膏"
 
 #. STRINGS.ITEMS.PILLS.HERBALREMEDY.DESC
 msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.DESC"
@@ -9475,7 +9475,7 @@ msgstr "经过日复一日地辛勤工作，以下复制人提升了能力："
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
 msgid "Duplicants must have accessible paths to their job tasks in order to work. When placing tasks, keep in mind that Duplicants can only climb obstacles two tiles high and are themselves two tiles tall.\n\nIf you are unsure if a task you've placed is accessible, select a Duplicant and click <color=#833A5FFF>SHOW NAVIGATION</color> to view all areas within their reach."
-msgstr "复制人必须有可用的到达工作地点的路径才能开始工作。布置任务时，记住复制人只能爬两格高的障碍，而且他们自己也是两格高。\n\n如果你不确定任务地点是否可达，可以选择一个复制人，点击<color=#833A5FFF>显示导航</color>来看所有他们可以到达的区域。"
+msgstr "复制人必须有可用的工作路径才能开始工作。布置任务时，记住复制人只能爬两格高的障碍，而且他们自己也是两格高。\n\n如果你不确定任务地点是否可达，可以选择一个复制人，点击<color=#833A5FFF>显示导航</color>来查看所有他们可以到达的区域。"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
@@ -10060,7 +10060,7 @@ msgstr "预定打扫"
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
 msgid "Awaiting a Duplicant to sweep"
-msgstr "正在等待复制人打扫"
+msgstr "等待复制人打扫"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
@@ -10070,7 +10070,7 @@ msgstr "预定收获"
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
 msgid "Awaiting a Duplicant to harvest"
-msgstr "正在等待复制人收获"
+msgstr "等待复制人收获"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME"
@@ -10080,7 +10080,7 @@ msgstr "预定挖出"
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Awaiting a Duplicant to dig up"
-msgstr "正在等待复制人挖起"
+msgstr "等待复制人挖起"
 
 #. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME"
@@ -10220,7 +10220,7 @@ msgstr "预定挖掘"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
 msgid "Awaiting a Duplicant to dig"
-msgstr "正在等待复制人挖掘"
+msgstr "等待复制人挖掘"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
@@ -10230,7 +10230,7 @@ msgstr "预定拖地"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
 msgid "Awaiting a Duplicant to mop"
-msgstr "正在等待复制人拖地"
+msgstr "等待复制人拖地"
 
 #. STRINGS.MISC.TAGS.ALLOY
 msgctxt "STRINGS.MISC.TAGS.ALLOY"
@@ -10655,7 +10655,7 @@ msgstr "用这些基本物品来维持你殖民地的基础设施。"
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
 msgid "Stations"
-msgstr "科技"
+msgstr "研究站"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
@@ -10885,7 +10885,7 @@ msgstr "<style=\"LiquidPiping\">进水管道</style>"
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT"
 msgid "<style=\"LiquidPiping\">Liquid Output Pipe</style>"
-msgstr ""<style=\"LiquidPiping\">出水管道</style>"
+msgstr "<style=\"LiquidPiping\">出水管道</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS"
@@ -11630,7 +11630,7 @@ msgstr "查看该复制人的属性、特性和疾病。"
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY"
 msgid "This game is in the early stages of development which means you're likely to encounter strange, amusing, and occasionally just downright frustrating bugs.\n\nDuring this time Oxygen Not Included will be receiving regular updates to fix bugs, add features and introduce additional content, so if you encounter issues or just have suggestions to share, please let us know on our forums: <u>http://forums.kleientertainment.com</u>\n\nWe value your feedback and thank you for joining us in the development process. We couldn't do this without you.\n\nEnjoy your time in deep space!\n\n- Klei"
-msgstr "该游戏处于早期开发阶段，意味着你很有可能遇到奇怪的、偶尔十分让人沮丧的Bug。\n\n这段时间里缺氧会定期更新修复Bug，添加新功能和额外内容，所以如果你遇到问题或是有建议要分享，登录我们的论坛<u>http://forums.kleientertainment.com</u>让我们知道。\n\n我们重视你们的反馈，感谢你们加入到我们的开发过程，没有你们我们无法做出这个游戏。\n享受你的深空之旅吧！\n\n—Klei"
+msgstr "该游戏处于早期开发阶段，意味着你很有可能遇到奇怪的、偶尔十分让人沮丧的Bug。\n\n这段时间里缺氧会定期更新修复Bug，添加新功能和额外内容，所以如果你遇到问题或是有建议要分享，登录我们的论坛<u>http://forums.kleientertainment.com</u>让我们知道。\n\n我们重视你们的反馈，感谢你们加入到我们的开发过程，没有你们我们无法做出这个游戏。\n享受你的太空之旅吧！\n\n—Klei"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON"
@@ -12060,7 +12060,7 @@ msgstr "恢复游戏"
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON"
@@ -12765,7 +12765,7 @@ msgstr "设施从管道接收液体的地点。\n*必须连接到<style=\"Liquid
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED"
 msgid "Not connected to a <style=\"LiquidPiping\">Liquid Pipe</style>"
-msgstr ""
+msgstr "没有连接到<style=\"LiquidPiping\">液体管道</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED"
@@ -13650,7 +13650,7 @@ msgstr "按<color=#833A5FFF>[O]</color>键旋转。"
 #. STRINGS.UI.TOOLTIPS.INFOPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.INFOPANEL"
 msgid "The Info Panel contains an overview of the basic information about your Duplicant"
-msgstr "信息栏包含了你的复制人的基本信息"
+msgstr "信息栏包含了你的复制人的基本情报"
 
 #. STRINGS.UI.TOOLTIPS.ITEMSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.ITEMSPANEL"
@@ -13975,7 +13975,7 @@ msgstr "<style=\"research\">{0}</style>：<style=\"produced\">+1</style>"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION"
 msgid "INFORMATION"
-msgstr "详情"
+msgstr "情报"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG"
@@ -14055,7 +14055,7 @@ msgstr "电池限值"
 #. STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TOOLTIP"
 msgid "Adjust how much wattage batteries should use before reactivating this generator"
-msgstr "调整电池使用多少了瓦数后重新启用发电机"
+msgstr "调整电池使用多少了电力后重新启用发电机"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.GROWTHTIME
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.GROWTHTIME"
@@ -14160,7 +14160,7 @@ msgstr "已种植：{0}"
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.INFORMATION"
 msgid "INFORMATION"
-msgstr "详情"
+msgstr "情报"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.TITLE"
@@ -14290,7 +14290,7 @@ msgstr "勾选时，只有标记为被打扫的物体会储存于此"
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE"
 msgid "Element Filter"
-msgstr "种类筛选"
+msgstr "元素筛选"
 
 #. STRINGS.UI.UISIDESCREENS.VALVESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.VALVESIDESCREEN.TITLE"
@@ -14715,12 +14715,12 @@ msgstr "从科技树选择一个科技"
 #. STRINGS.UI.USERMENUACTIONS.TAGFILTER.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.TAGFILTER.NAME"
 msgid "Filter Settings"
-msgstr "过滤设定"
+msgstr "筛选分类"
 
 #. STRINGS.UI.USERMENUACTIONS.TAGFILTER.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.TAGFILTER.TOOLTIP"
 msgid "Assign materials to storage"
-msgstr "指定材料给库存"
+msgstr "指定库存中的物品种类"
 
 #. STRINGS.UI.USERMENUACTIONS.UPROOT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.UPROOT.NAME"
@@ -14790,7 +14790,7 @@ msgstr "开始"
 #. STRINGS.UI.WELCOMEMESSAGEBODY
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
 msgid "Your crew has awoken miles beneath the surface of an unfamiliar terrestrial body. Oddly, they have no recollection of how they got here.\n\nIt might be best to start digging."
-msgstr "你的成员在陌生星体的地底醒来了。奇怪的是他们回忆不起来是怎么来到这里的。\n\n开始挖掘可能是最好的选择。"
+msgstr "你的成员在陌生星体的地底醒来了。奇怪的是他们回忆不起来是如何来到这里的。\n\n开始挖掘可能是最好的选择。"
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
@@ -14810,12 +14810,12 @@ msgstr "正在为复制人整理干净……"
 #. STRINGS.UI.WORLDGEN.BORDERS
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS"
 msgid "Just adding water..."
-msgstr "只是在加水……"
+msgstr "只是在加水而已……"
 
 #. STRINGS.UI.WORLDGEN.BORDERS1
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS1"
 msgid "Just adding water..."
-msgstr "只是在加水……"
+msgstr "只是在加水而已……"
 
 #. STRINGS.UI.WORLDGEN.BORDERS2
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS2"
@@ -14835,42 +14835,42 @@ msgstr "正在凝视虚空……"
 #. STRINGS.UI.WORLDGEN.BORDERS5
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS5"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "正在避免尴尬地直视虚空……"
+msgstr "正在避免与虚空尴尬地对视……"
 
 #. STRINGS.UI.WORLDGEN.BORDERS6
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS6"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "正在避免尴尬地直视虚空……"
+msgstr "正在避免与虚空尴尬地对视……"
 
 #. STRINGS.UI.WORLDGEN.BORDERS7
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS7"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "正在避免尴尬地直视虚空……"
+msgstr "正在避免与虚空尴尬地对视……"
 
 #. STRINGS.UI.WORLDGEN.BORDERS8
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS8"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "正在避免尴尬地直视虚空……"
+msgstr "正在避免与虚空尴尬地对视……"
 
 #. STRINGS.UI.WORLDGEN.BORDERS9
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS9"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "正在避免尴尬地直视虚空……"
+msgstr "正在避免与虚空尴尬地对视……"
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE"
 msgid "Sorting quadrillions of atoms..."
-msgstr "正在分类千兆原子……"
+msgstr "正在将千兆个原子分类……"
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1"
 msgid "Sorting quadrillions of atoms..."
-msgstr "正在分类千兆原子……"
+msgstr "正在将千兆个原子分类……"
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2"
 msgid "Sorting quadrillions of atoms..."
-msgstr "正在分类千兆原子……"
+msgstr "正在将千兆个原子分类……"
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3"
@@ -14920,7 +14920,7 @@ msgstr "正在凝视虚空……"
 #. STRINGS.UI.WORLDGEN.COMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETE"
 msgid "Success! Space adventure awaits."
-msgstr "成功！太空冒险在等待。"
+msgstr "成功了！太空冒险在等着你。"
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT"
@@ -14985,7 +14985,7 @@ msgstr "正在硬化钻石……"
 #. STRINGS.UI.WORLDGEN.DRAWWORLDBORDER
 msgctxt "STRINGS.UI.WORLDGEN.DRAWWORLDBORDER"
 msgid "Establishing personal boundaries..."
-msgstr "正在确立私人边界……"
+msgstr "正在确立私人领地边界……"
 
 #. STRINGS.UI.WORLDGEN.FAILED
 msgctxt "STRINGS.UI.WORLDGEN.FAILED"
@@ -15045,32 +15045,32 @@ msgstr "正在形成真空……"
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM"
 msgid "Catalyzing Big Bang..."
-msgstr ""正在催动宇宙大爆炸……"
+msgstr "正在引发宇宙大爆炸……"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1"
 msgid "Catalyzing Big Bang..."
-msgstr ""正在催动宇宙大爆炸……"
+msgstr "正在引发宇宙大爆炸……"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2"
 msgid "Catalyzing Big Bang..."
-msgstr ""正在催动宇宙大爆炸……"
+msgstr "正在引发宇宙大爆炸……"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3"
 msgid "Catalyzing Big Bang..."
-msgstr "正在催动宇宙大爆炸……"
+msgstr "正在引发宇宙大爆炸……"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4"
 msgid "Catalyzing Big Bang..."
-msgstr "正在催动宇宙大爆炸……"
+msgstr "正在引发宇宙大爆炸……"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5"
 msgid "Catalyzing Big Bang..."
-msgstr "正在催动宇宙大爆炸……"
+msgstr "正在引发宇宙大爆炸……"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6"
@@ -15115,7 +15115,7 @@ msgstr "正在掺入毒气……"
 #. STRINGS.UI.WORLDGEN.PLACINGCREATURES
 msgctxt "STRINGS.UI.WORLDGEN.PLACINGCREATURES"
 msgid "Building the suspense..."
-msgstr "正在加深悬念……"
+msgstr "正在吊人胃口……"
 
 #. STRINGS.UI.WORLDGEN.PROCESSING
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING"
@@ -15250,7 +15250,7 @@ msgstr "正在结冰……"
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT10"
 msgid "Sprinkling sand..."
-msgstr "正在泼洒沙子……"
+msgstr "正在洒沙……"
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT2"
@@ -15280,14 +15280,14 @@ msgstr "正在熔化岩浆……"
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT7"
 msgid "Sprinkling sand..."
-msgstr "正在泼洒沙子……"
+msgstr "正在洒沙……"
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT8"
 msgid "Sprinkling sand..."
-msgstr "正在泼洒沙子……"
+msgstr "正在洒沙……"
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
-msgstr "正在泼洒沙子……"
+msgstr "正在洒沙……"
