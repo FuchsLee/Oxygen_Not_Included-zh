@@ -504,7 +504,7 @@ msgstr "手动控制"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under your control"
-msgstr "该复制人在你的控制之下"
+msgstr "这个复制人在你的控制之下"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME"
@@ -999,7 +999,7 @@ msgstr "剩余{FlushesRemaining}次 \“光临\”"
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
 msgid "This amenity can handle {FlushesRemaining} more \"visits\" before needing maintenance"
-msgstr "该福利设施在需要保养前可以再接受{FlushesRemaining}次\“光临\”"
+msgstr "该福利设施在需要保养前可以再使用{FlushesRemaining}次"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
@@ -2259,7 +2259,7 @@ msgstr "库存压缩机"
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
 msgid "Exosuits allow Duplicants to breathe in the harshest of environments.\nThey're also flatteringly form-fitting."
-msgstr "潜水服允许复制人们在最严酷的环境下呼吸。\而且他们看起来更搭衣服了。"
+msgstr "潜水服允许复制人们在最严酷的环境下呼吸。\n而且他们看起来更搭衣服了。"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT"
@@ -6226,6 +6226,7 @@ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.TOOLTIP"
 msgid "This Duplicant is constructing a {Target}"
 msgstr "该复制人正在建造{Target}"
 
+
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.NAME"
 msgid "Cleaning {Target}"
@@ -7104,7 +7105,7 @@ msgstr "正在救援{0}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.TOOLTIP"
 msgid "This Duplicant is saving {Target} from certain peril!"
-msgstr "该复制人正在将{Target}从某种危险中解救出来！"
+msgstr "这个复制人正在将{Target}从某种危险中解救出来！"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.NAME"
@@ -7259,622 +7260,622 @@ msgstr "该复制人正在将{Item}存入库存"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NAME"
 msgid "Stressed"
-msgstr ""
+msgstr "压力过大"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NOTIFICATION_NAME"
 msgid "Stressed"
-msgstr ""
+msgstr "压力过大"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.NOTIFICATION_TOOLTIP"
 msgid "The colony is troubled by excess <style=\"stress\">Stress</style>.\nDecorate your base and build better amenities to help these Duplicants unwind:"
-msgstr ""
+msgstr "殖民地正因为<style=\"stress\">压力</style>而陷入困境，需要更多的服务设施来使这些复制人轻松下来："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.TOOLTIP"
 msgid "This Duplicant is feeling the <style=\"stress\">Stress</style>"
-msgstr ""
+msgstr "这个复制人正在承受<style=\"stress\">压力</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NAME"
 msgid "Making a mess"
-msgstr ""
+msgstr "随地大小便"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_NAME"
 msgid "Made a mess"
-msgstr ""
+msgstr "随地大小便"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants could not find a toilet in time.\n\nUse the <color=#833A5FFF>MOP TOOL</color> [K] to clean up their mess:"
-msgstr ""
+msgstr "这些复制人实在憋不住了，\n\n使用<color=#833A5FFF>MOP TOOL</color> [K]来打扫他们的便溺物："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP"
 msgid "This Duplicant couldn't find a toilet and is super embarrassed"
-msgstr ""
+msgstr "这个复制人找不到厕所来用，即使这样很羞耻"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME"
 msgid "Stress vomiting"
-msgstr ""
+msgstr "应激呕吐"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_NAME"
 msgid "Stress vomiting"
-msgstr ""
+msgstr "应激呕吐"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants became too <style=\"stress\">Stress</style> and it caused them to throw up:"
-msgstr ""
+msgstr "这些复制人正因为过高的<style=\"stress\">压力</style>而呕吐："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP"
 msgid "This Duplicant is releasing their <style=\"stress\">Stress</style> all over the floor"
-msgstr ""
+msgstr "这个复制人正在通过呕吐来缓解压力"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME"
 msgid "Suffocating"
-msgstr ""
+msgstr "呼吸困难"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NOTIFICATION_NAME"
 msgid "Suffocating"
-msgstr ""
+msgstr "呼吸困难"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot find <style=\"oxygen\">Oxygen</style>:"
-msgstr ""
+msgstr "这些复制人找不到<style=\"oxygen\">氧气</style>来维持呼吸："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.TOOLTIP"
 msgid "This Duplicant cannot breathe!"
-msgstr ""
+msgstr "这个复制人喘不上气了！"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TIRED.NAME"
 msgid "Tired"
-msgstr ""
+msgstr "劳累过度"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TIRED.TOOLTIP"
 msgid "This Duplicant could use a nice nap"
-msgstr ""
+msgstr "这个复制人想要打个盹"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.NAME"
 msgid "Toggling {Target} switch"
-msgstr ""
+msgstr "切换{Target}开关"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.TOOLTIP"
 msgid "This Duplicant is toggling the {Target}'s switch"
-msgstr ""
+msgstr "这个复制人正在切换{Target}的开关"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NAME"
 msgid "Restroom unreachable"
-msgstr ""
+msgstr "无法到达洗手间"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NOTIFICATION_NAME"
 msgid "Restroom out of reach"
-msgstr ""
+msgstr "无法到达洗手间"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot access a functioning toilet:"
-msgstr ""
+msgstr "这些复制人无法正常的如厕："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot access a functioning toilet"
-msgstr ""
+msgstr "这个复制人无法正常的如厕"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.NAME"
 msgid "Digging up {Target}"
-msgstr ""
+msgstr "正在挖掘{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.TOOLTIP"
 msgid "This Duplicant is turning a {Target} into a seed"
-msgstr ""
+msgstr "这个复制人正在将{Target}连根拔起"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NAME"
 msgid "Throwing up"
-msgstr ""
+msgstr "阵阵作呕"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_NAME"
 msgid "Throwing up"
-msgstr ""
+msgstr "阵阵作呕"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_TOOLTIP"
 msgid "A <style=\"disease\">Disease</style> has caused these Duplicants to throw up:"
-msgstr ""
+msgstr "这些复制人正因为<style=\"disease\">疾病</style>而阵阵作呕："
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.TOOLTIP"
 msgid "This Duplicant has unceremoniously hurled as a result of a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "这个复制人正因为<style=\"disease\">疾病</style>而呕吐不止"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.NAME"
 msgid "Warming up"
-msgstr ""
+msgstr "回复体温"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.TOOLTIP"
 msgid "This Duplicant got too <style=\"heat\">Cold</style> and is trying to warm up"
-msgstr ""
+msgstr "这个复制人正在回复自己过低的<style=\"heat\">体温</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "这个复制人正在运送资源到{Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.NAME"
 msgid "Washing hands"
-msgstr ""
+msgstr "正在洗手"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning</style> their hands"
-msgstr ""
+msgstr "这个复制人正在<style=\"hygiene\">清洗</style>自己的手"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.ANGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.ANGRY.TOOLTIP"
 msgid "Angry"
-msgstr ""
+msgstr "生气"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.COLD.TOOLTIP"
 msgid "Cold"
-msgstr ""
+msgstr "寒冷"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.FULLBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.FULLBLADDER.TOOLTIP"
 msgid "Full Bladder"
-msgstr ""
+msgstr "膀胱已满"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.GOTINFECTED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.GOTINFECTED.TOOLTIP"
 msgid "Got Infected"
-msgstr ""
+msgstr "已被传染"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.HAPPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.HAPPY.TOOLTIP"
 msgid "Happy"
-msgstr ""
+msgstr "快乐"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.HOT.TOOLTIP"
 msgid "Hot"
-msgstr ""
+msgstr "炎热"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP"
 msgid "Poor Decor"
-msgstr ""
+msgstr "单调的装饰"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP"
 msgid "Smelled Something Putrid"
-msgstr ""
+msgstr "闻到了腐败的味道"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.RAGING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.RAGING.TOOLTIP"
 msgid "Raging"
-msgstr ""
+msgstr "愤怒"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.SLEEPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.SLEEPY.TOOLTIP"
 msgid "Sleepy"
-msgstr ""
+msgstr "打瞌睡"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.STARVING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.STARVING.TOOLTIP"
 msgid "Starving"
-msgstr ""
+msgstr "饥饿"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.SUFFOCATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.SUFFOCATING.TOOLTIP"
 msgid "Suffocating"
-msgstr ""
+msgstr "呼吸困难"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.UNHAPPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.UNHAPPY.TOOLTIP"
 msgid "Unhappy"
-msgstr ""
+msgstr "悲伤"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC"
 msgid "This Duplicant will take out their frustrations on defenseless machines when stressed"
-msgstr ""
+msgstr "这个复制人压力过大时会对无法反抗的机器拳脚相加"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME"
 msgid "Destructive"
-msgstr ""
+msgstr "败家玩意儿"
 
 #. STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.DESC"
 msgid "This Duplicant moves as quickly underwater as they do on land"
-msgstr ""
+msgstr "这个复制人在水下跑得和在陆地上一样快"
 
 #. STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AMPHIBIOUS.NAME"
 msgid "Amphibious"
-msgstr ""
+msgstr "香港记者"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC"
 msgid "This Duplicant is the exact opposite of athletic"
-msgstr ""
+msgstr "这个复制人不擅长任何运动"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME"
 msgid "Anemic"
-msgstr ""
+msgstr "贫血患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC"
 msgid "This Duplicant collapses when put under too much pressure"
-msgstr ""
+msgstr "这个复制人在过高的压力下会崩溃"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME"
 msgid "Anxious"
-msgstr ""
+msgstr "焦虑患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC"
 msgid "This Duplicant might actually be several blackholes in a trenchcoat"
-msgstr ""
+msgstr "这个复制人的风衣下或许不是身体，而是几个黑洞"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME"
 msgid "Bottomless Stomach"
-msgstr ""
+msgstr "次元胃"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
 msgid "Cannot perform job"
-msgstr ""
+msgstr "无法胜任工作"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC"
 msgid "This Duplicant is incapable of visualizing an object in 3D space"
-msgstr ""
+msgstr "这个复制人无法想象出三维空间中的物体"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME"
 msgid "Dimensionally Inept"
-msgstr ""
+msgstr "三维白痴"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC"
 msgid "This Duplicant has an unshakable fear of kitchens and the culinary arts"
-msgstr ""
+msgstr "这个复制人对厨房和烹饪有着无法摆脱的恐惧"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME"
 msgid "Gastrophobia"
-msgstr ""
+msgstr "酒囊饭袋"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC"
 msgid "This Duplicant just can't operate a dig tool for the life of them"
-msgstr ""
+msgstr "这个复制人无法使用挖掘工具"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME"
 msgid "Can't Dig It"
-msgstr ""
+msgstr "不能挖掘"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC"
 msgid "This Duplicant isn't the brightest star in the sky"
-msgstr ""
+msgstr "这个复制人并不是天空中最闪亮的星"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME"
 msgid "Yokel"
-msgstr ""
+msgstr "乡巴佬"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC"
 msgid "This Duplicant may have been a talented opera singer in another life"
-msgstr ""
+msgstr "这个复制人的原型或许是个天才歌剧家"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME"
 msgid "Diver's Lungs"
-msgstr ""
+msgstr "潜水员的肺"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC"
 msgid "This Duplicant wakes up feeling fresh and efficient!"
-msgstr ""
+msgstr "这个复制人醒来能够直接投入到工作中去"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC"
 msgid "In the first part of the day, adds <style=\"produced\">{0}</style> to all skills."
-msgstr ""
+msgstr "在每天清晨，所有能力值<style=\"produced\">{0}</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.NAME"
 msgid "Early Bird"
-msgstr ""
+msgstr "早起的鸟"
 
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC"
 msgid "This Duplicant's sharp as a tack and picks up new skills with amazing speed"
-msgstr ""
+msgstr "这个复制人能够以惊人的速度来学习新的技能"
 
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.NAME"
 msgid "Quick Learner"
-msgstr ""
+msgstr "学霸"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC"
 msgid "Some Duplicants are just full of it"
-msgstr ""
+msgstr "一些复制人总是喜欢目中无人"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME"
 msgid "Flatulence"
-msgstr ""
+msgstr "自视甚高"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC"
 msgid "Nothing's ever quite good enough for this Duplicant"
-msgstr ""
+msgstr "简直没什么事是能让这家伙满意的"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME"
 msgid "Fussy"
-msgstr ""
+msgstr "难以取悦"
 
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.DESC"
 msgid "This Duplicant likes to throw a wrench into the colony's plans... in a good way"
-msgstr ""
+msgstr "这个复制人总是喜欢以好的方式给殖民地的计划添点乱子．．．"
 
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME"
 msgid "Grease Monkey"
-msgstr ""
+msgstr "捣蛋鬼"
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC"
 msgid "Just a little more to the left..."
-msgstr ""
+msgstr "再往左一点点．．．对，就是这里！"
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME"
 msgid "Interior Decorator"
-msgstr ""
+msgstr "室内装饰师"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC"
 msgid "This Duplicant can eat just about anything without getting sick!"
-msgstr ""
+msgstr "这个复制人不管吃什么都不会生病"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME"
 msgid "Iron Gut"
-msgstr ""
+msgstr "铁打的胃"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
 msgid "This Duplicant takes a little longer than usual to \"do their business\""
-msgstr ""
+msgstr "这个复制人比要比其他人花费更多的时间在“不可描述的事”上"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME"
 msgid "Irritable Bowel"
-msgstr ""
+msgstr "肠易激综合征患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC"
 msgid "These hands are great for tunneling, but finding gloves is a nightmare"
-msgstr ""
+msgstr "这双手很擅长挖掘，不过对手套而言可就是噩梦了"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME"
 msgid "Mole Hands"
-msgstr ""
+msgstr "挖掘能手"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
 msgid "This Duplicant sucks up way more than their fair share of <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "这个复制人会消耗更多的<style=\"oxygen\">氧气</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME"
 msgid "Mouth Breather"
-msgstr ""
+msgstr "口式呼吸者"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC"
 msgid "This Duplicant can and will fall asleep anytime, anyplace"
-msgstr ""
+msgstr "这个复制人会随时随地进入睡眠"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME"
 msgid "Narcoleptic"
-msgstr ""
+msgstr "发作性睡病患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC"
 msgid "This Duplicant does their best work when they ought to be sleeping"
-msgstr ""
+msgstr "这个复制人即使在应该睡觉时也会尽最大努力工作"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME"
 msgid "Night Owl"
-msgstr ""
+msgstr "夜猫子"
 
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
 msgid "Refuses to do job"
-msgstr ""
+msgstr "拒绝工作"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC"
 msgid "This Duplicant is afraid of violence."
-msgstr ""
+msgstr "这个复制人恐惧暴力"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME"
 msgid "Scaredy-Cat"
-msgstr ""
+msgstr "胆小如鼠"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC"
 msgid "This Duplicant is a little slow on the uptake, but gosh do they try"
-msgstr ""
+msgstr "这个复制人不仅学习很慢，而且连试都不试"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME"
 msgid "Slow Learner"
-msgstr ""
+msgstr "学渣"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC"
 msgid "This Duplicant has a tiny, pea-sized bladder. Adorable!"
-msgstr ""
+msgstr "这个复制人有着一个小小的，豌豆一样大的膀胱。太可爱了！"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME"
 msgid "Small Bladder"
-msgstr ""
+msgstr "豌豆膀胱"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.DESC"
 msgid "In space, everyone can hear you snore"
-msgstr ""
+msgstr "在太空中，每个人都能听到你的呼噜声"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.NAME"
 msgid "Loud Sleeper"
-msgstr ""
+msgstr "鼾症患者"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
 msgid "This Duplicant is liable to puke everywhere when stressed"
-msgstr ""
+msgstr "这个复制人压力过大时会吐得到处都是"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME"
 msgid "Vomiter"
-msgstr ""
+msgstr "胃虚脾弱"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
 msgid "This Duplicant's hardy immune system repels most common illnesses"
-msgstr ""
+msgstr "这个复制人强健的身体能够抵抗大多数疾病"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
 msgid "Naturally Robust"
-msgstr ""
+msgstr "身强体壮"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
 msgid "This Duplicant is light as a feather on their feet"
-msgstr ""
+msgstr "这个复制人的身体就像羽毛一样轻"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME"
 msgid "Twinkletoes"
-msgstr ""
+msgstr "身轻如燕"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has no appreciation for the finer things"
-msgstr ""
+msgstr "这个复制人对美好的事物毫无欣赏能力"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
 msgid "Uncultured"
-msgstr ""
+msgstr "粗俗之辈"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
 msgid "All the Vitamin C in space can't stop this Duplicant from getting sick"
-msgstr ""
+msgstr "再多的维他命C也不能阻止这个复制人生病"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
 msgid "Biohazard"
-msgstr ""
+msgstr "病秧子"
 
 #. STRINGS.ELEMENTS.ALGAE.DESC
 msgctxt "STRINGS.ELEMENTS.ALGAE.DESC"
 msgid "A cluster of non-motile, single-celled lifeforms.\n\nAlgae can be used as a renewable source of <style=\"oxygen\">Oxygen</style> when domesticated with Algae Terrariums."
-msgstr ""
+msgstr "一团不会移动的单细胞生物。\n\n海藻为可再生资源，可通过饲养在海藻饲养器中来生成<style=\"oxygen\">氧气</style>。"
 
 #. STRINGS.ELEMENTS.ALGAE.NAME
 msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
 msgid "Algae"
-msgstr ""
+msgstr "海藻"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.DESC"
 msgid "An unstable compound that emits toxic <style=\"gas\">Chlorine Gas</style>.\n\nBleach Stone is useful in <style=\"hygiene\">Hygienic</style> processes."
-msgstr ""
+msgstr "一种会释放出<style=\"gas\">氯气</style>的不稳定化合物。\n\n漂白石可良好应用在<style=\"hygiene\">卫生</style>处理中。"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
 msgid "Bleach Stone"
-msgstr ""
+msgstr "漂白石"
 
 #. STRINGS.ELEMENTS.BOTTLEDWATER.DESC
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.DESC"
 msgid "Clean <style=\"liquid\">Water</style>, prepped for transport."
-msgstr ""
+msgstr "干净的<style=\"liquid\">净水</style>，已做好运送准备。"
 
 #. STRINGS.ELEMENTS.BOTTLEDWATER.NAME
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.NAME"
 msgid "Water"
-msgstr ""
+msgstr "净水"
 
 #. STRINGS.ELEMENTS.BREATHABLEDESC
 msgctxt "STRINGS.ELEMENTS.BREATHABLEDESC"
@@ -7884,287 +7885,287 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBON.DESC
 msgctxt "STRINGS.ELEMENTS.CARBON.DESC"
 msgid "A combustible fossil fuel composed of carbon.\n\nCoal is useful in <style=\"power\">Power</style> production."
-msgstr ""
+msgstr "一种由碳组成的可燃矿物燃料。\n\n煤炭可良好应用在<style=\"power\">电力</style>生产中。"
 
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
 msgid "Coal"
-msgstr ""
+msgstr "煤炭"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic, atomically heavy chemical compound in a <style=\"gas\">Gaseous</style> state.\n\nCarbon Dioxide tends to sink below other gases."
-msgstr ""
+msgstr "（CO2）一种有毒的<style=\"gas\">气体</style>化合物。\n\n二氧化碳一般情况下会沉在其他气体下方。"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "二氧化碳"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
 msgid "A <style=\"RefinedMineral\">Manufactured Material</style> with high tensile strength."
-msgstr ""
+msgstr "一种具有高拉伸强度的<style=\"RefinedMineral\">人造材料</style>。"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.NAME"
 msgid "Carbon Fiber"
-msgstr ""
+msgstr "碳纤维"
 
 #. STRINGS.ELEMENTS.CARBONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.DESC"
 msgid "(C) An abundant, versatile element heated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "（C）一种含量丰富且功能众多的元素的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
 msgid "Carbon"
-msgstr ""
+msgstr "碳气"
 
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
 msgid "(Cl) An extremely toxic element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "（Cl）一种剧毒化学元素的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "氯"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
 msgid "(Cl) An extremely toxic chemical in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "（Cl）一种剧毒化学物质的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "氯气"
 
 #. STRINGS.ELEMENTS.CLAY.DESC
 msgctxt "STRINGS.ELEMENTS.CLAY.DESC"
 msgid "A soft, naturally occurring composite of stone and soil that hardens at high <style=\"heat\">Temperatures</style>.\n\nClay is a reliable <style=\"RawMineral\">Construction Material</style>."
-msgstr ""
+msgstr "一种由石头和泥土天然混合而成的柔软黏土，在<style=\"heat\">温度</style>下会变得坚硬。\n\n黏土是一种可靠的<style=\"RawMineral\">建造材料</style>"
 
 #. STRINGS.ELEMENTS.CLAY.NAME
 msgctxt "STRINGS.ELEMENTS.CLAY.NAME"
 msgid "Clay"
-msgstr ""
+msgstr "黏土"
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC"
 msgid "(O2) A vehicle of airborne <style=\"disease\">Disease</style>.\n\nBreathable."
-msgstr ""
+msgstr "（O2）通过空气传播<style=\"disease\">疾病</style>的绝好媒介。"
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Contaminated Oxygen"
-msgstr ""
+msgstr "被污染的氧气"
 
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style>.\n\nCopper is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "（Cu）一种导电<style=\"RawMetal\">金属</style>。\n\n铜适合应用在<style=\"power\">电力</style>系统的建造中。"
 
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
 msgid "Copper"
-msgstr ""
+msgstr "铜"
 
 #. STRINGS.ELEMENTS.COPPERGAS.DESC
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "（Cu）一种导电<style=\"RawMetal\">金属</style>的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.COPPERGAS.NAME
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.NAME"
 msgid "Copper"
-msgstr ""
+msgstr "铜气"
 
 #. STRINGS.ELEMENTS.CRUDEOIL.DESC
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.DESC"
 msgid "A raw <style=\"power\">Power</style> source composed of billions of dead, primordial organisms."
-msgstr ""
+msgstr "一种由无数死亡原始生物沉积而成的，未经加工的<style=\"power\">电力</style>资源。"
 
 #. STRINGS.ELEMENTS.CRUDEOIL.NAME
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.NAME"
 msgid "Crude Oil"
-msgstr ""
+msgstr "原油"
 
 #. STRINGS.ELEMENTS.CRUSHEDICE.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.DESC"
 msgid "(H20) A slush of crushed, semi-solid ice."
-msgstr ""
+msgstr "（H20）一种碎成烂泥的，半固态的冰。"
 
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
-msgstr ""
+msgstr "碎冰"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.DESC"
 msgid "<style=\"solid\">Igneous Rock</style> crushed into a mechanical mixture."
-msgstr ""
+msgstr "粉碎成机械混合物的<style=\"solid\">火成岩</style>。"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.NAME"
 msgid "Crushed Rock"
-msgstr ""
+msgstr "碎石"
 
 #. STRINGS.ELEMENTS.CUPRITE.DESC
 msgctxt "STRINGS.ELEMENTS.CUPRITE.DESC"
 msgid "(Cu20) A conductive <style=\"RawMetal\">Metal</style>.\n\nCopper ore is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "（Cu20）一种导电<style=\"RawMetal\">金属</style>。\n\n铜矿石适合应用在<style=\"power\">电力</style>系统的建造中。"
 
 #. STRINGS.ELEMENTS.CUPRITE.NAME
 msgctxt "STRINGS.ELEMENTS.CUPRITE.NAME"
 msgid "Copper Ore"
-msgstr ""
+msgstr "铜矿石"
 
 #. STRINGS.ELEMENTS.DIAMOND.DESC
 msgctxt "STRINGS.ELEMENTS.DIAMOND.DESC"
 msgid "(C) Industrial-grade, high density carbon.\n\nVery difficult to excavate."
-msgstr ""
+msgstr "（C）工业级的高密度碳。\n\n挖掘起来十分困难。"
 
 #. STRINGS.ELEMENTS.DIAMOND.NAME
 msgctxt "STRINGS.ELEMENTS.DIAMOND.NAME"
 msgid "Diamond"
-msgstr ""
+msgstr "金刚石"
 
 #. STRINGS.ELEMENTS.DIRT.DESC
 msgctxt "STRINGS.ELEMENTS.DIRT.DESC"
 msgid "A soft, nutrient-rich substance capable of supporting life.\n\nNecessary in some forms of <style=\"food\">Food</style> production."
-msgstr ""
+msgstr "一种营养丰富到能支持生命的泥土。\n\n在某些<style=\"food\">食物</style>生产中是不可或缺的资源。"
 
 #. STRINGS.ELEMENTS.DIRT.NAME
 msgctxt "STRINGS.ELEMENTS.DIRT.NAME"
 msgid "Dirt"
-msgstr ""
+msgstr "泥土"
 
 #. STRINGS.ELEMENTS.DIRTYICE.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.DESC"
 msgid "Toxic water frozen into a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "有毒的水的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
 msgid "Contaminated Ice"
-msgstr ""
+msgstr "被污染的冰"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.DESC"
 msgid "<style=\"disease\">Disease</style> infested <style=\"liquid\">Water</style>, not fit for consumption."
-msgstr ""
+msgstr "被<style=\"disease\">疾病</style>污染了的<style=\"liquid\">净水</style>，不适合使用。"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
 msgid "Contaminated Water"
-msgstr ""
+msgstr "被污染的水"
 
 #. STRINGS.ELEMENTS.ELECTRUM.DESC
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.DESC"
 msgid "A conductive <style=\"RawMetal\">Metal</style> alloy composed of gold and silver.\n\nElectrum is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "一种金和银组成的导电<style=\"RawMetal\">金属</style>，\n\n金银合金适合应用在<style=\"power\">电力</style>系统的建造中。"
 
 #. STRINGS.ELEMENTS.ELECTRUM.NAME
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.NAME"
 msgid "Electrum"
-msgstr ""
+msgstr "金银合金"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCGAS
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCGAS"
 msgid "Resource Type: {0}\nCondensation point: {1}"
-msgstr ""
+msgstr "资源类型：{0}\n凝点：{1}"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCLIQUID
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCLIQUID"
 msgid "Resource Type: {0}\nFreezing point: {1}\nEvaporation point: {2}"
-msgstr ""
+msgstr "资源类型：{0}\n冰点：{1}\n蒸发点：{2}"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCSOLID
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCSOLID"
 msgid "Resource Type: {0}\nMelting point: {1}\nHardness: {2}"
-msgstr ""
+msgstr "资源类型：{0}\n熔点：{1}\n凝点：{2}"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCVACUUM
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCVACUUM"
 msgid "Resource Type: {0}"
-msgstr ""
+msgstr "资源类型：{0}"
 
 #. STRINGS.ELEMENTS.ELEMENTPROPERTIES
 msgctxt "STRINGS.ELEMENTS.ELEMENTPROPERTIES"
 msgid "Properties: {0}"
-msgstr ""
+msgstr "属性：{0}"
 
 #. STRINGS.ELEMENTS.FERTILIZER.DESC
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.DESC"
 msgid "A processed mixture of biological nutrients.\n\nFertilizer aids in the growth of some <style=\"plant\">Plants</style>."
-msgstr ""
+msgstr "一种经过加工的生物营养物质混合物。\n\n化肥能够帮助<style=\"plant\">植物</style>生长。"
 
 #. STRINGS.ELEMENTS.FERTILIZER.NAME
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
 msgid "Fertilizer"
-msgstr ""
+msgstr "化肥"
 
 #. STRINGS.ELEMENTS.FOOLSGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.DESC"
 msgid "(FeS2) A conductive <style=\"RawMetal\">Metal</style>.\n\nPyrite, also known as \"Fool's Gold\", is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "（FeS2）一种导电<style=\"RawMetal\">金属</style>。\n\n黄铁矿也被成为“傻子的黄金”，适合应用在<style=\"power\">电力</style>系统的建造中。"
 
 #. STRINGS.ELEMENTS.FOOLSGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.NAME"
 msgid "Pyrite"
-msgstr ""
+msgstr "黄铁矿"
 
 #. STRINGS.ELEMENTS.GOLD.DESC
 msgctxt "STRINGS.ELEMENTS.GOLD.DESC"
 msgid "(Au) A conductive precious <style=\"RawMetal\">Metal</style>.\n\nGold is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "（Au）一种珍贵的导电<style=\"RawMetal\">金属</style>。\n\n金适合应用在<style=\"power\">电力</style>系统的建造中。"
 
 #. STRINGS.ELEMENTS.GOLD.NAME
 msgctxt "STRINGS.ELEMENTS.GOLD.NAME"
 msgid "Gold"
-msgstr ""
+msgstr "金"
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.DESC"
 msgid "A conductive amalgam of gold and mercury.\n\nGold Amalgam is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "一种金和汞组成的导电合金。\n\n金汞合金适合应用在<style=\"power\">电力</style>系统的建造中。"
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.NAME"
 msgid "Gold Amalgam"
-msgstr ""
+msgstr "金汞合金"
 
 #. STRINGS.ELEMENTS.GOLDGAS.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.DESC"
 msgid "(Au) A conductive precious <style=\"RawMetal\">Metal</style>, heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "（Au）一种珍贵的导电<style=\"RawMetal\">金属</style>的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.GOLDGAS.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.NAME"
 msgid "Gold"
-msgstr ""
+msgstr "金气"
 
 #. STRINGS.ELEMENTS.GRANITE.DESC
 msgctxt "STRINGS.ELEMENTS.GRANITE.DESC"
 msgid "A dense composite of <style=\"RawMineral\">Igneous Rock</style>.\n\nGranite is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr ""
+msgstr "一种<style=\"RawMineral\">火成岩</style>致密复合体。\n\n花岗岩是一种非常实用的<style=\"RawMineral\">建造材料</style>。"
 
 #. STRINGS.ELEMENTS.GRANITE.NAME
 msgctxt "STRINGS.ELEMENTS.GRANITE.NAME"
 msgid "Granite"
-msgstr ""
+msgstr "花岗岩"
 
 #. STRINGS.ELEMENTS.HARDNESS.FIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.FIRM"
 msgid "{0} (Firm)"
-msgstr ""
+msgstr "{0}（坚硬）"
 
 #. STRINGS.ELEMENTS.HARDNESS.IMPENETRABLE
 msgctxt "STRINGS.ELEMENTS.HARDNESS.IMPENETRABLE"
 msgid "{0} (Impenetrable)"
-msgstr ""
+msgstr "{0}（坚不可摧）"
 
 #. STRINGS.ELEMENTS.HARDNESS.NA
 msgctxt "STRINGS.ELEMENTS.HARDNESS.NA"
@@ -8174,502 +8175,502 @@ msgstr ""
 #. STRINGS.ELEMENTS.HARDNESS.NEARLYIMPENETRABLE
 msgctxt "STRINGS.ELEMENTS.HARDNESS.NEARLYIMPENETRABLE"
 msgid "{0} (Nearly Impenetrable)"
-msgstr ""
+msgstr "{0}（几乎坚不可摧）"
 
 #. STRINGS.ELEMENTS.HARDNESS.SOFT
 msgctxt "STRINGS.ELEMENTS.HARDNESS.SOFT"
 msgid "{0} (Soft)"
-msgstr ""
+msgstr "{0}（柔软）"
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYFIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYFIRM"
 msgid "{0} (Very Firm)"
-msgstr ""
+msgstr "{0}（非常坚硬）"
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYSOFT
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYSOFT"
 msgid "{0} (Very Soft)"
-msgstr ""
+msgstr "{0}（非常柔软）"
 
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
 msgid "(He) An atomically lightweight, chemical <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "（He）一种很轻的化学元素的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.HELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.HELIUM.NAME"
 msgid "Helium"
-msgstr ""
+msgstr "氦气"
 
 #. STRINGS.ELEMENTS.HYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.DESC"
 msgid "(H) The universe's most common and atomically light element in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "（H）这个宇宙中最常见，最轻的化学元素的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr ""
+msgstr "氢气"
 
 #. STRINGS.ELEMENTS.ICE.DESC
 msgctxt "STRINGS.ELEMENTS.ICE.DESC"
 msgid "(H20) Clean water frozen into a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "（H20）净水的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.ICE.NAME
 msgctxt "STRINGS.ELEMENTS.ICE.NAME"
 msgid "Ice"
-msgstr ""
+msgstr "冰"
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.DESC
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.DESC"
 msgid "A composite of solidified volcanic rock.\n\nIgneous Rock is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr ""
+msgstr "一种火山岩浆凝固而成的复合体。\n\n火成岩是一种非常实用的<style=\"RawMineral\">建造材料</style>。"
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.NAME
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.NAME"
 msgid "Igneous Rock"
-msgstr ""
+msgstr "火成岩"
 
 #. STRINGS.ELEMENTS.IRON.DESC
 msgctxt "STRINGS.ELEMENTS.IRON.DESC"
 msgid "(Fe) A common industrial <style=\"RawMetal\">Metal</style>."
-msgstr ""
+msgstr "（Fe）一种常见的工业<style=\"RawMetal\">金属</style>。"
 
 #. STRINGS.ELEMENTS.IRON.NAME
 msgctxt "STRINGS.ELEMENTS.IRON.NAME"
 msgid "Iron"
-msgstr ""
+msgstr "铁"
 
 #. STRINGS.ELEMENTS.IRONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.IRONGAS.DESC"
 msgid "(Fe) A common industrial <style=\"RawMetal\">Metal</style>, heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "（Fe）一种常见的工业<style=\"RawMetal\">金属</style>的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.IRONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.IRONGAS.NAME"
 msgid "Iron"
-msgstr ""
+msgstr "铁气"
 
 #. STRINGS.ELEMENTS.IRONINGOT.DESC
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.DESC"
 msgid "Refined <style=\"RawMetal\">Iron Ore</style>."
-msgstr ""
+msgstr "精炼过的<style=\"RawMetal\">铁矿石</style>"
 
 #. STRINGS.ELEMENTS.IRONINGOT.NAME
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.NAME"
 msgid "Iron"
-msgstr ""
+msgstr "铁锭"
 
 #. STRINGS.ELEMENTS.IRONORE.DESC
 msgctxt "STRINGS.ELEMENTS.IRONORE.DESC"
 msgid "(Fe) A soft <style=\"RawMetal\">Metal</style> that can be strengthened for industrial purposes via smelting.\n\nIron Ore is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "（Fe）一种经过精炼可良好应用在工业用途的柔软<style=\"RawMetal\">金属</style>。\n\n铁矿石适合应用在<style=\"power\">电力</style>系统的建造中。"
 
 #. STRINGS.ELEMENTS.IRONORE.NAME
 msgctxt "STRINGS.ELEMENTS.IRONORE.NAME"
 msgid "Iron Ore"
-msgstr ""
+msgstr "铁矿石"
 
 #. STRINGS.ELEMENTS.KATAIRITE.DESC
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.DESC"
 msgid "(Ab) A resilient, crystalline element."
-msgstr ""
+msgstr "（Ab）一种有弹性的晶体元素。"
 
 #. STRINGS.ELEMENTS.KATAIRITE.NAME
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.NAME"
 msgid "Abyssalite"
-msgstr ""
+msgstr "深渊石"
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic chemical compound in a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "（CO2）一种有毒化合物的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "液态二氧化碳"
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
 msgid "(He) An atomically lightweight chemical element cooled into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "（He）一种很轻的化学元素的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.NAME"
 msgid "Helium"
-msgstr ""
+msgstr "液态氦"
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC"
 msgid "(H) A chemical <style=\"liquid\">Liquid</style>.\n\nFreezes most substances that come into contact with it."
-msgstr ""
+msgstr "（H）一种化学物质的<style=\"liquid\">液体</style>状态。\n\n几乎能够冻结所有与之接触的物质。"
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr ""
+msgstr "液态氢"
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC"
 msgid "(O2) A breathable chemical in a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "（O2）一种可呼吸化学物质的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "液态氧"
 
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.DESC"
 msgid "(P) A chemical element in a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "（P）一种<style=\"liquid\">液体</style>状态化学元素。"
 
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME"
 msgid "Phosphorus"
-msgstr ""
+msgstr "液态磷"
 
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.DESC"
 msgid "(C3H8) An alkane in a <style=\"liquid\">Liquid</style> state.\n\nPropane is useful in <style=\"power\">Power</style> production."
-msgstr ""
+msgstr "（C3H8）一种烷烃的<style=\"liquid\">液体</style>状态。\n\n液态丙烷可良好应用在<style=\"power\">电力</style>生产中。"
 
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.NAME"
 msgid "Propane"
-msgstr ""
+msgstr "液态丙烷"
 
 #. STRINGS.ELEMENTS.MAGMA.DESC
 msgctxt "STRINGS.ELEMENTS.MAGMA.DESC"
 msgid "A composite of <style=\"RawMineral\">Igneous Rock</style> heated into a molten, <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "一种<style=\"RawMineral\">火成岩</style>熔化而成的<style=\"liquid\">液体</style>。"
 
 #. STRINGS.ELEMENTS.MAGMA.NAME
 msgctxt "STRINGS.ELEMENTS.MAGMA.NAME"
 msgid "Magma"
-msgstr ""
+msgstr "岩浆"
 
 #. STRINGS.ELEMENTS.MERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURY.DESC"
 msgid "(Hg) A toxic, <style=\"RawMetal\">Metallic</style> <style=\"liquid\">Liquid</style>."
-msgstr ""
+msgstr "（Hg）一种有毒的<style=\"RawMetal\">金属性</style><style=\"liquid\">液体</style>。"
 
 #. STRINGS.ELEMENTS.MERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURY.NAME"
 msgid "Mercury"
-msgstr ""
+msgstr "汞"
 
 #. STRINGS.ELEMENTS.MERCURYGAS.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.DESC"
 msgid "(Hg) A toxic <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "（Hg）一种有毒<style=\"RawMetal\">金属</style>的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.MERCURYGAS.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.NAME"
 msgid "Mercury"
-msgstr ""
+msgstr "汞气"
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.DESC"
 msgid "(C) An abundant, versatile element heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "（C）一种含量丰富且功能众多的元素的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.NAME"
 msgid "Carbon"
-msgstr ""
+msgstr "液态碳"
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "（Cu）一种导电<style=\"RawMetal\">金属</style>的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.NAME"
 msgid "Copper"
-msgstr ""
+msgstr "液态铜"
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.DESC"
 msgid "(Au) A conductive precious <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "（Au）一种珍贵的导电<style=\"RawMetal\">金属</style>的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.NAME"
 msgid "Gold"
-msgstr ""
+msgstr "液态金"
 
 #. STRINGS.ELEMENTS.MOLTENIRON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.DESC"
 msgid "(Fe) A common industrial <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "（Fe）一种常见的工业<style=\"RawMetal\">金属</style>的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENIRON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.NAME"
 msgid "Iron"
-msgstr ""
+msgstr "液态铁"
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.DESC"
 msgid "A <style=\"RawMetal\">Metal</style> alloy of iron and carbon, heated into a hazardous <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "一种由铁和碳组成的<style=\"RawMetal\">金属</style>的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.NAME"
 msgid "Steel"
-msgstr ""
+msgstr "液态钢"
 
 #. STRINGS.ELEMENTS.OBSIDIAN.DESC
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.DESC"
 msgid "A brittle composite of volcanic <style=\"solid\">Glass</style>."
-msgstr ""
+msgstr "一种易碎的火山<style=\"solid\">晶体</style>。"
 
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
 msgid "Obsidian"
-msgstr ""
+msgstr "黑曜石"
 
 #. STRINGS.ELEMENTS.OXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.OXYGEN.DESC"
 msgid "(O2) An atomically lightweight and breathable <style=\"gas\">Gas</style>, necessary for sustaining life.\n\n<style=\"oxygen\">Oxygen</style> tends to rise above other gases."
-msgstr ""
+msgstr "（O2）一种可呼吸的化学<style=\"gas\">气体</style>，维持生存的必需品。\n\n<style=\"oxygen\">氧气</style>一般情况下会浮在其他气体上方。"
 
 #. STRINGS.ELEMENTS.OXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "氧气"
 
 #. STRINGS.ELEMENTS.OXYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.OXYROCK.DESC"
 msgid "(Ir3O2) A chemical compound that slowly emits breathable <style=\"oxygen\">Oxygen</style>.\n\nIncreases oxygen emissions when excavated, but loses mass and depletes more rapidly."
-msgstr ""
+msgstr "（Ir3O2）一种会缓慢释放出<style=\"oxygen\">氧气</style>的化合物。\n\n与空气的接触面积越大，释放氧气、质量损失越快。"
 
 #. STRINGS.ELEMENTS.OXYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.OXYROCK.NAME"
 msgid "Oxylite"
-msgstr ""
+msgstr "氧石"
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.DESC"
 msgid "(PO3-4) Nodules of sedimentary rock containing high concentrations of phosphate."
-msgstr ""
+msgstr "（PO3-4）一种含有高浓度磷酸盐的沉积岩结节。"
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.NAME"
 msgid "Phosphate Nodules"
-msgstr ""
+msgstr "磷酸盐结节"
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.DESC"
 msgid "A composite of sedimentary rock, saturated with phosphate."
-msgstr ""
+msgstr "一种充满了磷酸盐的沉积岩复合体。"
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.NAME"
 msgid "Phosphorite"
-msgstr ""
+msgstr "磷矿"
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.DESC"
 msgid "(P) A chemical element in its <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "（P）一种<style=\"solid\">固体</style>状态化学元素。"
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.NAME"
 msgid "Phosphorus"
-msgstr ""
+msgstr "磷"
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC"
 msgid "(P) A chemical element in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "（P）一种<style=\"gas\">液体</style>状态化学元素。"
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME"
 msgid "Phosphorus"
-msgstr ""
+msgstr "磷气"
 
 #. STRINGS.ELEMENTS.PONDSCUM.DESC
 msgctxt "STRINGS.ELEMENTS.PONDSCUM.DESC"
 msgid "A soft, naturally occurring composite of biological nutrients.\n\nPondscum may be processed into <style=\"solid\">Fertilizer</style> and aids in the growth of some <style=\"plant\">Plants</style>."
-msgstr ""
+msgstr "一种天然生成的柔软生物养料。\n\n绿藻或许可以加工成<style=\"solid\">化肥</style>来帮助<style=\"plant\">植物</style>生长。"
 
 #. STRINGS.ELEMENTS.PONDSCUM.NAME
 msgctxt "STRINGS.ELEMENTS.PONDSCUM.NAME"
 msgid "Pondscum"
-msgstr ""
+msgstr "绿藻"
 
 #. STRINGS.ELEMENTS.PROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.PROPANE.DESC"
 msgid "(C3H8) A natural alkane <style=\"gas\">Gas</style>.\n\nPropane is useful in <style=\"power\">Power</style> production."
-msgstr ""
+msgstr "（C3H8）一种天然烷烃<style=\"gas\">气体</style>。\n\n丙烷可良好应用在<style=\"power\">电力</style>生产中。"
 
 #. STRINGS.ELEMENTS.PROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
 msgid "Propane"
-msgstr ""
+msgstr "丙烷"
 
 #. STRINGS.ELEMENTS.RADIUM.DESC
 msgctxt "STRINGS.ELEMENTS.RADIUM.DESC"
 msgid "(Ra) A <style=\"light\">Light</style> emitting radioactive substance.\n\nUseful as a <style=\"power\">Power</style> source."
-msgstr ""
+msgstr "（Ra）一种释放放射性物质的<style=\"light\">光源</style>。\n\n镭是一种非常实用的<style=\"power\">电力</style>资源。"
 
 #. STRINGS.ELEMENTS.RADIUM.NAME
 msgctxt "STRINGS.ELEMENTS.RADIUM.NAME"
 msgid "Radium"
-msgstr ""
+msgstr "镭"
 
 #. STRINGS.ELEMENTS.ROCKGAS.DESC
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.DESC"
 msgid "A superheated rock <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "一种过热的岩石<style=\"gas\">气体</style>。"
 
 #. STRINGS.ELEMENTS.ROCKGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.NAME"
 msgid "Rock Gas"
-msgstr ""
+msgstr "岩气"
 
 #. STRINGS.ELEMENTS.SAND.DESC
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
 msgid "A composite of granular rock.\n\nSand is useful as a <style=\"misc\">filtration medium</style>."
-msgstr ""
+msgstr "一种颗粒状岩石。\n\n沙子是一种非常实用的<style=\"misc\">过滤介质</style>。"
 
 #. STRINGS.ELEMENTS.SAND.NAME
 msgctxt "STRINGS.ELEMENTS.SAND.NAME"
 msgid "Sand"
-msgstr ""
+msgstr "沙子"
 
 #. STRINGS.ELEMENTS.SANDSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.DESC"
 msgid "A composite of relatively soft sedimentary rock.\n\nSandstone is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr ""
+msgstr "一种相对柔软的沉积岩。\n\n砂岩是一种非常实用的<style=\"RawMineral\">建造材料</style>。"
 
 #. STRINGS.ELEMENTS.SANDSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.NAME"
 msgid "Sandstone"
-msgstr ""
+msgstr "砂岩"
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC"
 msgid "A hardened composite of sediment layers.\n\nSedimentary Rock is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr ""
+msgstr "一种沉积层硬化而成的岩石。\n\n沉积岩是一种非常实用的<style=\"RawMineral\">建造材料</style>。"
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME"
 msgid "Sedimentary Rock"
-msgstr ""
+msgstr "沉积岩"
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.DESC
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.DESC"
 msgid "A thick biomixture of algae, fungi, and mucopolysaccarides.\n\n<style=\"solid\">Algae</style> is useful for <style=\"oxygen\">Oxygen</style> production when isolated."
-msgstr ""
+msgstr "一种由海藻、真菌和黏液多糖组成的稠密混合物。\n\n黏液中分离出来的<style=\"solid\">海藻</style>可良好应用在<style=\"oxygen\">氧气</style>生产中。"
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.NAME
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.NAME"
 msgid "Slime"
-msgstr ""
+msgstr "黏液"
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic compound in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "（CO2）一种有毒化合物的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "固态二氧化碳"
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
 msgid "(Cl) A toxic chemical element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "（Cl）一种有毒的化学元素的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "固态氯"
 
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC"
 msgid "(H) The universe's most common element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "（H）这个宇宙中最常见的化学元素的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr ""
+msgstr "固态氢"
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.DESC"
 msgid "(Hg) A toxic <style=\"RawMetal\">Metal</style> in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "（Hg）一种有毒<style=\"RawMetal\">金属</style>的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.NAME"
 msgid "Mercury"
-msgstr ""
+msgstr "固态汞"
 
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.DESC"
 msgid "(O2) A breathable element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "（O2）一种可呼吸化学元素的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "固态氧气"
 
 #. STRINGS.ELEMENTS.SOLIDPROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.DESC"
 msgid "(C3H8) A natural gas in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "（C3H8）一种天然气体的<style=\"solid\">固体</style>状态。"
 
 #. STRINGS.ELEMENTS.SOLIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.NAME"
 msgid "Propane"
-msgstr ""
+msgstr "固态丙烷"
 
 #. STRINGS.ELEMENTS.STATEGAS
 msgctxt "STRINGS.ELEMENTS.STATEGAS"
 msgid "Gas"
-msgstr ""
+msgstr "气体"
 
 #. STRINGS.ELEMENTS.STATELIQUID
 msgctxt "STRINGS.ELEMENTS.STATELIQUID"
 msgid "Liquid"
-msgstr ""
+msgstr "液体"
 
 #. STRINGS.ELEMENTS.STATESOLID
 msgctxt "STRINGS.ELEMENTS.STATESOLID"
 msgid "Solid"
-msgstr ""
+msgstr "固体"
 
 #. STRINGS.ELEMENTS.STATEVACUUM
 msgctxt "STRINGS.ELEMENTS.STATEVACUUM"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #. STRINGS.ELEMENTS.STEAM.DESC
 msgctxt "STRINGS.ELEMENTS.STEAM.DESC"
 msgid "(H20) Water heated into a scalding <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "（H20）由水加热而成的滚烫<style=\"gas\">气体</style>。"
 
 #. STRINGS.ELEMENTS.STEAM.NAME
 msgctxt "STRINGS.ELEMENTS.STEAM.NAME"
 msgid "Steam"
-msgstr ""
+msgstr "蒸汽"
 
 #. STRINGS.ELEMENTS.STEEL.DESC
 msgctxt "STRINGS.ELEMENTS.STEEL.DESC"
 msgid "A <style=\"RefinedMetal\">Metal Alloy</style> composed of iron and carbon."
-msgstr ""
+msgstr "一种由铁和碳组成的<style=\"RefinedMetal\">金属合金</style>。"
 
 #. STRINGS.ELEMENTS.STEEL.NAME
 msgctxt "STRINGS.ELEMENTS.STEEL.NAME"
 msgid "Steel"
-msgstr ""
+msgstr "钢"
 
 #. STRINGS.ELEMENTS.STEELDOOR.DESC
 msgctxt "STRINGS.ELEMENTS.STEELDOOR.DESC"
@@ -8684,102 +8685,102 @@ msgstr ""
 #. STRINGS.ELEMENTS.STEELGAS.DESC
 msgctxt "STRINGS.ELEMENTS.STEELGAS.DESC"
 msgid "A superheated <style=\"RawMetal\">Metal</style> <style=\"gas\">Gas</style> composed of iron and carbon."
-msgstr ""
+msgstr "一种由铁和碳组成的<style=\"RawMetal\">金属</style>过热而产生<style=\"gas\">气体</style>。"
 
 #. STRINGS.ELEMENTS.STEELGAS.NAME
 msgctxt "STRINGS.ELEMENTS.STEELGAS.NAME"
 msgid "Steel"
-msgstr ""
+msgstr "钢气"
 
 #. STRINGS.ELEMENTS.TOXICSAND.DESC
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.DESC"
 msgid "A <style=\"disease\">Disease</style> infested amalgam of toxic waste.\n\nEmits <style=\"disease\">Contaminated Oxygen</style> over time."
-msgstr ""
+msgstr "一种被传染了<style=\"disease\">疾病</style>的有毒废料混合物。\n\n随着时间流逝而排放出<style=\"disease\">被污染的氧气</style>。"
 
 #. STRINGS.ELEMENTS.TOXICSAND.NAME
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.NAME"
 msgid "Contaminated Dirt"
-msgstr ""
+msgstr "被污染的泥土"
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.DESC
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.DESC"
 msgid "(Nt) A mysterious and extremely resilient <style=\"RawMetal\">Metallic</style> element.\n\nCannot be excavated by any Duplicant mining tool."
-msgstr ""
+msgstr "（Nt）一种具有超强弹性的神秘<style=\"RawMetal\">金属性</style>元素。\n\n任何复制人的开采工具都无法挖掘。"
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.NAME
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.NAME"
 msgid "Neutronium"
-msgstr ""
+msgstr "零号元素"
 
 #. STRINGS.ELEMENTS.VACUUM.DESC
 msgctxt "STRINGS.ELEMENTS.VACUUM.DESC"
 msgid "A space devoid of all matter."
-msgstr ""
+msgstr "一片没有任何物质的空间。"
 
 #. STRINGS.ELEMENTS.VACUUM.NAME
 msgctxt "STRINGS.ELEMENTS.VACUUM.NAME"
 msgid "Vacuum"
-msgstr ""
+msgstr "真空"
 
 #. STRINGS.ELEMENTS.VOID.DESC
 msgctxt "STRINGS.ELEMENTS.VOID.DESC"
 msgid "Cold, infinite nothingness."
-msgstr ""
+msgstr "冰冷的、无边无际的虚无。"
 
 #. STRINGS.ELEMENTS.VOID.NAME
 msgctxt "STRINGS.ELEMENTS.VOID.NAME"
 msgid "The Void"
-msgstr ""
+msgstr "虚无"
 
 #. STRINGS.ELEMENTS.WATER.DESC
 msgctxt "STRINGS.ELEMENTS.WATER.DESC"
 msgid "(H20) Clean <style=\"liquid\">Water</style>, suitable for consumption."
-msgstr ""
+msgstr "（H20）可以使用的清澈<style=\"liquid\">净水</style>。"
 
 #. STRINGS.ELEMENTS.WATER.NAME
 msgctxt "STRINGS.ELEMENTS.WATER.NAME"
 msgid "Water"
-msgstr ""
+msgstr "净水"
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.DESC"
 msgid "Because breathing underwater is better than... not."
-msgstr ""
+msgstr "能在水下呼吸就不错了，要什么自行车？"
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.EFFECT"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in underwater environments.\n\nMust be refilled with oxygen at an Exosuit Recharger when depleted."
-msgstr ""
+msgstr "在水下环境中为你的复制人提供<style=\"oxygen\">氧气</style>。\n\n当宇航服氧气耗尽时必须进行充氧。"
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.NAME"
 msgid "Aqua Suit"
-msgstr ""
+msgstr "潜水服"
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.RECIPEDESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in underwater environments."
-msgstr ""
+msgstr "在水下环境中为你的复制人提供<style=\"oxygen\">氧气</style>。"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.DESC"
 msgid "Make sure your Duplicants can breathe easy, anytime, anywhere."
-msgstr ""
+msgstr "确保你的复制人在任何时间，任何地点都能畅快呼吸。"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.EFFECT"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments.\n\nMust be refilled with oxygen at an Exosuit Recharger when depleted."
-msgstr ""
+msgstr "在有毒或无法呼吸的环境中为你的复制人提供<style=\"oxygen\">氧气</style>。\n\n当宇航服氧气耗尽时必须进行充氧。"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.NAME"
 msgid "Atmo Suit"
-msgstr ""
+msgstr "氧气服"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.RECIPEDESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments."
-msgstr ""
+msgstr "在有毒或无法呼吸的环境中为你的复制人提供<style=\"oxygen\">氧气</style>。"
 
 #. STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.DESC"
@@ -8794,7 +8795,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.NAME"
 msgid "Prospectolator"
-msgstr ""
+msgstr "观光电梯？？？？？"
 
 #. STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.RECIPEDESC"
@@ -8814,7 +8815,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.NAME"
 msgid "Quarrying Gun"
-msgstr ""
+msgstr "采石器"
 
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.RECIPEDESC"
@@ -8824,22 +8825,22 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.DESC"
 msgid "Keep your Duplicants cool in case things heat up."
-msgstr ""
+msgstr "让你的复制人在炎热的环境中保持凉爽。"
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.EFFECT"
 msgid "Provides insulation in regions with extreme <style=\"heat\">Temperatures</style>.\n\nMust be powered at an Exosuit Recharger when depleted."
-msgstr ""
+msgstr "在过高的<style=\"heat\">温度</style>下提供保护。\n\n当宇航服电量耗尽时必须进行充电。"
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.NAME"
 msgid "Thermo Suit"
-msgstr ""
+msgstr "隔热服"
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.RECIPEDESC"
 msgid "Provides insulation in regions with extreme <style=\"heat\">Temperatures</style>."
-msgstr ""
+msgstr "在过高的<style=\"heat\">温度</style>下提供保护。"
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC"
