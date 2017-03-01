@@ -30,7 +30,6 @@ msgstr "需要翻动"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
 msgstr "堆肥需要周期性地被翻动来制造 <style=\"solid\">肥料</style>"
-"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
@@ -2639,8 +2638,7 @@ msgstr "沼泽百合种子"
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC"
-msgid "An exceptionally aggressive, insectoid species.\n\n"
-"It has three specialized organs which discharge electrical shocks to stun prey."
+msgid "An exceptionally aggressive, insectoid species.\n\nIt has three specialized organs which discharge electrical shocks to stun prey."
 msgstr "一种极有攻击性的虫型生物。\n\n它有三个专门的器官放电击昏猎物。"
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.NAME
