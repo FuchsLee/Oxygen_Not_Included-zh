@@ -30,7 +30,6 @@ msgstr "需要翻动"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
 msgstr "堆肥需要周期性地被翻动来制造 <style=\"solid\">肥料</style>"
-"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
@@ -7860,7 +7859,7 @@ msgstr "海藻"
 #. STRINGS.ELEMENTS.BLEACHSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.DESC"
 msgid "An unstable compound that emits toxic <style=\"gas\">Chlorine Gas</style>.\n\nBleach Stone is useful in <style=\"hygiene\">Hygienic</style> processes."
-msgstr "一种会释放出<style=\"gas\">氯气</style>的不稳定化合物。\n\n漂白石可应用在<style=\"hygiene\">卫生</style>处理中。"
+msgstr "一种会释放出<style=\"gas\">氯气</style>的不稳定化合物。\n\n漂白石可良好应用在<style=\"hygiene\">卫生</style>处理中。"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
@@ -7885,7 +7884,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBON.DESC
 msgctxt "STRINGS.ELEMENTS.CARBON.DESC"
 msgid "A combustible fossil fuel composed of carbon.\n\nCoal is useful in <style=\"power\">Power</style> production."
-msgstr "一种由碳组成的可燃矿物燃料。\n\n煤炭可应用在<style=\"power\">电力</style>生产中。"
+msgstr "一种由碳组成的可燃矿物燃料。\n\n煤炭可良好应用在<style=\"power\">电力</style>生产中。"
 
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
@@ -7895,7 +7894,7 @@ msgstr "煤炭"
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic, atomically heavy chemical compound in a <style=\"gas\">Gaseous</style> state.\n\nCarbon Dioxide tends to sink below other gases."
-msgstr "(CO2)一种有毒的高密度的<style=\"gas\">气体</style>状态分子化合物。\n\n二氧化碳一般情况下会沉在其他气体下方。"
+msgstr "(CO2)一种有毒的高密度分子化合物的<style=\"gas\">气体</style>状态。\n\n二氧化碳一般情况下会沉在其他气体下方。"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
@@ -7935,7 +7934,7 @@ msgstr "氯"
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
 msgid "(Cl) An extremely toxic chemical in a <style=\"gas\">Gaseous</style> state."
-msgstr "(Cl)一种剧毒化学制品的<style=\"gas\">气体</style>状态。"
+msgstr "(Cl)一种剧毒化学品的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
@@ -8195,7 +8194,7 @@ msgstr "{0}（非常柔软）"
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
 msgid "(He) An atomically lightweight, chemical <style=\"gas\">Gas</style>."
-msgstr "(He)一种很轻的单原子化学<style=\"gas\">气体</style>。"
+msgstr "(He)一种很轻的单原子化学元素的<style=\"gas\">气体</style>状态。"
 
 #. STRINGS.ELEMENTS.HELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.HELIUM.NAME"
@@ -8225,7 +8224,7 @@ msgstr "冰"
 #. STRINGS.ELEMENTS.IGNEOUSROCK.DESC
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.DESC"
 msgid "A composite of solidified volcanic rock.\n\nIgneous Rock is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr "一种火山岩凝固而成的复合体。\n\n火成岩是一种很实用的<style=\"RawMineral\">建造材料</style>。"
+msgstr "一种火山岩凝固而成的复合体。\n\n火成岩是一种非常实用的<style=\"RawMineral\">建造材料</style>。"
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.NAME
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.NAME"
@@ -8285,82 +8284,82 @@ msgstr ""
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic chemical compound in a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(CO2)一种有毒的高密度分子化合物的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "液态二氧化碳"
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
 msgid "(He) An atomically lightweight chemical element cooled into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(He)一种很轻的单原子化学元素的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.NAME"
 msgid "Helium"
-msgstr ""
+msgstr "液态氦"
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC"
 msgid "(H) A chemical <style=\"liquid\">Liquid</style>.\n\nFreezes most substances that come into contact with it."
-msgstr ""
+msgstr "(H)一种<style=\"liquid\">液体</style>状态化学品。\n\n几乎能够冻结所有与之接触的物质。"
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr ""
+msgstr "液态氢"
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC"
 msgid "(O2) A breathable chemical in a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(O2)一种可呼吸化学品的<style=\"liquid\">液体</style>状态。"
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "液态氧"
 
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.DESC"
 msgid "(P) A chemical element in a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(P)一种<style=\"liquid\">液体</style>状态化学元素。"
 
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME"
 msgid "Phosphorus"
-msgstr ""
+msgstr "液态磷"
 
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.DESC"
 msgid "(C3H8) An alkane in a <style=\"liquid\">Liquid</style> state.\n\nPropane is useful in <style=\"power\">Power</style> production."
-msgstr ""
+msgstr "(C3H8)一种烷烃的<style=\"liquid\">液体</style>状态。\n\n液态丙烷可良好应用在<style=\"power\">电力</style>生产中。"
 
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.NAME"
 msgid "Propane"
-msgstr ""
+msgstr "液态丙烷"
 
 #. STRINGS.ELEMENTS.MAGMA.DESC
 msgctxt "STRINGS.ELEMENTS.MAGMA.DESC"
 msgid "A composite of <style=\"RawMineral\">Igneous Rock</style> heated into a molten, <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "一种<style=\"RawMineral\">火成岩</style>熔化而成的<style=\"liquid\">液体</style>。"
 
 #. STRINGS.ELEMENTS.MAGMA.NAME
 msgctxt "STRINGS.ELEMENTS.MAGMA.NAME"
 msgid "Magma"
-msgstr ""
+msgstr "岩浆"
 
 #. STRINGS.ELEMENTS.MERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURY.DESC"
 msgid "(Hg) A toxic, <style=\"RawMetal\">Metallic</style> <style=\"liquid\">Liquid</style>."
-msgstr ""
+msgstr "一种有毒的<style=\"RawMetal\">金属性</style><style=\"liquid\">液体</style>。"
 
 #. STRINGS.ELEMENTS.MERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURY.NAME"
 msgid "Mercury"
-msgstr ""
+msgstr "汞"
 
 #. STRINGS.ELEMENTS.MERCURYGAS.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.DESC"
